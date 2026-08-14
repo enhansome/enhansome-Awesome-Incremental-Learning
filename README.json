@@ -151,7 +151,7 @@
             "last_commit": "2026-04-07T20:14:25Z",
             "owner": "idanshen",
             "repo": "Self-Distillation",
-            "stars": 680
+            "stars": 681
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-05-13T03:56:12Z",
             "owner": "XSkill-Agent",
             "repo": "XSkill",
-            "stars": 250
+            "stars": 251
           }
         },
         {
@@ -198,20 +198,6 @@
         },
         {
           "node_type": "item",
-          "title": "IDER: IDempotent Experience Replay for Reliable Continual Learning (ICLR 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-30T08:39:08Z",
-            "owner": "YutingLi0606",
-            "repo": "Idempotent-Continual-Learning",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
           "title": "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (ICML 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -221,6 +207,20 @@
             "last_commit": "2026-06-15T07:15:49Z",
             "owner": "LAMDA-CL",
             "repo": "Prism",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IDER: IDempotent Experience Replay for Reliable Continual Learning (ICLR 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T08:39:08Z",
+            "owner": "YutingLi0606",
+            "repo": "Idempotent-Continual-Learning",
             "stars": 35
           }
         },
@@ -450,6 +450,20 @@
         },
         {
           "node_type": "item",
+          "title": "Consistency-Driven Calibration and Matching for Few-Shot Class Incremental Learning (ICLR 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-03T13:37:07Z",
+            "owner": "wire-wqz",
+            "repo": "ConCM",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data (ICLR 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -464,16 +478,16 @@
         },
         {
           "node_type": "item",
-          "title": "Consistency-Driven Calibration and Matching for Few-Shot Class Incremental Learning (ICLR 2026) [paper",
+          "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
           "description": "][code]",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-03-03T13:37:07Z",
-            "owner": "wire-wqz",
-            "repo": "ConCM",
-            "stars": 8
+            "last_commit": "2026-07-14T02:47:22Z",
+            "owner": "byzhaoAI",
+            "repo": "VILA",
+            "stars": 9
           }
         },
         {
@@ -501,20 +515,6 @@
             "last_commit": "2026-04-24T10:30:13Z",
             "owner": "liaoweiduo",
             "repo": "CompSLOT",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T02:47:22Z",
-            "owner": "byzhaoAI",
-            "repo": "VILA",
             "stars": 8
           }
         },
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3940
+            "stars": 3942
           }
         },
         {
@@ -1280,6 +1280,20 @@
         },
         {
           "node_type": "item",
+          "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-26T12:50:24Z",
+            "owner": "MaolinLuo",
+            "repo": "LADA",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
           "title": "CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning (CVPR 2025) [paper",
           "description": "][code]",
           "children": [],
@@ -1304,20 +1318,6 @@
             "owner": "huiyiwang01",
             "repo": "SEMA-CL",
             "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-26T12:50:24Z",
-            "owner": "MaolinLuo",
-            "repo": "LADA",
-            "stars": 39
           }
         },
         {
@@ -2316,6 +2316,20 @@
         },
         {
           "node_type": "item",
+          "title": "Continual Gradient Low-Rank Projection Fine-Tuning for LLMs (ACL 2025) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-29T13:32:25Z",
+            "owner": "Wcxwcxw",
+            "repo": "GORP",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
           "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
           "description": "][code]",
           "children": [],
@@ -2367,20 +2381,6 @@
             "last_commit": "2026-04-06T08:20:46Z",
             "owner": "iLearn-Lab",
             "repo": "NeurIPS25-P-M_CL",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continual Gradient Low-Rank Projection Fine-Tuning for LLMs (ACL 2025) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-29T13:32:25Z",
-            "owner": "Wcxwcxw",
-            "repo": "GORP",
             "stars": 6
           }
         },
@@ -2923,7 +2923,7 @@
             "last_commit": "2026-04-16T07:15:59Z",
             "owner": "zqiao11",
             "repo": "TSCIL",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -3880,6 +3880,20 @@
         },
         {
           "node_type": "item",
+          "title": "Persistence Homology Distillation for Semi-supervised Continual Learning (NeurIPS 2024) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-14T13:52:15Z",
+            "owner": "fanyan0411",
+            "repo": "PsHD",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Vector Quantization Prompting for Continual Learning (NeurIPS 2024) [paper",
           "description": "][code]",
           "children": [],
@@ -3946,20 +3960,6 @@
             "owner": "michalzajac-ml",
             "repo": "pec",
             "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Persistence Homology Distillation for Semi-supervised Continual Learning (NeurIPS 2024) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-14T13:52:15Z",
-            "owner": "fanyan0411",
-            "repo": "PsHD",
-            "stars": 10
           }
         },
         {
@@ -4543,7 +4543,7 @@
             "last_commit": "2024-08-17T02:12:05Z",
             "owner": "GengDavid",
             "repo": "SLCA",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -6076,7 +6076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T09:07:52.036Z",
+    "last_updated": "2026-08-14T09:03:26.447Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
