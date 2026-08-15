@@ -56,7 +56,7 @@
             "last_commit": "2025-12-23T05:11:36Z",
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 556
+            "stars": 557
           }
         },
         {
@@ -352,6 +352,20 @@
         },
         {
           "node_type": "item",
+          "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T04:53:21Z",
+            "owner": "LAMDA-CL",
+            "repo": "ICML2026-AREA",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
           "title": "MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (ICML 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -375,20 +389,6 @@
             "last_commit": "2026-03-01T02:16:44Z",
             "owner": "datake",
             "repo": "FAME",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-06T04:53:21Z",
-            "owner": "LAMDA-CL",
-            "repo": "ICML2026-AREA",
             "stars": 11
           }
         },
@@ -1149,7 +1149,7 @@
             "last_commit": "2025-12-26T07:59:43Z",
             "owner": "Feliciaxyao",
             "repo": "NavMorph",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -1420,6 +1420,20 @@
         },
         {
           "node_type": "item",
+          "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T02:19:42Z",
+            "owner": "Fhujinwu",
+            "repo": "CKA-RL",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Revisiting Generative Replay for Class Incremental Object Detection (CVPR 2025) [paper",
           "description": "][code]",
           "children": [],
@@ -1457,20 +1471,6 @@
             "last_commit": "2026-03-23T01:33:41Z",
             "owner": "MemEIC",
             "repo": "MemEIC",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-12-05T02:19:42Z",
-            "owner": "Fhujinwu",
-            "repo": "CKA-RL",
             "stars": 25
           }
         },
@@ -2797,7 +2797,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4460
           }
         },
         {
@@ -5569,7 +5569,7 @@
             "last_commit": "2020-08-11T08:31:04Z",
             "owner": "yulu0724",
             "repo": "SDC-IL",
-            "stars": 122
+            "stars": 121
           }
         },
         {
@@ -5937,7 +5937,7 @@
             "last_commit": "2020-05-23T17:05:50Z",
             "owner": "ariseff",
             "repo": "overcoming-catastrophic",
-            "stars": 306
+            "stars": 305
           }
         },
         {
@@ -6076,7 +6076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:03:26.447Z",
+    "last_updated": "2026-08-15T08:22:01.487Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
