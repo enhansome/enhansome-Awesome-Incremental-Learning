@@ -1107,7 +1107,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3942
+            "stars": 3943
           }
         },
         {
@@ -1504,20 +1504,6 @@
         },
         {
           "node_type": "item",
-          "title": "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models (CVPR 2025) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-29T13:03:01Z",
-            "owner": "Luo-Jiaming",
-            "repo": "GIFT_CL",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
           "description": "][code]",
           "children": [],
@@ -1541,6 +1527,20 @@
             "last_commit": "2025-08-08T03:24:21Z",
             "owner": "fwu11",
             "repo": "MACIL",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models (CVPR 2025) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-29T13:03:01Z",
+            "owner": "Luo-Jiaming",
+            "repo": "GIFT_CL",
             "stars": 24
           }
         },
@@ -2070,7 +2070,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-18T21:24:31Z",
+            "last_commit": "2026-08-15T21:23:01Z",
             "owner": "Christina200",
             "repo": "MoDE-official",
             "stars": 9
@@ -2797,7 +2797,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4460
+            "stars": 4461
           }
         },
         {
@@ -6076,7 +6076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:22:01.487Z",
+    "last_updated": "2026-08-16T08:23:16.458Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
