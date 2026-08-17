@@ -28,7 +28,7 @@
             "last_commit": "2026-01-29T04:38:49Z",
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2025-12-23T05:11:36Z",
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 557
+            "stars": 558
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-05-13T03:56:12Z",
             "owner": "XSkill-Agent",
             "repo": "XSkill",
-            "stars": 251
+            "stars": 253
           }
         },
         {
@@ -268,20 +268,6 @@
         },
         {
           "node_type": "item",
-          "title": "Revisiting Weight Regularization for Low-Rank Continual Learning (ICLR 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-18T07:34:11Z",
-            "owner": "yaoyz96",
-            "repo": "low-rank-cl",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning (ICML 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -291,6 +277,20 @@
             "last_commit": "2026-06-09T14:06:24Z",
             "owner": "HHHLF",
             "repo": "LoDA_ICML2026",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Revisiting Weight Regularization for Low-Rank Continual Learning (ICLR 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T07:34:11Z",
+            "owner": "yaoyz96",
+            "repo": "low-rank-cl",
             "stars": 22
           }
         },
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3943
+            "stars": 3947
           }
         },
         {
@@ -1121,7 +1121,7 @@
             "last_commit": "2026-05-20T20:13:37Z",
             "owner": "aimagelab",
             "repo": "mammoth",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -2070,7 +2070,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T21:23:01Z",
+            "last_commit": "2026-08-16T15:52:42Z",
             "owner": "Christina200",
             "repo": "MoDE-official",
             "stars": 9
@@ -2797,7 +2797,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4462
           }
         },
         {
@@ -2811,7 +2811,7 @@
             "last_commit": "2026-05-20T20:13:37Z",
             "owner": "aimagelab",
             "repo": "mammoth",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -2825,7 +2825,7 @@
             "last_commit": "2026-05-20T20:13:37Z",
             "owner": "aimagelab",
             "repo": "mammoth",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -2839,7 +2839,7 @@
             "last_commit": "2025-11-10T09:42:05Z",
             "owner": "nianticlabs",
             "repo": "acezero",
-            "stars": 807
+            "stars": 808
           }
         },
         {
@@ -4697,7 +4697,7 @@
             "last_commit": "2023-06-21T08:42:09Z",
             "owner": "xfflzl",
             "repo": "CIM-CIL",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -4955,7 +4955,7 @@
             "last_commit": "2026-05-20T20:13:37Z",
             "owner": "aimagelab",
             "repo": "mammoth",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -5011,7 +5011,7 @@
             "last_commit": "2023-10-31T02:36:57Z",
             "owner": "LAMDA-CL",
             "repo": "CVPR22-Fact",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -5395,7 +5395,7 @@
             "last_commit": "2022-12-19T08:59:57Z",
             "owner": "JosephKJ",
             "repo": "OWOD",
-            "stars": 1075
+            "stars": 1076
           }
         },
         {
@@ -5499,7 +5499,7 @@
             "last_commit": "2026-05-20T20:13:37Z",
             "owner": "aimagelab",
             "repo": "mammoth",
-            "stars": 833
+            "stars": 834
           }
         },
         {
@@ -6076,7 +6076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:23:16.458Z",
+    "last_updated": "2026-08-17T08:37:25.252Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
