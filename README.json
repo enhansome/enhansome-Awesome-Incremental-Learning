@@ -70,7 +70,7 @@
             "last_commit": "2023-05-30T06:10:59Z",
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-11T12:10:47Z",
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-04-07T20:14:25Z",
             "owner": "idanshen",
             "repo": "Self-Distillation",
-            "stars": 681
+            "stars": 683
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-07-24T19:40:56Z",
             "owner": "Red-Hat-AI-Innovation-Team",
             "repo": "mini_trainer",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -590,6 +590,20 @@
         },
         {
           "node_type": "item",
+          "title": "Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment (CVPR 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T20:48:19Z",
+            "owner": "yfqi",
+            "repo": "lifelong_mlr_ifa",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -614,20 +628,6 @@
             "owner": "zihuanqiu",
             "repo": "NUFILT",
             "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment (CVPR 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-15T20:48:19Z",
-            "owner": "yfqi",
-            "repo": "lifelong_mlr_ifa",
-            "stars": 5
           }
         },
         {
@@ -772,6 +772,20 @@
         },
         {
           "node_type": "item",
+          "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
+          "description": "] [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T02:59:37Z",
+            "owner": "zhwhu",
+            "repo": "CCA-CL",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Quantized Gradient Projection for Memory-Efficient Continual Learning (ICLR 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -809,6 +823,20 @@
             "last_commit": "2026-06-25T15:02:33Z",
             "owner": "Snowball0823",
             "repo": "ECA",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning (ICML 2026) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-12T09:55:04Z",
+            "owner": "njustkmg",
+            "repo": "ICML26-GR-LoRA",
             "stars": 2
           }
         },
@@ -870,20 +898,6 @@
         },
         {
           "node_type": "item",
-          "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
-          "description": "] [code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-02T02:59:37Z",
-            "owner": "zhwhu",
-            "repo": "CCA-CL",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
           "title": "HippoTune: A Hippocampal Associative Loop–Inspired Fine-Tuning Method for Continual Learning (ICLR 2026) [paper",
           "description": "][code]",
           "children": [],
@@ -907,20 +921,6 @@
             "last_commit": "2026-05-14T07:10:12Z",
             "owner": "yhyet",
             "repo": "HC_SOINN",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning (ICML 2026) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-12T09:55:04Z",
-            "owner": "njustkmg",
-            "repo": "ICML26-GR-LoRA",
             "stars": 1
           }
         },
@@ -1107,7 +1107,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3947
+            "stars": 3949
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2025-12-26T07:59:43Z",
             "owner": "Feliciaxyao",
             "repo": "NavMorph",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -1233,7 +1233,7 @@
             "last_commit": "2025-11-19T07:23:40Z",
             "owner": "LAMDA-CL",
             "repo": "ICCV25-ENGINE",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -1280,6 +1280,20 @@
         },
         {
           "node_type": "item",
+          "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
+          "description": "][code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-22T03:53:55Z",
+            "owner": "huiyiwang01",
+            "repo": "SEMA-CL",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
           "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
           "description": "][code]",
           "children": [],
@@ -1303,20 +1317,6 @@
             "last_commit": "2025-07-14T21:32:35Z",
             "owner": "JiangpengHe",
             "repo": "CL-LoRA",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
-          "description": "][code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-22T03:53:55Z",
-            "owner": "huiyiwang01",
-            "repo": "SEMA-CL",
             "stars": 40
           }
         },
@@ -1426,7 +1426,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2025-12-05T02:19:42Z",
+            "last_commit": "2026-08-17T13:18:33Z",
             "owner": "Fhujinwu",
             "repo": "CKA-RL",
             "stars": 26
@@ -2797,7 +2797,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4462
+            "stars": 4464
           }
         },
         {
@@ -4599,7 +4599,7 @@
             "last_commit": "2024-10-08T06:51:31Z",
             "owner": "KevinLight831",
             "repo": "CTP",
-            "stars": 38
+            "stars": 39
           }
         },
         {
@@ -4627,7 +4627,7 @@
             "last_commit": "2024-09-29T05:54:13Z",
             "owner": "weiguoPian",
             "repo": "AV-CIL_ICCV2023",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -5409,7 +5409,7 @@
             "last_commit": "2023-05-30T06:10:59Z",
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 424
+            "stars": 425
           }
         },
         {
@@ -6076,7 +6076,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:37:25.252Z",
+    "last_updated": "2026-08-18T08:30:50.573Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
