@@ -268,21 +268,6 @@
             },
             {
               "node_type": "item",
-              "title": "Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1146514914,
-                "language": "Python",
-                "last_commit": "2026-05-12T06:12:57Z",
-                "owner": "LMMMEng",
-                "repo": "CaRE",
-                "stars": 23
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -293,6 +278,21 @@
                 "last_commit": "2026-06-09T14:06:24Z",
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1146514914,
+                "language": "Python",
+                "last_commit": "2026-05-12T06:12:57Z",
+                "owner": "LMMMEng",
+                "repo": "CaRE",
                 "stars": 23
               }
             },
@@ -6384,8 +6384,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:31:27.048Z",
+    "last_updated": "2026-08-19T12:07:27.322Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
+    "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
     "enhanced_repository_description": null,
