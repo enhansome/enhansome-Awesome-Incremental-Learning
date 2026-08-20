@@ -15,7 +15,7 @@
             "last_commit": "2025-11-05T20:14:56Z",
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1881
+            "stars": 1880
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2022-02-21T10:25:54Z",
             "owner": "EdenBelouadah",
             "repo": "class-incremental-learning",
-            "stars": 178
+            "stars": 177
           }
         },
         {
@@ -1010,7 +1010,7 @@
                 "archived": false,
                 "id": 1193262040,
                 "language": "Python",
-                "last_commit": "2026-06-06T20:36:19Z",
+                "last_commit": "2026-08-20T02:08:40Z",
                 "owner": "savadikarc",
                 "repo": "cheem",
                 "stars": 0
@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3950
+                "stars": 3954
               }
             },
             {
@@ -1185,7 +1185,7 @@
                 "last_commit": "2026-05-20T20:13:37Z",
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 833
+                "stars": 834
               }
             },
             {
@@ -2962,7 +2962,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -2977,7 +2977,7 @@
                 "last_commit": "2026-05-20T20:13:37Z",
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 833
+                "stars": 834
               }
             },
             {
@@ -2992,7 +2992,7 @@
                 "last_commit": "2026-05-20T20:13:37Z",
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 833
+                "stars": 834
               }
             },
             {
@@ -5256,7 +5256,7 @@
                 "last_commit": "2026-05-20T20:13:37Z",
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 833
+                "stars": 834
               }
             },
             {
@@ -5840,7 +5840,7 @@
                 "last_commit": "2026-05-20T20:13:37Z",
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 833
+                "stars": 834
               }
             },
             {
@@ -6384,7 +6384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:27.322Z",
+    "last_updated": "2026-08-20T08:32:12.157Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
