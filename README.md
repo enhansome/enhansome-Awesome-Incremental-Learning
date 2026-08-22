@@ -32,9 +32,9 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 685 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 687 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
 
-* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 254 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
+* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 255 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
 * <a name="todo"></a> KeepLoRA: Continual Learning with Residual Gradient Adaptation (**ICLR 2026**) \[[paper](https://openreview.net/pdf/5b1c7a77eba775963f7a9e2e29612ab26bd10cd2.pdf)]\[[code](https://github.com/MaolinLuo/KeepLoRA) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 
@@ -348,13 +348,13 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,954 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,956 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 834 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
 * <a name="todo"></a> SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=5U1rlpX68A)]\[[code](https://github.com/WuYichen-97/SD-Lora-CL) ⭐ 95 | 🐛 7 | 🌐 Python | 📅 2025-06-27]
 
-* <a name="todo"></a> NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2506.23468)]\[[code](https://github.com/Feliciaxyao/NavMorph) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2025-12-26]
+* <a name="todo"></a> NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2506.23468)]\[[code](https://github.com/Feliciaxyao/NavMorph) ⭐ 90 | 🐛 4 | 🌐 Python | 📅 2025-12-26]
 
 * <a name="todo"></a> Large Continual Instruction Assistant (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2410.10868)]\[[code](https://github.com/JingyangQiao/CoIN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2025-12-25]
 
@@ -392,7 +392,7 @@
 
 * <a name="todo"></a> Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Cheng_Stacking_Brick_by_Brick_Aligned_Feature_Isolation_for_Incremental_Face_CVPR_2025_paper.pdf)]\[[code](https://github.com/beautyremain/SUR-LID) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2025-08-15]
 
-* <a name="todo"></a>  Task-Agnostic Guided Feature Expansion for Class-Incremental Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Zheng_Task-Agnostic_Guided_Feature_Expansion_for_Class-Incremental_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/bwnzheng/TagFex_CVPR2025) ⭐ 27 | 🐛 1 | 🌐 Python | 📅 2025-12-31]
+* <a name="todo"></a>  Task-Agnostic Guided Feature Expansion for Class-Incremental Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Zheng_Task-Agnostic_Guided_Feature_Expansion_for_Class-Incremental_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/bwnzheng/TagFex_CVPR2025) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2025-12-31]
 
 * <a name="todo"></a> Continual Knowledge Adaptation for Reinforcement Learning (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/c72391e754ba2504b859d1c0d6306f6865f0a24c.pdf)]\[[code](https://github.com/Fhujinwu/CKA-RL) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-08-17]
 
@@ -416,13 +416,13 @@
 
 * <a name="todo"></a>Reinforced Lifelong Editing for Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.05759)]\[[code](https://github.com/zhrli324/RLEdit) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-02-23]
 
+* <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/Ethanhuhuhu/KAC) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2025-07-22]
+
 * <a name="todo"></a> Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2502.20032)]\[[code](https://github.com/AIGNLAI/GDDSG) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-10-16]
 
-* <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/Ethanhuhuhu/KAC) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-07-22]
+* <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR2025**) \[[paper](https://arxiv.org/pdf/2503.21076)]\[[code](https://github.com/Ethanhuhuhu/KAC) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2025-07-22]
 
 * <a name="todo"></a> Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2412.18219)]\[[code](https://github.com/tf63/ACMap) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-12-06]
-
-* <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR2025**) \[[paper](https://arxiv.org/pdf/2503.21076)]\[[code](https://github.com/Ethanhuhuhu/KAC) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-07-22]
 
 * <a name="todo"></a> Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/1829b253cee0041479734f7e7e9b92d4d7e1d695.pdf)]\[[code](https://github.com/ASCIIJK/MiN-NeurIPS2025) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2025-09-29]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

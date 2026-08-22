@@ -158,7 +158,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 685
+                "stars": 687
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-05-13T03:56:12Z",
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3954
+                "stars": 3956
               }
             },
             {
@@ -1215,7 +1215,7 @@
                 "last_commit": "2025-12-26T07:59:43Z",
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 89
+                "stars": 90
               }
             },
             {
@@ -1670,6 +1670,21 @@
             },
             {
               "node_type": "item",
+              "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951245042,
+                "language": "Python",
+                "last_commit": "2025-07-22T02:59:21Z",
+                "owner": "Ethanhuhuhu",
+                "repo": "KAC",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -1685,7 +1700,7 @@
             },
             {
               "node_type": "item",
-              "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR 2025) [paper",
+              "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR2025) [paper",
               "description": "][code]",
               "children": [],
               "repo_info": {
@@ -1695,7 +1710,7 @@
                 "last_commit": "2025-07-22T02:59:21Z",
                 "owner": "Ethanhuhuhu",
                 "repo": "KAC",
-                "stars": 21
+                "stars": 22
               }
             },
             {
@@ -1710,21 +1725,6 @@
                 "last_commit": "2025-12-06T15:53:46Z",
                 "owner": "tf63",
                 "repo": "ACMap",
-                "stars": 21
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 951245042,
-                "language": "Python",
-                "last_commit": "2025-07-22T02:59:21Z",
-                "owner": "Ethanhuhuhu",
-                "repo": "KAC",
                 "stars": 21
               }
             },
@@ -6384,7 +6384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:34:56.224Z",
+    "last_updated": "2026-08-22T08:23:34.139Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
