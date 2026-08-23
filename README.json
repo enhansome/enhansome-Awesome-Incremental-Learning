@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3956
+                "stars": 3958
               }
             },
             {
@@ -6384,7 +6384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:23:34.139Z",
+    "last_updated": "2026-08-23T08:23:57.570Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
