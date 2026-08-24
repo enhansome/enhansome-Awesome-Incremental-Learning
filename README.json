@@ -15,7 +15,7 @@
             "last_commit": "2025-11-05T20:14:56Z",
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1880
+            "stars": 1879
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-29T04:38:49Z",
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 688
+                "stars": 689
               }
             },
             {
@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3959
+                "stars": 3960
               }
             },
             {
@@ -2120,6 +2120,21 @@
             },
             {
               "node_type": "item",
+              "title": "Knowledge Swapping via Learning and Unlearning (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947875477,
+                "language": "Python",
+                "last_commit": "2025-03-13T21:31:48Z",
+                "owner": "ExplainableML",
+                "repo": "WikiBigEdit",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2190,21 +2205,6 @@
                 "last_commit": "2025-02-24T09:06:47Z",
                 "owner": "zyzhang11",
                 "repo": "DGAR",
-                "stars": 10
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Knowledge Swapping via Learning and Unlearning (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 947875477,
-                "language": "Python",
-                "last_commit": "2025-03-13T21:31:48Z",
-                "owner": "ExplainableML",
-                "repo": "WikiBigEdit",
                 "stars": 10
               }
             },
@@ -6378,13 +6378,56 @@
           "description": null,
           "node_type": "group",
           "title": "2017"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learning without forgetting (ECCV2016) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72048312,
+                "language": "MATLAB",
+                "last_commit": "2020-03-29T04:44:26Z",
+                "owner": "lizhitwo",
+                "repo": "LearningWithoutForgetting",
+                "stars": 88
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2016"
         }
       ],
       "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 278010321,
+            "language": null,
+            "last_commit": "2020-11-01T10:09:09Z",
+            "owner": "xialeiliu",
+            "repo": "Awesome-LongTailed-Recognition",
+            "stars": 96
+          },
+          "title": "Awesome Long-Tailed Recognition / Imbalanced Learning"
+        }
+      ],
+      "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:42:14.220Z",
+    "last_updated": "2026-08-24T13:56:50.260Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
