@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,962 | 🐛 7 | 🌐 Python | 📅 2026-08-23]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,963 | 🐛 7 | 🌐 Python | 📅 2026-08-23]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 834 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -1321,7 +1321,7 @@
 
 * <a name="todo"></a> Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.00867)] \[[code](https://github.com/DQiaole/ZITS_inpainting) ⭐ 394 | 🐛 6 | 🌐 Python | 📅 2024-02-23]
 
-* <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.06953)] \[[code](https://github.com/zhoudw-zdw/CVPR22-Fact) ⭐ 140 | 🐛 1 | 🌐 Python | 📅 2023-10-31]
+* <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.06953)] \[[code](https://github.com/zhoudw-zdw/CVPR22-Fact) ⭐ 139 | 🐛 1 | 🌐 Python | 📅 2023-10-31]
 
 * <a name="todo"></a> Self-Supervised Models are Continual Learners (**CVPR2022**) \[[paper](https://arxiv.org/abs/2112.04215)] \[[code](https://github.com/DonkeyShot21/cassle) ⭐ 128 | 🐛 6 | 🌐 Python | 📅 2022-09-25]
 
@@ -1331,7 +1331,7 @@
 
 * <a name="todo"></a> FOSTER: Feature Boosting and Compression for Class-Incremental Learning (**ECCV2022**) \[[paper](https://arxiv.org/abs/2204.04662)] \[[code](https://github.com/G-U-N/ECCV22-FOSTER) ⭐ 63 | 🐛 5 | 🌐 Python | 📅 2022-11-29]
 
-* <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)\[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] \[[code](https://github.com/QueuQ/CGLB) ⭐ 59 | 🐛 6 | 🌐 Python | 📅 2024-11-15]
+* <a name="todo"></a> CGLB: Benchmark Tasks for Continual Graph Learning (**NeurIPS2022**)\[[paper](https://openreview.net/forum?id=5wNiiIDynDF)] \[[code](https://github.com/QueuQ/CGLB) ⭐ 60 | 🐛 6 | 🌐 Python | 📅 2024-11-15]
 
 * <a name="todo"></a> Energy-based Latent Aligner for Incremental Learning (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.14952)] \[[code](https://github.com/JosephKJ/ELI) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2022-12-19]
 
@@ -1569,7 +1569,7 @@
 
 ### 2021
 
-* <a name="todo"></a> Towards Open World Object Detection (**CVPR, 2021**) \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] \[[code](https://github.com/JosephKJ/OWOD) ⭐ 1,075 | 🐛 30 | 🌐 Python | 📅 2022-12-19] \[[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
+* <a name="todo"></a> Towards Open World Object Detection (**CVPR, 2021**) \[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] \[[code](https://github.com/JosephKJ/OWOD) ⭐ 1,074 | 🐛 30 | 🌐 Python | 📅 2022-12-19] \[[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
 * <a name="todo"></a> Online Class-Incremental Continual Learning with Adversarial Shapley Value(**AAAI, 2021**) \[[paper](https://arxiv.org/abs/2009.00093)] \[[code](https://github.com/RaptorMai/online-continual-learning) ⭐ 425 | 🐛 7 | 🌐 Python | 📅 2023-05-30]
 * <a name="todo"></a> CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks (**EMNLP, 2021**) \[[paper](https://aclanthology.org/2021.emnlp-main.550/)]\[[code](https://github.com/ZixuanKe/PyContinual) ⭐ 323 | 🐛 6 | 🌐 Python | 📅 2024-01-29]
 * <a name="todo"></a> Incremental Object Detection via Meta-Learning (**TPAMI 2021**) \[[paper](https://arxiv.org/abs/2003.08798)] \[[code](https://github.com/JosephKJ/iOD) ⭐ 135 | 🐛 8 | 🌐 Python | 📅 2022-12-19]

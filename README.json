@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3962
+                "stars": 3963
               }
             },
             {
@@ -5316,7 +5316,7 @@
                 "last_commit": "2023-10-31T02:36:57Z",
                 "owner": "LAMDA-CL",
                 "repo": "CVPR22-Fact",
-                "stars": 140
+                "stars": 139
               }
             },
             {
@@ -5391,7 +5391,7 @@
                 "last_commit": "2024-11-15T21:54:11Z",
                 "owner": "QueuQ",
                 "repo": "CGLB",
-                "stars": 59
+                "stars": 60
               }
             },
             {
@@ -5728,7 +5728,7 @@
                 "last_commit": "2022-12-19T08:59:57Z",
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1075
+                "stars": 1074
               }
             },
             {
@@ -6427,7 +6427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:51:37.499Z",
+    "last_updated": "2026-08-25T08:36:42.111Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
