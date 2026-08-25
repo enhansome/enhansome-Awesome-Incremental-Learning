@@ -958,6 +958,21 @@
             },
             {
               "node_type": "item",
+              "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 631182876,
+                "language": null,
+                "last_commit": "2026-03-03T15:50:35Z",
+                "owner": "ouycc",
+                "repo": "Spectral_MoE",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
               "title": "HippoTune: A Hippocampal Associative Loop–Inspired Fine-Tuning Method for Continual Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1028,21 +1043,6 @@
                 "last_commit": "2026-06-07T00:00:17Z",
                 "owner": "jingema99",
                 "repo": "TAL",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 631182876,
-                "language": null,
-                "last_commit": "2026-03-03T15:50:35Z",
-                "owner": "ouycc",
-                "repo": "Spectral_MoE",
                 "stars": 0
               }
             },
@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3960
+                "stars": 3962
               }
             },
             {
@@ -1215,7 +1215,7 @@
                 "last_commit": "2025-12-26T07:59:43Z",
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -2962,7 +2962,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4464
               }
             },
             {
@@ -6427,7 +6427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:50.260Z",
+    "last_updated": "2026-08-25T05:51:37.499Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
