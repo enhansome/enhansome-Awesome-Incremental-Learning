@@ -1170,7 +1170,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3963
+                "stars": 3967
               }
             },
             {
@@ -1880,21 +1880,6 @@
             },
             {
               "node_type": "item",
-              "title": "HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning (TPAMI 2025) [paper",
-              "description": "]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 888909271,
-                "language": "Python",
-                "last_commit": "2024-11-15T08:52:43Z",
-                "owner": "thu-ml",
-                "repo": "HiDe-PET",
-                "stars": 16
-              }
-            },
-            {
-              "node_type": "item",
               "title": "MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging (NeurIPS 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -1965,6 +1950,21 @@
                 "last_commit": "2025-04-20T19:32:13Z",
                 "owner": "GangweiJiang",
                 "repo": "FvForgetting",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning (TPAMI 2025) [paper",
+              "description": "]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 888909271,
+                "language": "Python",
+                "last_commit": "2024-11-15T08:52:43Z",
+                "owner": "thu-ml",
+                "repo": "HiDe-PET",
                 "stars": 15
               }
             },
@@ -2962,7 +2962,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             },
             {
@@ -4739,7 +4739,7 @@
                 "last_commit": "2023-10-05T23:49:54Z",
                 "owner": "GT-RIPL",
                 "repo": "CODA-Prompt",
-                "stars": 161
+                "stars": 160
               }
             },
             {
@@ -6427,7 +6427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:36:42.111Z",
+    "last_updated": "2026-08-26T08:37:42.308Z",
     "original_repository": "xialeiliu/Awesome-Incremental-Learning",
     "original_repository_id": 146447849,
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
