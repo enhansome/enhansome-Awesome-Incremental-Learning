@@ -158,7 +158,7 @@
                 "last_commit": "2026-04-07T20:14:25Z",
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 689
+                "stars": 692
               }
             },
             {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-05-13T03:56:12Z",
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 255
+                "stars": 256
               }
             },
             {
@@ -215,7 +215,7 @@
                 "archived": false,
                 "id": 1179691496,
                 "language": "Python",
-                "last_commit": "2026-06-15T07:15:49Z",
+                "last_commit": "2026-08-27T03:03:29Z",
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
                 "stars": 38
@@ -688,6 +688,21 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1243848870,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-11T17:26:08Z",
+                "owner": "prinshul",
+                "repo": "JASCL",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -728,21 +743,6 @@
                 "last_commit": "2026-08-01T06:11:14Z",
                 "owner": "AldrinLake",
                 "repo": "Dual-E",
-                "stars": 4
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1243848870,
-                "language": "Jupyter Notebook",
-                "last_commit": "2026-07-11T17:26:08Z",
-                "owner": "prinshul",
-                "repo": "JASCL",
                 "stars": 4
               }
             },
@@ -3184,7 +3184,7 @@
                 "archived": false,
                 "id": 868256960,
                 "language": "Python",
-                "last_commit": "2025-11-25T14:49:38Z",
+                "last_commit": "2026-08-26T18:10:43Z",
                 "owner": "mashijie1028",
                 "repo": "Happy-CGCD",
                 "stars": 47
@@ -3217,7 +3217,7 @@
                 "last_commit": "2025-08-01T07:53:17Z",
                 "owner": "Minhchuyentoancbn",
                 "repo": "MoE_PromptCL",
-                "stars": 44
+                "stars": 43
               }
             },
             {
@@ -6427,9 +6427,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:37:42.308Z",
-    "original_repository": "xialeiliu/Awesome-Incremental-Learning",
-    "original_repository_id": 146447849,
+    "last_updated": "2026-08-27T11:21:51.235Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 146447849,
+      "language": null,
+      "last_commit": "2026-06-27T08:44:09Z",
+      "owner": "xialeiliu",
+      "repo": "Awesome-Incremental-Learning",
+      "stars": 4514
+    },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
     "enhanced_repository_description": null,

@@ -32,15 +32,15 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 689 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 692 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
 
-* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 255 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
+* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 256 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
 * <a name="todo"></a> KeepLoRA: Continual Learning with Residual Gradient Adaptation (**ICLR 2026**) \[[paper](https://openreview.net/pdf/5b1c7a77eba775963f7a9e2e29612ab26bd10cd2.pdf)]\[[code](https://github.com/MaolinLuo/KeepLoRA) ⭐ 62 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 
 * <a name="todo"></a> Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning (**ICLR 2026**) \[[paper](https://openreview.net/forum?id=7UfZAxKo5K)]\[[code](https://github.com/gfyddha/Fly-CL) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
 
-* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-06-15]
+* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 38 | 🐛 2 | 🌐 Python | 📅 2026-08-27]
 
 * <a name="todo"></a> IDER: IDempotent Experience Replay for Reliable Continual Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/1f4fb9040e09b602ad16de2e6a07e7b182764a0c.pdf)]\[[code](https://github.com/YutingLi0606/Idempotent-Continual-Learning) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-03-30]
 
@@ -104,13 +104,13 @@
 
 * <a name="todo"></a> SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (**ICLR 2026**) \[[paper](https://openreview.net/pdf/20918c168c6bad9b21c2e30d62b67ad1fe201082.pdf)]\[[code](https://github.com/qhmiao/SplitLoRA) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-04-06]
 
+* <a name="todo"></a> Continual Segmentation under Joint Nonstationarity (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20538)]\[[code](https://github.com/prinshul/JASCL) ⭐ 5 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-11]
+
 * <a name="todo"></a> MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.07940)]\[[code](https://github.com/SunGL001/MePo) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-02-10]
 
 * <a name="todo"></a> Skill Neologisms: Towards Skill-based Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.04970)]\[[code](https://github.com/antoninbrthn/skill-neologisms) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-05-18]
 
 * <a name="todo"></a> Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Xu_Dual-Estimator_Decoupling_Global_and_Local_Semantic_Shift_for_Drift_Compensation_CVPR_2026_paper.pdf)]\[[code](https://github.com/AldrinLake/Dual-E.git) ⭐ 4 | 🐛 1 | 📅 2026-08-01]
-
-* <a name="todo"></a> Continual Segmentation under Joint Nonstationarity (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20538)]\[[code](https://github.com/prinshul/JASCL) ⭐ 4 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-11]
 
 * <a name="todo"></a> Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Li_Quantum-Gated_Task-interaction_Knowledge_Distillation_for_Pre-trained_Model-based_Class-Incremental_Learning_CVPR_2026_paper.pdf)]\[[code](https://github.com/Frank-lilinjie/CVPR26-QKD) ⭐ 3 | 🐛 3 | 📅 2026-03-25]
 
@@ -828,11 +828,11 @@
 
 * <a name="todo"></a> ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning (**CVPR2024**)\[[paper](https://arxiv.org/abs/2403.20126)]\[[code](https://github.com/clovaai/ECLIPSE) ⭐ 51 | 🐛 10 | 🌐 Python | 📅 2024-12-17]
 
-* <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2410.06535)]\[[code](https://github.com/mashijie1028/Happy-CGCD) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2025-11-25]
+* <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2410.06535)]\[[code](https://github.com/mashijie1028/Happy-CGCD) ⭐ 47 | 🐛 1 | 🌐 Python | 📅 2026-08-26]
 
 * <a name="todo"></a> Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=MeB86edZ1P\&name=pdf)]\[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
 
-* <a name="todo"></a> Mixture of Experts Meets Prompt-Based Continual Learning (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2405.14124)]\[[code](https://github.com/Minhchuyentoancbn/MoE_PromptCL) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2025-08-01]
+* <a name="todo"></a> Mixture of Experts Meets Prompt-Based Continual Learning (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2405.14124)]\[[code](https://github.com/Minhchuyentoancbn/MoE_PromptCL) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-08-01]
 
 * <a name="todo"></a> Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (**ECCV24**)\[[paper](https://arxiv.org/abs/2407.14142)]\[[code](https://github.com/zhengyuan-xie/ECCV24_NeST) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-03-03]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
