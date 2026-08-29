@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3968,
+                "stars": 3969,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -1866,7 +1866,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-12T14:51:14Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "jan-ackermann",
                 "repo": "cl-splats",
                 "stars": 63,
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4466,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4605,7 +4605,7 @@
                 "open_issues": 1,
                 "owner": "linlany",
                 "repo": "RAPF",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 835,
+                "stars": 836,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:35.049Z",
+    "last_updated": "2026-08-29T13:33:46.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4514,
+      "stars": 4517,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
