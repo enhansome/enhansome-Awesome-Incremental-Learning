@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,968 | 🐛 7 | 🌐 Python | 📅 2026-08-23]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,968 | 🐛 8 | 🌐 Python | 📅 2026-08-23]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 835 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -364,7 +364,7 @@
 
 * <a name="todo"></a> Spurious Forgetting in Continual Learning of Language Models (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=ScI7IlKGdI)]\[[code](https://github.com/zzz47zzz/spurious-forgetting) ⭐ 63 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-09]
 
-* <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.09118)]\[[code](https://github.com/linlany/MindtheGap) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2026-01-07]
+* <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.09118)]\[[code](https://github.com/linlany/MindtheGap) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-01-07]
 
 * <a name="todo"></a> External Knowledge Injection for CLIP-Based Class-Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2503.08510)]\[[code](https://github.com/LAMDA-CL/ICCV25-ENGINE) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2025-11-19]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
