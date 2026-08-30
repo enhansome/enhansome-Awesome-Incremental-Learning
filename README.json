@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -456,7 +456,7 @@
                 "id": 1227010555,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-06-09T14:06:24Z",
+                "last_commit": "2026-08-29T14:42:05Z",
                 "open_issues": 0,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
@@ -1052,7 +1052,7 @@
                 "open_issues": 0,
                 "owner": "iLearn-Lab",
                 "repo": "ICLR26-SplitLoRA",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3969,
+                "stars": 3971,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Fhujinwu",
                 "repo": "CKA-RL",
                 "stars": 27,
@@ -3247,27 +3247,6 @@
             },
             {
               "node_type": "item",
-              "title": "Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ICCV2025",
-                "homepage": null,
-                "id": 1013106674,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-18T09:34:42Z",
-                "open_issues": 3,
-                "owner": "Jywsuperman",
-                "repo": "LGSP",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3282,6 +3261,27 @@
                 "open_issues": 1,
                 "owner": "WoodScene",
                 "repo": "Recurrent_KIF",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning (ICCV 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ICCV2025",
+                "homepage": null,
+                "id": 1013106674,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-18T09:34:42Z",
+                "open_issues": 3,
+                "owner": "Jywsuperman",
+                "repo": "LGSP",
                 "stars": 9,
                 "topics": []
               },
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4466,
+                "stars": 4465,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:33:46.696Z",
+    "last_updated": "2026-08-30T13:29:14.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
