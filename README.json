@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 559,
+            "stars": 560,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 692,
+                "stars": 693,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -575,7 +575,7 @@
                 "open_issues": 0,
                 "owner": "zygao930",
                 "repo": "MedCRP-CL",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "bayesian-methods",
                   "catastrophic-forgetting",
@@ -1510,7 +1510,7 @@
                 "id": 1252367090,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-05-28T17:30:46Z",
+                "last_commit": "2026-08-30T17:58:43Z",
                 "open_issues": 0,
                 "owner": "OptMN-Lab",
                 "repo": "SABER-ICML-2026",
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3971,
+                "stars": 3972,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3097,6 +3097,48 @@
             },
             {
               "node_type": "item",
+              "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 933089756,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-24T09:06:47Z",
+                "open_issues": 1,
+                "owner": "zyzhang11",
+                "repo": "DGAR",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ACL 2025",
+                "homepage": null,
+                "id": 903681986,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-21T08:44:08Z",
+                "open_issues": 1,
+                "owner": "WoodScene",
+                "repo": "Recurrent_KIF",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn (ICML 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3219,48 +3261,6 @@
                 "open_issues": 0,
                 "owner": "NJUyued",
                 "repo": "USP4SSCL",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 933089756,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-24T09:06:47Z",
-                "open_issues": 1,
-                "owner": "zyzhang11",
-                "repo": "DGAR",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ACL 2025",
-                "homepage": null,
-                "id": 903681986,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-21T08:44:08Z",
-                "open_issues": 1,
-                "owner": "WoodScene",
-                "repo": "Recurrent_KIF",
                 "stars": 10,
                 "topics": []
               },
@@ -4390,7 +4390,7 @@
                 "open_issues": 1,
                 "owner": "nianticlabs",
                 "repo": "acezero",
-                "stars": 808,
+                "stars": 807,
                 "topics": [
                   "3d-reconstruction",
                   "camera-relocalization",
@@ -4659,7 +4659,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "(NeurIPS 2024/TPAMI2026) Happy: A Debiased Learning Framework for Continual Generalized Category Discovery",
+                "description": "(NeurIPS 2024/TPAMI 2026) Happy: A Debiased Learning Framework for Continual Generalized Category Discovery",
                 "homepage": "https://arxiv.org/abs/2410.06535",
                 "id": 868256960,
                 "language": "Python",
@@ -5317,7 +5317,7 @@
                 "open_issues": 2,
                 "owner": "tmtuan1307",
                 "repo": "LANDER",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9222,7 +9222,7 @@
                 "open_issues": 7,
                 "owner": "rahafaljundi",
                 "repo": "MAS-Memory-Aware-Synapses",
-                "stars": 100,
+                "stars": 99,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:29:14.565Z",
+    "last_updated": "2026-08-31T15:46:48.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4517,
+      "stars": 4516,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
