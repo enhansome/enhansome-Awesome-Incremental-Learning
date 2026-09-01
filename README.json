@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1879,
+            "stars": 1878,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 560,
+            "stars": 561,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 693,
+                "stars": 694,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -364,7 +364,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 38,
+                "stars": 40,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -527,7 +527,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T07:47:27Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "AnAppleCore",
                 "repo": "FlyGCL",
                 "stars": 18,
@@ -571,7 +571,7 @@
                 "id": 1234754188,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-06-19T05:31:45Z",
+                "last_commit": "2026-09-01T06:07:46Z",
                 "open_issues": 0,
                 "owner": "zygao930",
                 "repo": "MedCRP-CL",
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3972,
+                "stars": 3974,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1803,7 +1803,7 @@
                 "open_issues": 4,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "vision-and-language-navigation",
                   "world-model"
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Fhujinwu",
                 "repo": "CKA-RL",
                 "stars": 27,
@@ -3499,6 +3499,27 @@
             },
             {
               "node_type": "item",
+              "title": "Adaptive Retention & Correction: Test-Time Training for Continual Learning (ICLR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 920975450,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-08-12T16:55:33Z",
+                "open_issues": 1,
+                "owner": "HaoranChen",
+                "repo": "Adaptive-Retention-and-Correction-for-Continual-Learning",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Semantic Aware Representation Learning for Lifelong Learning (ICLR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3646,20 +3667,20 @@
             },
             {
               "node_type": "item",
-              "title": "Adaptive Retention & Correction: Test-Time Training for Continual Learning (ICLR 2025) [paper",
+              "title": "BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "description": null,
                 "homepage": null,
-                "id": 920975450,
+                "id": 1079879445,
                 "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-08-12T16:55:33Z",
-                "open_issues": 1,
-                "owner": "HaoranChen",
-                "repo": "Adaptive-Retention-and-Correction-for-Continual-Learning",
+                "license": null,
+                "last_commit": "2025-10-20T14:30:06Z",
+                "open_issues": 5,
+                "owner": "yifeiacc",
+                "repo": "BiLoRA",
                 "stars": 7,
                 "topics": []
               },
@@ -3723,27 +3744,6 @@
                 "open_issues": 2,
                 "owner": "daihao42",
                 "repo": "VB-CGCD",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1079879445,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-20T14:30:06Z",
-                "open_issues": 5,
-                "owner": "yifeiacc",
-                "repo": "BiLoRA",
                 "stars": 6,
                 "topics": []
               },
@@ -5255,6 +5255,27 @@
             },
             {
               "node_type": "item",
+              "title": "Text-Enhanced Data-free Approach for Federated Class-Incremental Learning (CVPR2024)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR-2024] Text-Enhanced Data-free Approach for Federated Class-Incremental Learning",
+                "homepage": null,
+                "id": 719383719,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-12-26T23:46:57Z",
+                "open_issues": 2,
+                "owner": "tmtuan1307",
+                "repo": "LANDER",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
               "description": "][code]",
               "children": [],
@@ -5298,27 +5319,6 @@
                   "incremental-learning",
                   "lifelong-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Text-Enhanced Data-free Approach for Federated Class-Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR-2024] Text-Enhanced Data-free Approach for Federated Class-Incremental Learning",
-                "homepage": null,
-                "id": 719383719,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-12-26T23:46:57Z",
-                "open_issues": 2,
-                "owner": "tmtuan1307",
-                "repo": "LANDER",
-                "stars": 23,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -8790,7 +8790,7 @@
                 "open_issues": 9,
                 "owner": "yulu0724",
                 "repo": "SDC-IL",
-                "stars": 121,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9004,7 +9004,7 @@
                 "open_issues": 9,
                 "owner": "hshustc",
                 "repo": "CVPR19_Incremental_Learning",
-                "stars": 197,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9243,7 +9243,7 @@
                 "open_issues": 8,
                 "owner": "fmcp",
                 "repo": "EndToEndIncrementalLearning",
-                "stars": 67,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9306,7 +9306,7 @@
                 "open_issues": 1,
                 "owner": "xialeiliu",
                 "repo": "RotateNetworks",
-                "stars": 33,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9327,7 +9327,7 @@
                 "open_issues": 0,
                 "owner": "TonyPod",
                 "repo": "ESGR",
-                "stars": 13,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9376,7 +9376,7 @@
                 "open_issues": 1,
                 "owner": "ariseff",
                 "repo": "overcoming-catastrophic",
-                "stars": 305,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9439,7 +9439,7 @@
                 "open_issues": 1,
                 "owner": "ganguli-lab",
                 "repo": "pathint",
-                "stars": 113,
+                "stars": 112,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:46:48.961Z",
+    "last_updated": "2026-09-01T13:00:13.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4516,
+      "stars": 4515,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
