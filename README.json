@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 597,
+            "stars": 598,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 561,
+            "stars": 562,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 258,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -457,7 +457,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-29T14:42:05Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
                 "stars": 24,
@@ -1227,6 +1227,27 @@
             },
             {
               "node_type": "item",
+              "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1165479945,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-02T02:59:37Z",
+                "open_issues": 0,
+                "owner": "zhwhu",
+                "repo": "CCA-CL",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Geometry-driven OOD Detectors Are Class-Incremental Learners (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1242,27 +1263,6 @@
                 "owner": "Wangwang-Jia",
                 "repo": "GOD",
                 "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1165479945,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-02T02:59:37Z",
-                "open_issues": 0,
-                "owner": "zhwhu",
-                "repo": "CCA-CL",
-                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1728,10 +1728,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-23T14:35:10Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3974,
+                "stars": 3977,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2365,6 +2365,27 @@
             },
             {
               "node_type": "item",
+              "title": "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (ICLR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2025] PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection",
+                "homepage": null,
+                "id": 938494725,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-16T03:16:36Z",
+                "open_issues": 1,
+                "owner": "wang-qiuchen",
+                "repo": "PseDet",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2428,20 +2449,20 @@
             },
             {
               "node_type": "item",
-              "title": "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (ICLR 2025) [paper",
+              "title": "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ICLR 2025] PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection",
+                "description": null,
                 "homepage": null,
-                "id": 938494725,
+                "id": 840136669,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-09-16T03:16:36Z",
-                "open_issues": 1,
-                "owner": "wang-qiuchen",
-                "repo": "PseDet",
+                "last_commit": "2025-10-16T11:54:09Z",
+                "open_issues": 0,
+                "owner": "AIGNLAI",
+                "repo": "GDDSG",
                 "stars": 24,
                 "topics": []
               },
@@ -2484,27 +2505,6 @@
                 "open_issues": 1,
                 "owner": "Ethanhuhuhu",
                 "repo": "KAC",
-                "stars": 22,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 840136669,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-16T11:54:09Z",
-                "open_issues": 0,
-                "owner": "AIGNLAI",
-                "repo": "GDDSG",
                 "stars": 22,
                 "topics": []
               },
@@ -3268,6 +3268,27 @@
             },
             {
               "node_type": "item",
+              "title": "Adapt-$\\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (ICLR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the paper \"Adapt - $\\infty$: Scalable Lifelong Multimodal Instruction Tuning\"",
+                "homepage": null,
+                "id": 872576825,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-10-15T16:44:51Z",
+                "open_issues": 2,
+                "owner": "adymaharana",
+                "repo": "adapt-inf",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning (ICCV 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3387,27 +3408,6 @@
                 "open_issues": 1,
                 "owner": "liangzu",
                 "repo": "loranpac",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Adapt-$\\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (ICLR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for the paper \"Adapt - $\\infty$: Scalable Lifelong Multimodal Instruction Tuning\"",
-                "homepage": null,
-                "id": 872576825,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-10-15T16:44:51Z",
-                "open_issues": 2,
-                "owner": "adymaharana",
-                "repo": "adapt-inf",
                 "stars": 9,
                 "topics": []
               },
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -6956,7 +6956,7 @@
                 "open_issues": 5,
                 "owner": "GT-RIPL",
                 "repo": "CODA-Prompt",
-                "stars": 160,
+                "stars": 161,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 836,
+                "stars": 837,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:00:13.250Z",
+    "last_updated": "2026-09-02T12:29:02.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
