@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 598,
+            "stars": 600,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 259,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -456,8 +456,8 @@
                 "id": 1227010555,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-29T14:42:05Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-03T02:55:34Z",
+                "open_issues": 0,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
                 "stars": 24,
@@ -527,7 +527,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-29T07:47:27Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AnAppleCore",
                 "repo": "FlyGCL",
                 "stars": 18,
@@ -555,6 +555,27 @@
                 "owner": "Minhchuyentoancbn",
                 "repo": "SMoPE",
                 "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1146578852,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-23T13:59:11Z",
+                "open_issues": 0,
+                "owner": "haodotgu",
+                "repo": "EBLoRA",
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -637,6 +658,27 @@
             },
             {
               "node_type": "item",
+              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
+                "homepage": null,
+                "id": 1163707488,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-01T02:16:44Z",
+                "open_issues": 2,
+                "owner": "datake",
+                "repo": "FAME",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -658,27 +700,6 @@
             },
             {
               "node_type": "item",
-              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
-                "homepage": null,
-                "id": 1163707488,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-01T02:16:44Z",
-                "open_issues": 2,
-                "owner": "datake",
-                "repo": "FAME",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -693,27 +714,6 @@
                 "open_issues": 0,
                 "owner": "Continue-Edge-AI-Lab",
                 "repo": "ProNC",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1146578852,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-23T13:59:11Z",
-                "open_issues": 0,
-                "owner": "haodotgu",
-                "repo": "EBLoRA",
                 "stars": 10,
                 "topics": []
               },
@@ -1143,6 +1143,27 @@
             },
             {
               "node_type": "item",
+              "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
+              "description": "] [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1165479945,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-02T02:59:37Z",
+                "open_issues": 0,
+                "owner": "zhwhu",
+                "repo": "CCA-CL",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1220,27 +1241,6 @@
                 "open_issues": 0,
                 "owner": "YvoGao",
                 "repo": "TAPE",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
-              "description": "] [code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1165479945,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-02T02:59:37Z",
-                "open_issues": 0,
-                "owner": "zhwhu",
-                "repo": "CCA-CL",
                 "stars": 3,
                 "topics": []
               },
@@ -1727,11 +1727,11 @@
                 "id": 805115184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-23T14:35:10Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-03T12:15:39Z",
+                "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3977,
+                "stars": 3978,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2089,7 +2089,7 @@
                 "open_issues": 0,
                 "owner": "Estrella-fugaz",
                 "repo": "CVPR25-DUCT",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "continual-learning",
                   "domain-incremental-learning",
@@ -2185,7 +2185,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Fhujinwu",
                 "repo": "CKA-RL",
                 "stars": 27,
@@ -3076,6 +3076,27 @@
             },
             {
               "node_type": "item",
+              "title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The code implementation of Continual Churn Approximation Reduction (C-CHAIN) for ICML 2025 paper \"Mitigating Plasticity Loss in Continual RL by Reducing Churn\"",
+                "homepage": null,
+                "id": 992154673,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-14T04:38:18Z",
+                "open_issues": 1,
+                "owner": "bluecontra",
+                "repo": "C-CHAIN",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BECAME: Bayesian Continual Learning with Adaptive Model Merging (ICML 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3132,27 +3153,6 @@
                 "open_issues": 1,
                 "owner": "WoodScene",
                 "repo": "Recurrent_KIF",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The code implementation of Continual Churn Approximation Reduction (C-CHAIN) for ICML 2025 paper \"Mitigating Plasticity Loss in Continual RL by Reducing Churn\"",
-                "homepage": null,
-                "id": 992154673,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-14T04:38:18Z",
-                "open_issues": 1,
-                "owner": "bluecontra",
-                "repo": "C-CHAIN",
                 "stars": 11,
                 "topics": []
               },
@@ -7789,7 +7789,7 @@
                 "open_issues": 6,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
-                "stars": 394,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:29:02.358Z",
+    "last_updated": "2026-09-03T12:31:22.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4515,
+      "stars": 4516,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
