@@ -199,7 +199,7 @@
             "id": 790724066,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-11T12:10:47Z",
+            "last_commit": "2026-09-04T00:50:59Z",
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -526,7 +526,7 @@
                 "id": 997910499,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-29T07:47:27Z",
+                "last_commit": "2026-09-04T05:29:40Z",
                 "open_issues": 1,
                 "owner": "AnAppleCore",
                 "repo": "FlyGCL",
@@ -575,7 +575,7 @@
                 "open_issues": 0,
                 "owner": "haodotgu",
                 "repo": "EBLoRA",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -606,6 +606,27 @@
                   "medical-image-segmentation",
                   "medical-vision-language-models"
                 ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
+                "homepage": null,
+                "id": 1163707488,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-01T02:16:44Z",
+                "open_issues": 2,
+                "owner": "datake",
+                "repo": "FAME",
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -653,27 +674,6 @@
                   "evaluation",
                   "protocol"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
-                "homepage": null,
-                "id": 1163707488,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-01T02:16:44Z",
-                "open_issues": 2,
-                "owner": "datake",
-                "repo": "FAME",
-                "stars": 12,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -891,6 +891,27 @@
             },
             {
               "node_type": "item",
+              "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting",
+                "homepage": null,
+                "id": 1194003242,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-22T15:57:26Z",
+                "open_issues": 0,
+                "owner": "YonseiML",
+                "repo": "dpw",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -989,27 +1010,6 @@
                 "open_issues": 1,
                 "owner": "yfqi",
                 "repo": "lifelong_mlr_ifa",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting",
-                "homepage": null,
-                "id": 1194003242,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-04-22T15:57:26Z",
-                "open_issues": 0,
-                "owner": "YonseiML",
-                "repo": "dpw",
                 "stars": 6,
                 "topics": []
               },
@@ -1269,6 +1269,27 @@
             },
             {
               "node_type": "item",
+              "title": "Active Continual Learning with Metaplastic Binary Bayesian Neural Networks (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1146101187,
+                "language": "C",
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-09-04T08:29:51Z",
+                "open_issues": 0,
+                "owner": "kellian-cottart",
+                "repo": "active-continual-learning-bayesianbinn",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quantized Gradient Projection for Memory-Efficient Continual Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1283,27 +1304,6 @@
                 "open_issues": 0,
                 "owner": "Dongjun0101",
                 "repo": "Quantized-Gradient-Projection-for-Memory-Efficient-Continual-Learning",
-                "stars": 2,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Active Continual Learning with Metaplastic Binary Bayesian Neural Networks (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1146101187,
-                "language": "C",
-                "license": "CC-BY-4.0",
-                "last_commit": "2026-05-18T09:43:27Z",
-                "open_issues": 0,
-                "owner": "kellian-cottart",
-                "repo": "active-continual-learning-bayesianbinn",
                 "stars": 2,
                 "topics": []
               },
@@ -1728,10 +1728,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:15:39Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3978,
+                "stars": 3979,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4032,9 +4032,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 999990693,
-                "language": null,
+                "language": "Python",
                 "license": null,
-                "last_commit": "2025-06-11T05:28:16Z",
+                "last_commit": "2026-09-04T10:08:21Z",
                 "open_issues": 2,
                 "owner": "zhenyatian",
                 "repo": "ILPC",
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4466,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7858,7 +7858,7 @@
                 "open_issues": 1,
                 "owner": "conditionWang",
                 "repo": "FCIL",
-                "stars": 123,
+                "stars": 124,
                 "topics": [
                   "continual-learning",
                   "cvpr2022",
@@ -8445,7 +8445,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1074,
+                "stars": 1075,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -8811,7 +8811,7 @@
                 "open_issues": 4,
                 "owner": "uvm-neurobotics-lab",
                 "repo": "ANML",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9159,7 +9159,7 @@
                 "open_issues": 3,
                 "owner": "arunmallya",
                 "repo": "packnet",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:31:22.698Z",
+    "last_updated": "2026-09-04T12:27:19.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9539,7 +9539,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-27T08:44:09Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
       "stars": 4516,
