@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1878,
+            "stars": 1880,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -90,7 +90,7 @@
             "open_issues": 11,
             "owner": "mmasana",
             "repo": "FACIL",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 425,
+            "stars": 426,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 262,
+                "stars": 261,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3979,
+                "stars": 3980,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4466,
+                "stars": 4467,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8476,7 +8476,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 425,
+                "stars": 426,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8678,7 +8678,7 @@
                 "open_issues": 28,
                 "owner": "yaoyao-liu",
                 "repo": "class-incremental-learning",
-                "stars": 470,
+                "stars": 471,
                 "topics": [
                   "class-incremental-learning",
                   "continual-learning"
@@ -8702,7 +8702,7 @@
                 "open_issues": 8,
                 "owner": "arthurdouillard",
                 "repo": "incremental_learning.pytorch",
-                "stars": 409,
+                "stars": 410,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -9376,7 +9376,7 @@
                 "open_issues": 1,
                 "owner": "ariseff",
                 "repo": "overcoming-catastrophic",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T12:27:19.200Z",
+    "last_updated": "2026-09-05T11:34:08.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4516,
+      "stars": 4518,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
