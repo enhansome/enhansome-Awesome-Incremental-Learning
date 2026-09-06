@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 694,
+                "stars": 693,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1500,6 +1500,27 @@
             },
             {
               "node_type": "item",
+              "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML2026] CE4L: Continual Ego, Exo and Ego-Exo Learning",
+                "homepage": null,
+                "id": 1252678721,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-16T15:29:29Z",
+                "open_issues": 0,
+                "owner": "AnAppleCore",
+                "repo": "CE4L",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1577,27 +1598,6 @@
                 "open_issues": 0,
                 "owner": "song-zixuan",
                 "repo": "CoMEM",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML2026] CE4L: Continual Ego, Exo and Ego-Exo Learning",
-                "homepage": null,
-                "id": 1252678721,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-06-16T15:29:29Z",
-                "open_issues": 0,
-                "owner": "AnAppleCore",
-                "repo": "CE4L",
                 "stars": 0,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3980,
+                "stars": 3982,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2143,6 +2143,27 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
+                "homepage": "https://arxiv.org/pdf/2510.19314",
+                "id": 1064471676,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-17T13:18:33Z",
+                "open_issues": 1,
+                "owner": "Fhujinwu",
+                "repo": "CKA-RL",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Policy Compatible Skill Incremental Learning via Lazy Learning Interface (NeurIPS 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2169,27 +2190,6 @@
                   "skill",
                   "skill-incremental-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
-                "homepage": "https://arxiv.org/pdf/2510.19314",
-                "id": 1064471676,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 1,
-                "owner": "Fhujinwu",
-                "repo": "CKA-RL",
-                "stars": 27,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -4694,7 +4694,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 46,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5987,6 +5987,27 @@
             },
             {
               "node_type": "item",
+              "title": "Prediction Error-based Classification for Class-Incremental Learning (ICLR2024)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Source code for the \"Prediction Error-based Classification for Class-Incremental Learning\" paper, ICLR 2024",
+                "homepage": null,
+                "id": 766153616,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-03-02T13:45:06Z",
+                "open_issues": 0,
+                "owner": "michalzajac-ml",
+                "repo": "pec",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (WACV2024)[paper",
               "description": "][code]",
               "children": [],
@@ -6179,27 +6200,6 @@
                 "open_issues": 1,
                 "owner": "Zoilsen",
                 "repo": "Comp-FSCIL",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Prediction Error-based Classification for Class-Incremental Learning (ICLR2024)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Source code for the \"Prediction Error-based Classification for Class-Incremental Learning\" paper, ICLR 2024",
-                "homepage": null,
-                "id": 766153616,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-02T13:45:06Z",
-                "open_issues": 0,
-                "owner": "michalzajac-ml",
-                "repo": "pec",
                 "stars": 11,
                 "topics": []
               },
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:34:08.712Z",
+    "last_updated": "2026-09-06T11:54:10.744Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
