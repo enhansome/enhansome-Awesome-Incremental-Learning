@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 216,
+            "stars": 217,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -329,6 +329,32 @@
             },
             {
               "node_type": "item",
+              "title": "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+                "homepage": null,
+                "id": 1179691496,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-27T03:03:29Z",
+                "open_issues": 2,
+                "owner": "LAMDA-CL",
+                "repo": "Prism",
+                "stars": 42,
+                "topics": [
+                  "continual-learning",
+                  "incremental-learning",
+                  "large-language-model",
+                  "multimodal-large-language-models"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -345,32 +371,6 @@
                 "repo": "Fly-CL",
                 "stars": 40,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
-                "homepage": null,
-                "id": 1179691496,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-27T03:03:29Z",
-                "open_issues": 2,
-                "owner": "LAMDA-CL",
-                "repo": "Prism",
-                "stars": 40,
-                "topics": [
-                  "continual-learning",
-                  "incremental-learning",
-                  "large-language-model",
-                  "multimodal-large-language-models"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3982,
+                "stars": 3984,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4467,
+                "stars": 4469,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7837,7 +7837,7 @@
                 "open_issues": 6,
                 "owner": "DonkeyShot21",
                 "repo": "cassle",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:54:10.744Z",
+    "last_updated": "2026-09-07T13:54:35.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
