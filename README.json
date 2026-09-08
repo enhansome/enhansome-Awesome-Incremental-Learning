@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 693,
+                "stars": 694,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3984,
+                "stars": 3988,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3562,6 +3562,27 @@
             },
             {
               "node_type": "item",
+              "title": "Decentralized Dynamic Cooperation of Personalized Models for Federated Continual Learning (NeurIPS 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 840151169,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-24T14:45:51Z",
+                "open_issues": 0,
+                "owner": "ydn3229",
+                "repo": "DCFCL",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (ICCV 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3682,27 +3703,6 @@
                 "owner": "yifeiacc",
                 "repo": "BiLoRA",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Decentralized Dynamic Cooperation of Personalized Models for Federated Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 840151169,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-24T14:45:51Z",
-                "open_issues": 0,
-                "owner": "ydn3229",
-                "repo": "DCFCL",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -6935,7 +6935,7 @@
                 "open_issues": 4,
                 "owner": "muzairkhattak",
                 "repo": "PromptSRC",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9397,7 +9397,7 @@
                 "open_issues": 8,
                 "owner": "srebuffi",
                 "repo": "iCaRL",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:54:35.345Z",
+    "last_updated": "2026-09-08T12:34:52.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
