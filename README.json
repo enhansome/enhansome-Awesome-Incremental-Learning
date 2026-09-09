@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "LAMDA-CL",
             "repo": "CIL_Survey",
-            "stars": 287,
+            "stars": 288,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -460,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
-                "stars": 24,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -826,6 +826,27 @@
             },
             {
               "node_type": "item",
+              "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment",
+                "homepage": null,
+                "id": 1165318334,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-24T03:39:34Z",
+                "open_issues": 1,
+                "owner": "ZhouKanglei",
+                "repo": "BriMA",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -905,27 +926,6 @@
                 "open_issues": 0,
                 "owner": "YonseiML",
                 "repo": "dpw",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment",
-                "homepage": null,
-                "id": 1165318334,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-02-24T03:39:34Z",
-                "open_issues": 1,
-                "owner": "ZhouKanglei",
-                "repo": "BriMA",
                 "stars": 7,
                 "topics": []
               },
@@ -1143,6 +1143,48 @@
             },
             {
               "node_type": "item",
+              "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR 2026: TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification",
+                "homepage": null,
+                "id": 881727401,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-06T12:54:13Z",
+                "open_issues": 0,
+                "owner": "YvoGao",
+                "repo": "TAPE",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "CVPR 2026: TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification",
+                "homepage": null,
+                "id": 881727401,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-06T12:54:13Z",
+                "open_issues": 0,
+                "owner": "YvoGao",
+                "repo": "TAPE",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
               "description": "] [code]",
               "children": [],
@@ -1199,48 +1241,6 @@
                 "open_issues": 0,
                 "owner": "zjrzjrz",
                 "repo": "RSIAT",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR 2026: TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification",
-                "homepage": null,
-                "id": 881727401,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-06T12:54:13Z",
-                "open_issues": 0,
-                "owner": "YvoGao",
-                "repo": "TAPE",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CVPR 2026: TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification",
-                "homepage": null,
-                "id": 881727401,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-06T12:54:13Z",
-                "open_issues": 0,
-                "owner": "YvoGao",
-                "repo": "TAPE",
                 "stars": 3,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3988,
+                "stars": 3992,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4469,
+                "stars": 4471,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4464,7 +4464,7 @@
                 "open_issues": 5,
                 "owner": "liangyanshuo",
                 "repo": "InfLoRA",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4536,7 +4536,7 @@
                 "open_issues": 2,
                 "owner": "zqiao11",
                 "repo": "TSCIL",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -4668,7 +4668,7 @@
                 "open_issues": 1,
                 "owner": "mashijie1028",
                 "repo": "Happy-CGCD",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "continual-learning",
                   "machine-learning",
@@ -8977,7 +8977,7 @@
                 "open_issues": 6,
                 "owner": "kjaved0",
                 "repo": "mrcl",
-                "stars": 207,
+                "stars": 208,
                 "topics": [
                   "continual",
                   "machine",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T12:34:52.611Z",
+    "last_updated": "2026-09-09T12:40:15.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4518,
+      "stars": 4519,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
