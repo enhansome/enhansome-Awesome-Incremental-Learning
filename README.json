@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1880,
+            "stars": 1881,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 262,
+                "stars": 264,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -435,7 +435,7 @@
                 "id": 968364760,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-24T19:40:56Z",
+                "last_commit": "2026-09-09T19:20:27Z",
                 "open_issues": 24,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
@@ -700,6 +700,27 @@
             },
             {
               "node_type": "item",
+              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
+                "homepage": null,
+                "id": 1169751906,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-31T06:51:17Z",
+                "open_issues": 2,
+                "owner": "zyt95579",
+                "repo": "PDP_IOD",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -735,27 +756,6 @@
                 "open_issues": 0,
                 "owner": "Nicolas1203",
                 "repo": "continual_distillation",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
-                "homepage": null,
-                "id": 1169751906,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-31T06:51:17Z",
-                "open_issues": 2,
-                "owner": "zyt95579",
-                "repo": "PDP_IOD",
                 "stars": 9,
                 "topics": []
               },
@@ -954,6 +954,27 @@
             },
             {
               "node_type": "item",
+              "title": "SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (ICLR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] Official Implementation for SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting",
+                "homepage": null,
+                "id": 925066259,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-06T08:21:05Z",
+                "open_issues": 0,
+                "owner": "iLearn-Lab",
+                "repo": "ICLR26-SplitLoRA",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1031,27 +1052,6 @@
                 "open_issues": 0,
                 "owner": "zihuanqiu",
                 "repo": "NUFILT",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (ICLR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] Official Implementation for SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting",
-                "homepage": null,
-                "id": 925066259,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-06T08:21:05Z",
-                "open_issues": 0,
-                "owner": "iLearn-Lab",
-                "repo": "ICLR26-SplitLoRA",
                 "stars": 6,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3992,
+                "stars": 3999,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1782,7 +1782,7 @@
                 "open_issues": 7,
                 "owner": "WuYichen-97",
                 "repo": "SD-Lora-CL",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1834,6 +1834,27 @@
             },
             {
               "node_type": "item",
+              "title": "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (ICCV 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization\" ICCV 2025",
+                "homepage": null,
+                "id": 1018259503,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-12T14:51:14Z",
+                "open_issues": 3,
+                "owner": "jan-ackermann",
+                "repo": "cl-splats",
+                "stars": 64,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "One-for-More: Continual Diffusion Model for Anomaly Detection (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -1849,27 +1870,6 @@
                 "owner": "FuNz-0",
                 "repo": "One-for-More",
                 "stars": 64,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (ICCV 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official code for \"CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization\" ICCV 2025",
-                "homepage": null,
-                "id": 1018259503,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-12T14:51:14Z",
-                "open_issues": 3,
-                "owner": "jan-ackermann",
-                "repo": "cl-splats",
-                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2603,6 +2603,27 @@
             },
             {
               "node_type": "item",
+              "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.\"",
+                "homepage": null,
+                "id": 941753928,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-28T08:17:24Z",
+                "open_issues": 0,
+                "owner": "scarlet0703",
+                "repo": "LoRA-Sub-DRS",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "On Large Language Model Continual Unlearning (ICLR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2617,6 +2638,27 @@
                 "open_issues": 2,
                 "owner": "GCYZSL",
                 "repo": "O3-LLM-UNLEARNING",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.\"",
+                "homepage": null,
+                "id": 941753928,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-28T08:17:24Z",
+                "open_issues": 0,
+                "owner": "scarlet0703",
+                "repo": "LoRA-Sub-DRS",
                 "stars": 19,
                 "topics": []
               },
@@ -2670,27 +2712,6 @@
             },
             {
               "node_type": "item",
-              "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.\"",
-                "homepage": null,
-                "id": 941753928,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-28T08:17:24Z",
-                "open_issues": 0,
-                "owner": "scarlet0703",
-                "repo": "LoRA-Sub-DRS",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Advancing Prompt-based Methods for Replay-Independent General Continual Learning (ICLR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2705,27 +2726,6 @@
                 "open_issues": 1,
                 "owner": "kangzhiq",
                 "repo": "MISA",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning.\"",
-                "homepage": null,
-                "id": 941753928,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-28T08:17:24Z",
-                "open_issues": 0,
-                "owner": "scarlet0703",
-                "repo": "LoRA-Sub-DRS",
                 "stars": 18,
                 "topics": []
               },
@@ -3583,6 +3583,27 @@
             },
             {
               "node_type": "item",
+              "title": "Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning (NeurIPS 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Official Implementation for Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning",
+                "homepage": null,
+                "id": 984253506,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-06T08:20:46Z",
+                "open_issues": 0,
+                "owner": "iLearn-Lab",
+                "repo": "NeurIPS25-P-M_CL",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (ICCV 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3703,27 +3724,6 @@
                 "owner": "yifeiacc",
                 "repo": "BiLoRA",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Official Implementation for Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning",
-                "homepage": null,
-                "id": 984253506,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-06T08:20:46Z",
-                "open_issues": 0,
-                "owner": "iLearn-Lab",
-                "repo": "NeurIPS25-P-M_CL",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4471,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:40:15.848Z",
+    "last_updated": "2026-09-10T12:39:24.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4519,
+      "stars": 4520,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
