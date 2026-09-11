@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1881,
+            "stars": 1882,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 264,
+                "stars": 265,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -435,7 +435,7 @@
                 "id": 968364760,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T19:20:27Z",
+                "last_commit": "2026-09-11T08:15:31Z",
                 "open_issues": 24,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
@@ -902,7 +902,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-23T08:47:40Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Artificer-AI-Lab",
                 "repo": "MoRAM",
                 "stars": 8,
@@ -926,6 +926,27 @@
                 "open_issues": 0,
                 "owner": "YonseiML",
                 "repo": "dpw",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 0,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
                 "stars": 7,
                 "topics": []
               },
@@ -1031,27 +1052,6 @@
                 "open_issues": 1,
                 "owner": "yfqi",
                 "repo": "lifelong_mlr_ifa",
-                "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 0,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
                 "stars": 6,
                 "topics": []
               },
@@ -2775,6 +2775,27 @@
             },
             {
               "node_type": "item",
+              "title": "Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 947271415,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-18T08:00:13Z",
+                "open_issues": 0,
+                "owner": "yychen016",
+                "repo": "BiMC",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging (NeurIPS 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2831,27 +2852,6 @@
                 "open_issues": 0,
                 "owner": "RHe502",
                 "repo": "ICML25-DPCR",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 947271415,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-18T08:00:13Z",
-                "open_issues": 0,
-                "owner": "yychen016",
-                "repo": "BiMC",
                 "stars": 15,
                 "topics": []
               },
@@ -5276,27 +5276,6 @@
             },
             {
               "node_type": "item",
-              "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 783350367,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-04-07T17:06:00Z",
-                "open_issues": 1,
-                "owner": "CVIR",
-                "repo": "ConvPrompt",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (AAAI2024) [paper",
               "description": "][code]",
               "children": [],
@@ -5319,6 +5298,27 @@
                   "incremental-learning",
                   "lifelong-learning"
                 ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 783350367,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-04-07T17:06:00Z",
+                "open_issues": 1,
+                "owner": "CVIR",
+                "repo": "ConvPrompt",
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:39:24.077Z",
+    "last_updated": "2026-09-11T12:31:58.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
