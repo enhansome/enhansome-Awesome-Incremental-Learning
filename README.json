@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "MaolinLuo",
                 "repo": "KeepLoRA",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -435,7 +435,7 @@
                 "id": 968364760,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T08:15:31Z",
+                "last_commit": "2026-09-12T05:24:00Z",
                 "open_issues": 24,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
@@ -1290,6 +1290,27 @@
             },
             {
               "node_type": "item",
+              "title": "Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats(CVPR2026)",
+                "homepage": null,
+                "id": 1176093751,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-06-15T14:45:29Z",
+                "open_issues": 0,
+                "owner": "aup520",
+                "repo": "FS_CAT",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quantized Gradient Projection for Memory-Efficient Continual Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1409,27 +1430,6 @@
                 "open_issues": 0,
                 "owner": "Zi-Jian-Gao",
                 "repo": "MaDQ",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats(CVPR2026)",
-                "homepage": null,
-                "id": 1176093751,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-06-15T14:45:29Z",
-                "open_issues": 0,
-                "owner": "aup520",
-                "repo": "FS_CAT",
                 "stars": 1,
                 "topics": []
               },
@@ -2396,9 +2396,9 @@
                 "id": 954933942,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-04-19T00:56:17Z",
+                "last_commit": "2026-09-11T16:07:05Z",
                 "open_issues": 1,
-                "owner": "apple",
+                "owner": "apple-aiml-research",
                 "repo": "ml-tic-lm",
                 "stars": 24,
                 "topics": []
@@ -2582,6 +2582,31 @@
             },
             {
               "node_type": "item",
+              "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025)",
+                "homepage": null,
+                "id": 1019921687,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-23T06:48:33Z",
+                "open_issues": 1,
+                "owner": "LAMDA-CL",
+                "repo": "ICCV2025-TUNA",
+                "stars": 19,
+                "topics": [
+                  "class-incremental-learning",
+                  "continual-learning",
+                  "incremental-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2682,31 +2707,6 @@
                 "repo": "VAMoE",
                 "stars": 18,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025)",
-                "homepage": null,
-                "id": 1019921687,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-09-23T06:48:33Z",
-                "open_issues": 1,
-                "owner": "LAMDA-CL",
-                "repo": "ICCV2025-TUNA",
-                "stars": 18,
-                "topics": [
-                  "class-incremental-learning",
-                  "continual-learning",
-                  "incremental-learning"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:31:58.170Z",
+    "last_updated": "2026-09-12T11:55:52.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4520,
+      "stars": 4521,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
