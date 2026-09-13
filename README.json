@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 694,
+                "stars": 695,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -435,8 +435,8 @@
                 "id": 968364760,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T05:24:00Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-12T20:31:53Z",
+                "open_issues": 25,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
                 "stars": 27,
@@ -742,27 +742,6 @@
             },
             {
               "node_type": "item",
-              "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official repository of our CVPR 2026 paper titled \"Continual Distillation of Teachers from Different Domains\".",
-                "homepage": null,
-                "id": 1191505963,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-04-13T08:27:53Z",
-                "open_issues": 0,
-                "owner": "Nicolas1203",
-                "repo": "continual_distillation",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Consistency-Driven Calibration and Matching for Few-Shot Class Incremental Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -777,6 +756,27 @@
                 "open_issues": 1,
                 "owner": "wire-wqz",
                 "repo": "ConCM",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository of our CVPR 2026 paper titled \"Continual Distillation of Teachers from Different Domains\".",
+                "homepage": null,
+                "id": 1191505963,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-13T08:27:53Z",
+                "open_issues": 0,
+                "owner": "Nicolas1203",
+                "repo": "continual_distillation",
                 "stars": 9,
                 "topics": []
               },
@@ -1059,6 +1059,27 @@
             },
             {
               "node_type": "item",
+              "title": "Skill Neologisms: Towards Skill-based Continual Learning (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for the paper \"Skill Neologisms: Towards Skill-based Continual Learning\", ICML 2026 (Spotlight)",
+                "homepage": null,
+                "id": 1242472747,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-18T13:13:25Z",
+                "open_issues": 0,
+                "owner": "antoninbrthn",
+                "repo": "skill-neologisms",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1094,27 +1115,6 @@
                 "open_issues": 0,
                 "owner": "SunGL001",
                 "repo": "MePo",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Skill Neologisms: Towards Skill-based Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for the paper \"Skill Neologisms: Towards Skill-based Continual Learning\", ICML 2026 (Spotlight)",
-                "homepage": null,
-                "id": 1242472747,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-18T13:13:25Z",
-                "open_issues": 0,
-                "owner": "antoninbrthn",
-                "repo": "skill-neologisms",
                 "stars": 5,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3999,
+                "stars": 4000,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1803,7 +1803,7 @@
                 "open_issues": 4,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 92,
+                "stars": 93,
                 "topics": [
                   "vision-and-language-navigation",
                   "world-model"
@@ -2607,27 +2607,6 @@
             },
             {
               "node_type": "item",
-              "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 977015866,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-03T06:29:53Z",
-                "open_issues": 1,
-                "owner": "zhoujiahuan1991",
-                "repo": "ICML2025-KA-Prompt",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2705,6 +2684,27 @@
                 "open_issues": 0,
                 "owner": "chenhao-zju",
                 "repo": "VAMoE",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 977015866,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-03T06:29:53Z",
+                "open_issues": 1,
+                "owner": "zhoujiahuan1991",
+                "repo": "ICML2025-KA-Prompt",
                 "stars": 18,
                 "topics": []
               },
@@ -4549,27 +4549,6 @@
             },
             {
               "node_type": "item",
-              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
-                "homepage": null,
-                "id": 824475693,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-09T01:49:02Z",
-                "open_issues": 0,
-                "owner": "lloongx",
-                "repo": "DIKI",
-                "stars": 57,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
               "description": "][code]",
               "children": [],
@@ -4585,6 +4564,27 @@
                 "owner": "KU-VGI",
                 "repo": "PriViLege",
                 "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
+                "homepage": null,
+                "id": 824475693,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-09T01:49:02Z",
+                "open_issues": 0,
+                "owner": "lloongx",
+                "repo": "DIKI",
+                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5317,7 +5317,7 @@
                 "open_issues": 1,
                 "owner": "CVIR",
                 "repo": "ConvPrompt",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7858,7 +7858,7 @@
                 "open_issues": 1,
                 "owner": "conditionWang",
                 "repo": "FCIL",
-                "stars": 124,
+                "stars": 125,
                 "topics": [
                   "continual-learning",
                   "cvpr2022",
@@ -8702,7 +8702,7 @@
                 "open_issues": 8,
                 "owner": "arthurdouillard",
                 "repo": "incremental_learning.pytorch",
-                "stars": 410,
+                "stars": 409,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:55:52.956Z",
+    "last_updated": "2026-09-13T13:04:13.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4521,
+      "stars": 4524,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
