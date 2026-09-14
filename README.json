@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 601,
+            "stars": 602,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 695,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 265,
+                "stars": 266,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -1437,6 +1437,27 @@
             },
             {
               "node_type": "item",
+              "title": "CHEEM:Continual Learning by Reuse, New, Adapt and Skip A Hierarchical Exploration-Exploitation Approach (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1193262040,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-20T02:08:40Z",
+                "open_issues": 1,
+                "owner": "savadikarc",
+                "repo": "cheem",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1536,27 +1557,6 @@
                 "owner": "OptMN-Lab",
                 "repo": "SABER-ICML-2026",
                 "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CHEEM:Continual Learning by Reuse, New, Adapt and Skip A Hierarchical Exploration-Exploitation Approach (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1193262040,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-08-20T02:08:40Z",
-                "open_issues": 1,
-                "owner": "savadikarc",
-                "repo": "cheem",
-                "stars": 0,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1728,10 +1728,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:15:39Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4000,
+                "stars": 4003,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2954,7 +2954,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-23T13:44:15Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "MyToumaKazusa",
                 "repo": "S6MOD",
                 "stars": 14,
@@ -3709,6 +3709,27 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1002596954,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-18T06:29:32Z",
+                "open_issues": 2,
+                "owner": "daihao42",
+                "repo": "VB-CGCD",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3724,27 +3745,6 @@
                 "owner": "yifeiacc",
                 "repo": "BiLoRA",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1002596954,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-18T06:29:32Z",
-                "open_issues": 2,
-                "owner": "daihao42",
-                "repo": "VB-CGCD",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4473,
+                "stars": 4474,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:04:13.939Z",
+    "last_updated": "2026-09-14T14:40:41.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4524,
+      "stars": 4525,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
