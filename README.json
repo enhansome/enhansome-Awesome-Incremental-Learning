@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1882,
+            "stars": 1883,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 562,
+            "stars": 563,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 697,
+                "stars": 699,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 266,
+                "stars": 268,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -322,7 +322,7 @@
                 "open_issues": 0,
                 "owner": "MaolinLuo",
                 "repo": "KeepLoRA",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -826,6 +826,27 @@
             },
             {
               "node_type": "item",
+              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
+                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
+                "id": 1242284307,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-23T08:47:40Z",
+                "open_issues": 1,
+                "owner": "Artificer-AI-Lab",
+                "repo": "MoRAM",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -886,27 +907,6 @@
                 "topics": [
                   "continual-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
-                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
-                "id": 1242284307,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-23T08:47:40Z",
-                "open_issues": 1,
-                "owner": "Artificer-AI-Lab",
-                "repo": "MoRAM",
-                "stars": 8,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4003,
+                "stars": 4007,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2164,6 +2164,27 @@
             },
             {
               "node_type": "item",
+              "title": "DMNSP: Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning (ICCV 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICCV 2025] Official code of paper \"Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning\"",
+                "homepage": null,
+                "id": 1026966562,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2025-09-08T09:42:43Z",
+                "open_issues": 2,
+                "owner": "RL-VIG",
+                "repo": "DMNSP",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Policy Compatible Skill Incremental Learning via Lazy Learning Interface (NeurIPS 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2190,27 +2211,6 @@
                   "skill",
                   "skill-incremental-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DMNSP: Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning (ICCV 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICCV 2025] Official code of paper \"Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning\"",
-                "homepage": null,
-                "id": 1026966562,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2025-09-08T09:42:43Z",
-                "open_issues": 2,
-                "owner": "RL-VIG",
-                "repo": "DMNSP",
-                "stars": 27,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -2254,27 +2254,6 @@
                 "owner": "bwnzheng",
                 "repo": "TagFex_CVPR2025",
                 "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Revisiting Generative Replay for Class Incremental Object Detection (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"Revisiting Generative Replay for Class Incremental Object Detection.\"",
-                "homepage": null,
-                "id": 949724223,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-03-01T12:52:46Z",
-                "open_issues": 4,
-                "owner": "qiangzai-lv",
-                "repo": "RGR-IOD",
-                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2337,6 +2316,27 @@
                 "open_issues": 0,
                 "owner": "tanganke",
                 "repo": "opcm",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Revisiting Generative Replay for Class Incremental Object Detection (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of our CVPR 2025 paper, \"Revisiting Generative Replay for Class Incremental Object Detection.\"",
+                "homepage": null,
+                "id": 949724223,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-03-01T12:52:46Z",
+                "open_issues": 4,
+                "owner": "qiangzai-lv",
+                "repo": "RGR-IOD",
                 "stars": 25,
                 "topics": []
               },
@@ -4293,11 +4293,11 @@
                 "id": 577753426,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-25T06:15:21Z",
+                "last_commit": "2026-09-15T03:52:32Z",
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7786,7 +7786,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-02-23T04:21:56Z",
-                "open_issues": 6,
+                "open_issues": 5,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
                 "stars": 395,
@@ -8445,7 +8445,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1075,
+                "stars": 1074,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T14:40:41.357Z",
+    "last_updated": "2026-09-15T13:05:26.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
