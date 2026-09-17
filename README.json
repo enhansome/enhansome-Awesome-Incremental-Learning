@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 602,
+            "stars": 603,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -540,27 +540,6 @@
             },
             {
               "node_type": "item",
-              "title": "One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning \" (ICLR 2026)",
-                "homepage": null,
-                "id": 1152360328,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-03-29T09:41:52Z",
-                "open_issues": 1,
-                "owner": "Minhchuyentoancbn",
-                "repo": "SMoPE",
-                "stars": 17,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -575,6 +554,27 @@
                 "open_issues": 0,
                 "owner": "haodotgu",
                 "repo": "EBLoRA",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (ICLR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning \" (ICLR 2026)",
+                "homepage": null,
+                "id": 1152360328,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-03-29T09:41:52Z",
+                "open_issues": 1,
+                "owner": "Minhchuyentoancbn",
+                "repo": "SMoPE",
                 "stars": 17,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4007,
+                "stars": 4011,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2115,7 +2115,7 @@
                 "open_issues": 4,
                 "owner": "FisherCats",
                 "repo": "CLG-CBM",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4536,7 +4536,7 @@
                 "open_issues": 2,
                 "owner": "zqiao11",
                 "repo": "TSCIL",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -4935,6 +4935,30 @@
             },
             {
               "node_type": "item",
+              "title": "CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV24)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV' 24 Oral] CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection",
+                "homepage": null,
+                "id": 822980022,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-09-26T05:15:31Z",
+                "open_issues": 2,
+                "owner": "CUHK-AIM-Group",
+                "repo": "CLIFF",
+                "stars": 33,
+                "topics": [
+                  "diffusion-models",
+                  "open-vocabulary-detection"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "MagMax: Leveraging Model Merging for Seamless Continual Learning (ECCV24)[paper",
               "description": "][code]",
               "children": [],
@@ -4953,30 +4977,6 @@
                 "topics": [
                   "continual-learning",
                   "model-merging"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV24)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV' 24 Oral] CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection",
-                "homepage": null,
-                "id": 822980022,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-09-26T05:15:31Z",
-                "open_issues": 2,
-                "owner": "CUHK-AIM-Group",
-                "repo": "CLIFF",
-                "stars": 32,
-                "topics": [
-                  "diffusion-models",
-                  "open-vocabulary-detection"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:02:25.158Z",
+    "last_updated": "2026-09-17T13:00:06.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4525,
+      "stars": 4526,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
