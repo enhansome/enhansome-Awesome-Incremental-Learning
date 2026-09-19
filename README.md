@@ -60,7 +60,7 @@
 
 * <a name="todo"></a> One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf?id=B8eIc9783S)]\[[code](https://github.com/Minhchuyentoancbn/SMoPE) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-03-29]
 
-* <a name="todo"></a> MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20297)]\[[code](https://github.com/zygao930/MedCRP-CL) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-01]
+* <a name="todo"></a> MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20297)]\[[code](https://github.com/zygao930/MedCRP-CL) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-19]
 
 * <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-03-01]
 
@@ -70,7 +70,7 @@
 
 * <a name="todo"></a> AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.28809)]\[[code](https://github.com/LAMDA-CL/ICML2026-AREA) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-07-06]
 
-* <a name="todo"></a> Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Beyond_Prompt_Degradation_Prototype-guided_Dual-pool_Prompting_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)]\[[code](https://github.com/zyt95579/PDP_IOD) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2026-05-31]
+* <a name="todo"></a> Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Beyond_Prompt_Degradation_Prototype-guided_Dual-pool_Prompting_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)]\[[code](https://github.com/zyt95579/PDP_IOD) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-05-31]
 
 * <a name="todo"></a> Rethinking Continual Learning with Progressive Neural Collapse (**ICLR 2026**) \[[paper](https://arxiv.org/abs/2505.24254)]\[[code](https://github.com/Continue-Edge-AI-Lab/ProNC) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-02-23]
 
@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,012 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,015 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 838 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -398,8 +398,6 @@
 
 * <a name="todo"></a> Do Your Best and Get Enough Rest for Continual Learning (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2503.18371)]\[[code](https://github.com/hankyul2/ViewBatchModel) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-05-22]
 
-* <a name="todo"></a> MemEIC: A Step Toward Continual and Compositional Knowledge Editing (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/e5209240370185240edeb5bc9a5296481fd5702b.pdf)]\[[code](https://github.com/MemEIC/MemEIC) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
-
 * <a name="todo"></a> Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/56abd1b9e44f24af3bcebd2180eeda7e45eb5cd2.pdf)]\[[code](https://github.com/tanganke/opcm) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
 
 * <a name="todo"></a> Revisiting Generative Replay for Class Incremental Object Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Ye_Online_Task-Free_Continual_Learning_via_Dynamic_Expansionable_Memory_Distribution_CVPR_2025_paper.pdf)]\[[code](https://github.com/qiangzai-lv/RGR-IOD) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-03-01]
@@ -407,6 +405,8 @@
 * <a name="todo"></a> ProtoDepth: Unsupervised Continual Depth Completion with Prototypes (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Rim_ProtoDepth_Unsupervised_Continual_Depth_Completion_with_Prototypes_CVPR_2025_paper.pdf)]\[[code](https://github.com/patrickqrim/ProtoDepth) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-12-10]
 
 * <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=Iu8FVcUmVp)]\[[code](https://github.com/wang-qiuchen/PseDet) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-09-16]
+
+* <a name="todo"></a> MemEIC: A Step Toward Continual and Compositional Knowledge Editing (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/e5209240370185240edeb5bc9a5296481fd5702b.pdf)]\[[code](https://github.com/MemEIC/MemEIC) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
 
 * <a name="todo"></a> TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.1551.pdf)]\[[code](https://github.com/apple/ml-tic-lm) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-09-11]
 
@@ -510,6 +510,8 @@
 
 * <a name="todo"></a> Learning Multi-Source and Robust Representations for Continual Learning (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/4fb5e1c944bb7f5a7bbd0940acd385632ffe1643.pdf)]\[[code](https://github.com/CL-Coder236/LMSRR) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-28]
 
+* <a name="todo"></a> iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2506.00406)]\[[code](https://github.com/HarveyYi/iDPA) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-08]
+
 * <a name="todo"></a> Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yin_Beyond_Background_Shift_Rethinking_Instance_Replay_in_Continual_Semantic_Segmentation_CVPR_2025_paper.pdf)]\[[code](https://github.com/YikeYin97/EIR) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2025-04-27]
 
 * <a name="todo"></a> Adaptive Retention & Correction: Test-Time Training for Continual Learning (**ICLR 2025**) \[[paper](https://arxiv.org/pdf/2405.14318)]\[[code](https://github.com/HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-08-12]
@@ -530,8 +532,6 @@
 
 * <a name="todo"></a> Continual Gradient Low-Rank Projection Fine-Tuning for LLMs (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.721.pdf)]\[[code](https://github.com/Wcxwcxw/GORP) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-10-29]
 
-* <a name="todo"></a> iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2506.00406)]\[[code](https://github.com/HarveyYi/iDPA) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-12-08]
-
 * <a name="todo"></a> Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (**ICML 2025**) \[[paper](https://openreview.net/pdf?id=Jhsyra8NpQ)]\[[code](https://github.com/daihao42/VB-CGCD) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-07-18]
 
 * <a name="todo"></a>  BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Zhu_BiLoRA_Almost-Orthogonal_Parameter_Spaces_for_Continual_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/yifeiacc/BiLoRA) ⭐ 7 | 🐛 5 | 🌐 Python | 📅 2025-10-20]
@@ -544,6 +544,8 @@
 
 * <a name="todo"></a> ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=HF1UmIVv6a)]\[[code](https://github.com/Ze-Yang/ADAPT) ⭐ 5 | 🐛 1 | 📅 2025-06-15]
 
+* <a name="todo"></a> Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2505.19680)]\[[code](https://github.com/wxr99/Cut-Replay) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-05]
+
 * <a name="todo"></a> C-CLIP: Multimodal Continual Learning for Vision-Language Model (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=sb7qHFYwBc)]\[[code](https://github.com/SmallPigPeppa/C-CLIP) ⭐ 4 | 🐛 1 | 📅 2025-03-01]
 
 * <a name="todo"></a> Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models (**ICML 2025**) \[[paper](https://openreview.net/attachment?id=6udKBHc0Mr\&name=pdf)]\[[code](https://github.com/ZERO-9215/Online-CL-LLMs) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-07-23]
@@ -551,8 +553,6 @@
 * <a name="todo"></a> Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2506.00592)]\[[code](https://github.com/lixiangqi707/3D-FLEG) ⭐ 3 | 🐛 1 | 📅 2025-05-26]
 
 * <a name="todo"></a> CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning (**ICML 2025**) \[[paper](https://openreview.net/attachment?id=lvkVhZ776k\&name=pdf)]\[[code](https://github.com/XuankunRong/CAN) ⭐ 3 | 🐛 1 | 📅 2025-06-22]
-
-* <a name="todo"></a> Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2505.19680)]\[[code](https://github.com/wxr99/Cut-Replay) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-05]
 
 * <a name="todo"></a> H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.pdf)]\[[code](https://github.com/YuhangLiuu/H2ST) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2025-03-16]
 
@@ -798,7 +798,7 @@
 
 ### 2024
 
-* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,475 | 🐛 119 | 🌐 Python | 📅 2026-09-15]
+* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,476 | 🐛 119 | 🌐 Python | 📅 2026-09-15]
 
 * <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 838 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -806,7 +806,7 @@
 
 * <a name="todo"></a> Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (**ECCV24**)\[[paper](https://arxiv.org/abs/2404.14351)]\[[code](https://github.com/nianticlabs/acezero) ⭐ 807 | 🐛 1 | 🌐 Python | 📅 2025-11-10]
 
-* <a name="todo"></a> Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (**CVPR2024**)\[[paper](https://arxiv.org/abs/2403.11549)]\[[code](https://github.com/JiazuoYu/MoE-Adapters4CL) ⭐ 279 | 🐛 9 | 🌐 Python | 📅 2025-09-18]
+* <a name="todo"></a> Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (**CVPR2024**)\[[paper](https://arxiv.org/abs/2403.11549)]\[[code](https://github.com/JiazuoYu/MoE-Adapters4CL) ⭐ 280 | 🐛 9 | 🌐 Python | 📅 2025-09-18]
 
 * <a name="todo"></a> Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning (**CVPR2024**)\[[paper](https://arxiv.org/abs/2311.17597)]\[[code](https://github.com/yeerwen/MedCoSS) ⭐ 150 | 🐛 7 | 🌐 Python | 📅 2024-10-20]
 
@@ -904,13 +904,13 @@
 
 * <a name="todo"></a> GACL: Exemplar-Free Generalized Analytic Continual Learning (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/7d7f8049c3a8d96f5824e696ca7a41551b337c51.pdf)]\[[code](https://github.com/CHEN-YIZHU/GACL) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2024-11-05]
 
+* <a name="todo"></a> Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (**ECCV24**)\[[paper](https://arxiv.org/abs/2409.10956)]\[[code](https://github.com/KHU-AGI/VIL) ⭐ 19 | 🐛 4 | 🌐 Python | 📅 2024-09-23]
+
 * <a name="todo"></a> Exemplar-free Continual Representation Learning via Learnable Drift Compensation (**ECCV24**)\[[paper](https://arxiv.org/abs/2407.08536)]\[[code](https://github.com/alviur/ldc) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2024-11-13]
 
 * <a name="todo"></a> Traceable Federated Continual Learning (**CVPR2024**)\[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Traceable_Federated_Continual_Learning_CVPR_2024_paper.pdf)]\[[code](https://github.com/P0werWeirdo/TagFCL) ⭐ 19 | 🐛 1 | 🌐 Python | 📅 2024-05-31]
 
 * <a name="todo"></a> Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning (**AAAI 2024**) \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33842)]\[[code](https://github.com/Zi-Jian-Gao/Maintaining-Fairness-in-LKD-for-CIL) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2025-04-14]
-
-* <a name="todo"></a> Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (**ECCV24**)\[[paper](https://arxiv.org/abs/2409.10956)]\[[code](https://github.com/KHU-AGI/VIL) ⭐ 18 | 🐛 4 | 🌐 Python | 📅 2024-09-23]
 
 * <a name="todo"></a> Improving Plasticity in Online Continual Learning via Collaborative Learning (**CVPR2024**)\[[paper](https://arxiv.org/abs/2312.00600)]\[[code](https://github.com/maorong-wang/CCL-DC) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2024-06-23]
 
@@ -1184,7 +1184,7 @@
 
 ### 2023
 
-* <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2307.06948)]\[[code](https://github.com/muzairkhattak/PromptSRC) ⭐ 287 | 🐛 4 | 🌐 Python | 📅 2023-09-28]
+* <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2307.06948)]\[[code](https://github.com/muzairkhattak/PromptSRC) ⭐ 288 | 🐛 4 | 🌐 Python | 📅 2023-09-28]
 * <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2211.13218.pdf)]\[[code](https://github.com/GT-RIPL/CODA-Prompt) ⭐ 161 | 🐛 5 | 🌐 Python | 📅 2023-10-05]
 * <a name="todo"></a> Continual Detection Transformer for Incremental Object Detection (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2304.03110.pdf)]\[[code](https://github.com/yaoyao-liu/CL-DETR) ⭐ 112 | 🐛 14 | 🌐 Python | 📅 2025-01-26]
 * <a name="todo"></a> Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV 2023**)\[[paper](https://arxiv.org/pdf/2303.06628.pdf)]\[[code](https://github.com/Thunderbeee/ZSCL) ⭐ 111 | 🐛 8 | 🌐 Python | 📅 2024-03-05]
@@ -1200,8 +1200,8 @@
 * <a name="todo"></a> Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2308.09303)]\[[code](https://github.com/moonjunyyy/si-blurry) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-10-26]
 * <a name="todo"></a> CLR: Channel-wise Lightweight Reprogramming for Continual Learning (**ICCV 2023**)\[[paper](https://arxiv.org/pdf/2307.11386.pdf)]\[[code](https://github.com/gyhandy/Channel-wise-Lightweight-Reprogramming) ⭐ 32 | 🐛 3 | 🌐 Python | 📅 2024-06-07]
 * <a name="todo"></a> Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning (**ICCV 2023**)\[[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Shi_Prototype_Reminiscence_and_Augmented_Asymmetric_Knowledge_Aggregation_for_Non-Exemplar_Class-Incremental_ICCV_2023_paper.html)]\[[code](https://github.com/ShiWuxuan/PRAKA) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2024-12-25]
+* <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2303.14042.pdf)]\[[code](https://github.com/xfflzl/CIM-CIL) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2023-06-21]
 * <a name="todo"></a> PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2304.04408.pdf)]\[[code](https://github.com/FelixHuiweiLin/PCR) ⭐ 27 | 🐛 4 | 🌐 Python | 📅 2026-02-27]
-* <a name="todo"></a> Class-Incremental Exemplar Compression for Class-Incremental Learning (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2303.14042.pdf)]\[[code](https://github.com/xfflzl/CIM-CIL) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2023-06-21]
 * <a name="todo"></a> Do Pre-trained Models Benefit Equally in Continual Learning? (**WACV2023**)\[[paper](https://arxiv.org/abs/2210.15701)] \[[code](https://github.com/eric11220/pretrained-models-in-CL) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-10-20]
 * <a name="todo"></a> Class-Incremental Grouping Network for Continual Audio-Visual Learning (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2309.05281)]\[[code](https://github.com/stoneMo/CIGN) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2023-09-11]
 * <a name="todo"></a> Computationally Budgeted Continual Learning: What Does Matter? (**CVPR2023**)\[[paper](https://arxiv.org/abs/2303.11165)]\[[code](https://github.com/drimpossible/BudgetCL) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2024-03-16]
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

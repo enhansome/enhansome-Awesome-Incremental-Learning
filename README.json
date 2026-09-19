@@ -592,7 +592,7 @@
                 "id": 1234754188,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T06:07:46Z",
+                "last_commit": "2026-09-19T04:49:05Z",
                 "open_issues": 0,
                 "owner": "zygao930",
                 "repo": "MedCRP-CL",
@@ -714,7 +714,7 @@
                 "open_issues": 2,
                 "owner": "zyt95579",
                 "repo": "PDP_IOD",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4012,
+                "stars": 4015,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2281,27 +2281,6 @@
             },
             {
               "node_type": "item",
-              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
-                "homepage": null,
-                "id": 1077233616,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-23T01:33:41Z",
-                "open_issues": 0,
-                "owner": "MemEIC",
-                "repo": "MemEIC",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2380,6 +2359,27 @@
                 "owner": "wang-qiuchen",
                 "repo": "PseDet",
                 "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
+                "homepage": null,
+                "id": 1077233616,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-23T01:33:41Z",
+                "open_issues": 0,
+                "owner": "MemEIC",
+                "repo": "MemEIC",
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3478,6 +3478,27 @@
             },
             {
               "node_type": "item",
+              "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (Accepted by ICML 25)",
+                "homepage": null,
+                "id": 990369370,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-08T03:29:29Z",
+                "open_issues": 1,
+                "owner": "HarveyYi",
+                "repo": "iDPA",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3688,27 +3709,6 @@
             },
             {
               "node_type": "item",
-              "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (Accepted by ICML 25)",
-                "homepage": null,
-                "id": 990369370,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-08T03:29:29Z",
-                "open_issues": 1,
-                "owner": "HarveyYi",
-                "repo": "iDPA",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (ICML 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3835,6 +3835,27 @@
             },
             {
               "node_type": "item",
+              "title": "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (ICML 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning [ICML2025]",
+                "homepage": null,
+                "id": 979401350,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-08-05T23:51:32Z",
+                "open_issues": 0,
+                "owner": "wxr99",
+                "repo": "CUTER",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "C-CLIP: Multimodal Continual Learning for Vision-Language Model (ICLR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3912,27 +3933,6 @@
                 "open_issues": 1,
                 "owner": "XuankunRong",
                 "repo": "CAN",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (ICML 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning [ICML2025]",
-                "homepage": null,
-                "id": 979401350,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-08-05T23:51:32Z",
-                "open_issues": 0,
-                "owner": "wxr99",
-                "repo": "CUTER",
                 "stars": 3,
                 "topics": []
               },
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4422,7 +4422,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5513,6 +5513,27 @@
             },
             {
               "node_type": "item",
+              "title": "Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (ECCV24)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning",
+                "homepage": null,
+                "id": 828778707,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-09-23T01:33:00Z",
+                "open_issues": 4,
+                "owner": "KU-VGI",
+                "repo": "VIL",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Exemplar-free Continual Representation Learning via Learnable Drift Compensation (ECCV24)[paper",
               "description": "][code]",
               "children": [],
@@ -5571,27 +5592,6 @@
                 "open_issues": 1,
                 "owner": "Zi-Jian-Gao",
                 "repo": "Maintaining-Fairness-in-LKD-for-CIL",
-                "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning",
-                "homepage": null,
-                "id": 828778707,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-09-23T01:33:00Z",
-                "open_issues": 4,
-                "owner": "KU-VGI",
-                "repo": "VIL",
                 "stars": 18,
                 "topics": []
               },
@@ -6935,7 +6935,7 @@
                 "open_issues": 4,
                 "owner": "muzairkhattak",
                 "repo": "PromptSRC",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7278,27 +7278,6 @@
             },
             {
               "node_type": "item",
-              "title": "PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (CVPR2023)[paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning",
-                "homepage": null,
-                "id": 611541776,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-02-27T14:38:26Z",
-                "open_issues": 4,
-                "owner": "FelixHuiweiLin",
-                "repo": "PCR",
-                "stars": 27,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Class-Incremental Exemplar Compression for Class-Incremental Learning (CVPR2023)[paper",
               "description": "][code]",
               "children": [],
@@ -7313,6 +7292,27 @@
                 "open_issues": 3,
                 "owner": "xfflzl",
                 "repo": "CIM-CIL",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (CVPR2023)[paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning",
+                "homepage": null,
+                "id": 611541776,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-02-27T14:38:26Z",
+                "open_issues": 4,
+                "owner": "FelixHuiweiLin",
+                "repo": "PCR",
                 "stars": 27,
                 "topics": []
               },
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:39:17.803Z",
+    "last_updated": "2026-09-19T12:14:14.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
