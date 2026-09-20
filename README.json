@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 699,
+                "stars": 702,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -625,7 +625,7 @@
                 "open_issues": 2,
                 "owner": "datake",
                 "repo": "FAME",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1332,6 +1332,27 @@
             },
             {
               "node_type": "item",
+              "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML2026] CE4L: Continual Ego, Exo and Ego-Exo Learning",
+                "homepage": null,
+                "id": 1252678721,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-16T15:29:29Z",
+                "open_issues": 0,
+                "owner": "AnAppleCore",
+                "repo": "CE4L",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation. (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1514,27 +1535,6 @@
                 "open_issues": 0,
                 "owner": "yhyet",
                 "repo": "HC_SOINN",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML2026] CE4L: Continual Ego, Exo and Ego-Exo Learning",
-                "homepage": null,
-                "id": 1252678721,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-06-16T15:29:29Z",
-                "open_issues": 0,
-                "owner": "AnAppleCore",
-                "repo": "CE4L",
                 "stars": 1,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4015,
+                "stars": 4016,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:14:14.093Z",
+    "last_updated": "2026-09-20T12:49:14.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9539,7 +9539,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-06-27T08:44:09Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
       "stars": 4528,

@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 699 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 702 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
@@ -62,7 +62,7 @@
 
 * <a name="todo"></a> MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20297)]\[[code](https://github.com/zygao930/MedCRP-CL) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-09-19]
 
-* <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-03-01]
+* <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2026-03-01]
 
 * <a name="todo"></a> MergeTune: Continued Fine-Tuning of Vision-Language Models (**ICLR 2026**) \[[paper](https://openreview.net/pdf/dc7bd9df5a2b1278492c62046a6415123282688d.pdf)]\[[code](https://github.com/Surrey-UP-Lab/MERGETUNE) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-02-25]
 
@@ -130,6 +130,8 @@
 
 * <a name="todo"></a> Quantized Gradient Projection for Memory-Efficient Continual Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/f82105f7490d138a203498297193fe343cf16799.pdf)]\[[code](https://github.com/Dongjun0101/Quantized-Gradient-Projection-for-Memory-Efficient-Continual-Learning?tab=readme-ov-file) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-02-07]
 
+* <a name="todo"></a> CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (**ICML 2026**) \[[paper](https://icml.cc/virtual/2026/poster/63900)]\[[code](https://github.com/AnAppleCore/CE4L) ⭐ 2 | 🐛 0 | 📅 2026-06-16]
+
 * <a name="todo"></a> ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation. (**ICML 2026**) \[[paper](https://arxiv.org/abs/2606.12633)]\[[code](https://github.com/Snowball0823/ECA) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-06-25]
 
 * <a name="todo"></a> GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning (**ICML 2026**) \[[paper](https://icml.cc/virtual/2026/poster/64527)]\[[code](https://github.com/njustkmg/ICML26-GR-LoRA) ⭐ 2 | 🐛 0 | 📅 2026-05-12]
@@ -147,8 +149,6 @@
 * <a name="todo"></a> HippoTune: A Hippocampal Associative Loop–Inspired Fine-Tuning Method for Continual Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/37c6dea361a35fe6de4f2d583dac6a7d752a0b6e.pdf)]\[[code](https://github.com/yan4xi1/HippoTune) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-02-26]
 
 * <a name="todo"></a> Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.11904)]\[[code](https://github.com/yhyet/HC_SOINN) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-14]
-
-* <a name="todo"></a> CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (**ICML 2026**) \[[paper](https://icml.cc/virtual/2026/poster/63900)]\[[code](https://github.com/AnAppleCore/CE4L) ⭐ 1 | 🐛 0 | 📅 2026-06-16]
 
 * <a name="todo"></a> Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2606.01379)]\[[code](https://github.com/OptMN-Lab/SABER-ICML-2026) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-30]
 
@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,015 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,016 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 838 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -798,7 +798,7 @@
 
 ### 2024
 
-* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,476 | 🐛 119 | 🌐 Python | 📅 2026-09-15]
+* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,475 | 🐛 119 | 🌐 Python | 📅 2026-09-15]
 
 * <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 838 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
