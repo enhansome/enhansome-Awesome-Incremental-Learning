@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 220,
+            "stars": 221,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 702,
+                "stars": 703,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1059,6 +1059,27 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1243848870,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2026-07-11T17:26:08Z",
+                "open_issues": 0,
+                "owner": "prinshul",
+                "repo": "JASCL",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Skill Neologisms: Towards Skill-based Continual Learning (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1074,27 +1095,6 @@
                 "owner": "antoninbrthn",
                 "repo": "skill-neologisms",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1243848870,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2026-07-11T17:26:08Z",
-                "open_issues": 0,
-                "owner": "prinshul",
-                "repo": "JASCL",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4016,
+                "stars": 4017,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4474,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T12:49:14.582Z",
+    "last_updated": "2026-09-21T14:47:37.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4528,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
