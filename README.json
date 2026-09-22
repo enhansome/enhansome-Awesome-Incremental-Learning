@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 563,
+            "stars": 564,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -516,6 +516,27 @@
             },
             {
               "node_type": "item",
+              "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1146578852,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-23T13:59:11Z",
+                "open_issues": 0,
+                "owner": "haodotgu",
+                "repo": "EBLoRA",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning (ICLR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -535,27 +556,6 @@
                   "brain-inspired-ai",
                   "continual-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1146578852,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-23T13:59:11Z",
-                "open_issues": 0,
-                "owner": "haodotgu",
-                "repo": "EBLoRA",
-                "stars": 18,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1069,7 +1069,7 @@
                 "id": 1243848870,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-07-11T17:26:08Z",
+                "last_commit": "2026-09-22T05:53:26Z",
                 "open_issues": 0,
                 "owner": "prinshul",
                 "repo": "JASCL",
@@ -1343,7 +1343,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-16T15:29:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "AnAppleCore",
                 "repo": "CE4L",
                 "stars": 2,
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4017,
+                "stars": 4018,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2012,6 +2012,27 @@
             },
             {
               "node_type": "item",
+              "title": "CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 946019938,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-07-14T21:32:35Z",
+                "open_issues": 1,
+                "owner": "JiangpengHe",
+                "repo": "CL-LoRA",
+                "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2047,27 +2068,6 @@
                 "open_issues": 1,
                 "owner": "MaolinLuo",
                 "repo": "LADA",
-                "stars": 40,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 946019938,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-07-14T21:32:35Z",
-                "open_issues": 1,
-                "owner": "JiangpengHe",
-                "repo": "CL-LoRA",
                 "stars": 40,
                 "topics": []
               },
@@ -4297,7 +4297,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4474,
+                "stars": 4473,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 839,
+                "stars": 841,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:47:37.718Z",
+    "last_updated": "2026-09-22T13:02:11.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
