@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 44,
+                "stars": 45,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -477,7 +477,7 @@
                 "id": 1146514914,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-12T06:12:57Z",
+                "last_commit": "2026-09-24T09:22:14Z",
                 "open_issues": 1,
                 "owner": "LMMMEng",
                 "repo": "CaRE",
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4021,
+                "stars": 4022,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4294,10 +4294,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T03:52:32Z",
-                "open_issues": 119,
+                "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:17:23.956Z",
+    "last_updated": "2026-09-24T13:07:01.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
