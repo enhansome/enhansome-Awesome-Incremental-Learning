@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 603,
+            "stars": 604,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 6,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 703,
+                "stars": 704,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4022,
+                "stars": 4023,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3856,6 +3856,27 @@
             },
             {
               "node_type": "item",
+              "title": "H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (CVPR 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 949347941,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-16T08:48:34Z",
+                "open_issues": 4,
+                "owner": "YuhangLiuu",
+                "repo": "H2ST",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "C-CLIP: Multimodal Continual Learning for Vision-Language Model (ICLR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -3933,27 +3954,6 @@
                 "open_issues": 1,
                 "owner": "XuankunRong",
                 "repo": "CAN",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (CVPR 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 949347941,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-16T08:48:34Z",
-                "open_issues": 4,
-                "owner": "YuhangLiuu",
-                "repo": "H2ST",
                 "stars": 3,
                 "topics": []
               },
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T13:07:01.899Z",
+    "last_updated": "2026-09-25T13:12:35.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4528,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",

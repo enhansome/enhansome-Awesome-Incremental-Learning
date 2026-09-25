@@ -3,7 +3,7 @@
 ## Survey
 
 * <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  \[[paper](https://openreview.net/forum?id=9aZ2ixiYGd)]\[[code](https://github.com/GMvandeVen/continual-learning) ⭐ 1,884 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-11-05]
-* <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  \[[paper](https://arxiv.org/abs/2401.16386)]\[[code](https://github.com/sun-hailong/LAMDA-PILOT) ⭐ 603 | 🐛 6 | 🌐 Python | 📅 2026-01-29]
+* <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  \[[paper](https://arxiv.org/abs/2401.16386)]\[[code](https://github.com/sun-hailong/LAMDA-PILOT) ⭐ 604 | 🐛 6 | 🌐 Python | 📅 2026-01-29]
 * <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**TPAMI 2022**) \[[paper](https://arxiv.org/abs/2010.15277)] \[[code](https://github.com/mmasana/FACIL) ⭐ 569 | 🐛 11 | 🌐 Python | 📅 2023-05-26]
 * <a name="todo"></a> Continual Learning of Large Language Models: A Comprehensive Survey (**arXiv 2024**)  \[[paper](https://arxiv.org/abs/2404.16789)]\[[code](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) ⭐ 564 | 🐛 0 | 📅 2025-12-23]
 * <a name="todo"></a> Online Continual Learning in Image Classification: An Empirical Survey (**Neurocomputing 2021**) \[[paper](https://arxiv.org/abs/2101.10423)] \[[code](https://github.com/RaptorMai/online-continual-learning) ⭐ 426 | 🐛 7 | 🌐 Python | 📅 2023-05-30]
@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 703 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 704 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 271 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,022 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,023 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 841 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -546,6 +546,8 @@
 
 * <a name="todo"></a> Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2505.19680)]\[[code](https://github.com/wxr99/Cut-Replay) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-05]
 
+* <a name="todo"></a> H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.pdf)]\[[code](https://github.com/YuhangLiuu/H2ST) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2025-03-16]
+
 * <a name="todo"></a> C-CLIP: Multimodal Continual Learning for Vision-Language Model (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=sb7qHFYwBc)]\[[code](https://github.com/SmallPigPeppa/C-CLIP) ⭐ 4 | 🐛 1 | 📅 2025-03-01]
 
 * <a name="todo"></a> Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models (**ICML 2025**) \[[paper](https://openreview.net/attachment?id=6udKBHc0Mr\&name=pdf)]\[[code](https://github.com/ZERO-9215/Online-CL-LLMs) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-07-23]
@@ -553,8 +555,6 @@
 * <a name="todo"></a> Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2506.00592)]\[[code](https://github.com/lixiangqi707/3D-FLEG) ⭐ 3 | 🐛 1 | 📅 2025-05-26]
 
 * <a name="todo"></a> CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning (**ICML 2025**) \[[paper](https://openreview.net/attachment?id=lvkVhZ776k\&name=pdf)]\[[code](https://github.com/XuankunRong/CAN) ⭐ 3 | 🐛 1 | 📅 2025-06-22]
-
-* <a name="todo"></a> H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Liu_H2ST_Hierarchical_Two-Sample_Tests_for_Continual_Out-of-Distribution_Detection_CVPR_2025_paper.pdf)]\[[code](https://github.com/YuhangLiuu/H2ST) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2025-03-16]
 
 * <a name="todo"></a> Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality (**VR-TVCG 2025**) \[[paper](https://arxiv.org/abs/2502.19644)]\[[code](https://github.com/ZhouKanglei/ASAL_CVQA) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2025-03-18]
 
@@ -798,7 +798,7 @@
 
 ### 2024
 
-* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,476 | 🐛 120 | 🌐 Python | 📅 2026-09-15]
+* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,475 | 🐛 120 | 🌐 Python | 📅 2026-09-15]
 
 * <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 841 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
