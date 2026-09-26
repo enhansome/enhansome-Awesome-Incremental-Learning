@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -763,6 +763,27 @@
             },
             {
               "node_type": "item",
+              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
+                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
+                "id": 1242284307,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-23T08:47:40Z",
+                "open_issues": 1,
+                "owner": "Artificer-AI-Lab",
+                "repo": "MoRAM",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -819,27 +840,6 @@
                 "open_issues": 1,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
-                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
-                "id": 1242284307,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-23T08:47:40Z",
-                "open_issues": 1,
-                "owner": "Artificer-AI-Lab",
-                "repo": "MoRAM",
                 "stars": 9,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4023,
+                "stars": 4024,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:12:35.468Z",
+    "last_updated": "2026-09-26T12:38:04.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
