@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 704 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 705 | 🐛 6 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 271 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
@@ -124,7 +124,7 @@
 
 * <a name="todo"></a> Geometry-driven OOD Detectors Are Class-Incremental Learners (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Jia_Geometry-driven_OOD_Detectors_Are_Class-Incremental_Learners_CVPR_2026_paper.pdf)]\[[code](https://github.com/Wangwang-Jia/GOD) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-03-17]
 
-* <a name="todo"></a> Active Continual Learning with Metaplastic Binary Bayesian Neural Networks (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.30198)]\[[code](https://github.com/kellian-cottart/active-continual-learning-bayesianbinn) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-09-04]
+* <a name="todo"></a> Active Continual Learning with Metaplastic Binary Bayesian Neural Networks (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.30198)]\[[code](https://github.com/kellian-cottart/active-continual-learning-bayesianbinn) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2026-09-26]
 
 * <a name="todo"></a> Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Wang_Robustness_Under_Data_Scarcity_Few-Shot_Continual_Adversarial_Training_for_Evolving_CVPR_2026_paper.pdf)]\[[code](https://github.com/aup520/FS_CAT) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-15]
 
@@ -1184,7 +1184,7 @@
 
 ### 2023
 
-* <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2307.06948)]\[[code](https://github.com/muzairkhattak/PromptSRC) ⭐ 289 | 🐛 4 | 🌐 Python | 📅 2023-09-28]
+* <a name="todo"></a> Self-regulating Prompts: Foundational Model Adaptation without Forgetting (**ICCV 2023**)\[[paper](https://arxiv.org/abs/2307.06948)]\[[code](https://github.com/muzairkhattak/PromptSRC) ⭐ 290 | 🐛 4 | 🌐 Python | 📅 2023-09-28]
 * <a name="todo"></a> CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2211.13218.pdf)]\[[code](https://github.com/GT-RIPL/CODA-Prompt) ⭐ 161 | 🐛 5 | 🌐 Python | 📅 2023-10-05]
 * <a name="todo"></a> Continual Detection Transformer for Incremental Object Detection (**CVPR2023**)\[[paper](https://arxiv.org/pdf/2304.03110.pdf)]\[[code](https://github.com/yaoyao-liu/CL-DETR) ⭐ 112 | 🐛 14 | 🌐 Python | 📅 2025-01-26]
 * <a name="todo"></a> Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (**ICCV 2023**)\[[paper](https://arxiv.org/pdf/2303.06628.pdf)]\[[code](https://github.com/Thunderbeee/ZSCL) ⭐ 111 | 🐛 8 | 🌐 Python | 📅 2024-03-05]
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
