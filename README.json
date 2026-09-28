@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 604,
+            "stars": 606,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -460,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -527,7 +527,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-23T13:59:11Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "haodotgu",
                 "repo": "EBLoRA",
                 "stars": 19,
@@ -622,7 +622,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-01T02:16:44Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "datake",
                 "repo": "FAME",
                 "stars": 14,
@@ -679,27 +679,6 @@
             },
             {
               "node_type": "item",
-              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
-                "homepage": null,
-                "id": 1234378525,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-06T04:53:21Z",
-                "open_issues": 1,
-                "owner": "LAMDA-CL",
-                "repo": "ICML2026-AREA",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -714,6 +693,27 @@
                 "open_issues": 2,
                 "owner": "zyt95579",
                 "repo": "PDP_IOD",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+                "homepage": null,
+                "id": 1234378525,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-06T04:53:21Z",
+                "open_issues": 1,
+                "owner": "LAMDA-CL",
+                "repo": "ICML2026-AREA",
                 "stars": 11,
                 "topics": []
               },
@@ -1340,9 +1340,9 @@
                 "description": "[ICML2026] CE4L: Continual Ego, Exo and Ego-Exo Learning",
                 "homepage": null,
                 "id": 1252678721,
-                "language": null,
+                "language": "Python",
                 "license": null,
-                "last_commit": "2026-06-16T15:29:29Z",
+                "last_commit": "2026-09-28T09:37:23Z",
                 "open_issues": 1,
                 "owner": "AnAppleCore",
                 "repo": "CE4L",
@@ -1731,7 +1731,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4024,
+                "stars": 4026,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1890,7 +1890,7 @@
                 "open_issues": 3,
                 "owner": "zzz47zzz",
                 "repo": "spurious-forgetting",
-                "stars": 63,
+                "stars": 64,
                 "topics": [
                   "continual-learning",
                   "forgetting",
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4536,7 +4536,7 @@
                 "open_issues": 2,
                 "owner": "zqiao11",
                 "repo": "TSCIL",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -4829,7 +4829,7 @@
                 "id": 750361510,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-05-26T12:52:20Z",
+                "last_commit": "2026-09-28T16:04:02Z",
                 "open_issues": 0,
                 "owner": "simomagi",
                 "repo": "elastic_feature_consolidation",
@@ -7292,7 +7292,7 @@
                 "open_issues": 3,
                 "owner": "xfflzl",
                 "repo": "CIM-CIL",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7789,7 +7789,7 @@
                 "open_issues": 5,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:29:21.769Z",
+    "last_updated": "2026-09-28T16:23:35.408Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4530,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
