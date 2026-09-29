@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -277,10 +277,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-04-07T20:14:25Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 705,
+                "stars": 706,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1727,11 +1727,11 @@
                 "id": 805115184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T12:15:39Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-29T14:04:48Z",
+                "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4026,
+                "stars": 4032,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1782,7 +1782,7 @@
                 "open_issues": 7,
                 "owner": "WuYichen-97",
                 "repo": "SD-Lora-CL",
-                "stars": 96,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4390,7 +4390,7 @@
                 "open_issues": 1,
                 "owner": "nianticlabs",
                 "repo": "acezero",
-                "stars": 807,
+                "stars": 808,
                 "topics": [
                   "3d-reconstruction",
                   "camera-relocalization",
@@ -4824,12 +4824,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[ICLR 2024] - Elastic Feature Consolidation for Cold Start Exemplar-Free Incremental Learning",
+                "description": "[ICLR 2024, IJCV 2026] - Elastic Feature Consolidation for Cold Start Exemplar-Free Incremental Learning",
                 "homepage": null,
                 "id": 750361510,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T16:04:02Z",
+                "last_commit": "2026-09-29T07:14:41Z",
                 "open_issues": 0,
                 "owner": "simomagi",
                 "repo": "elastic_feature_consolidation",
@@ -9397,7 +9397,7 @@
                 "open_issues": 8,
                 "owner": "srebuffi",
                 "repo": "iCaRL",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T16:23:35.408Z",
+    "last_updated": "2026-09-29T14:33:51.661Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
