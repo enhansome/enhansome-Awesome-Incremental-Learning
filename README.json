@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 606,
+            "stars": 607,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 706,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -460,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -596,7 +596,7 @@
                 "open_issues": 0,
                 "owner": "zygao930",
                 "repo": "MedCRP-CL",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "bayesian-methods",
                   "catastrophic-forgetting",
@@ -1143,6 +1143,27 @@
             },
             {
               "node_type": "item",
+              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1192341005,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-16T02:52:30Z",
+                "open_issues": 0,
+                "owner": "zjrzjrz",
+                "repo": "RSIAT",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -1220,27 +1241,6 @@
                 "open_issues": 3,
                 "owner": "Frank-lilinjie",
                 "repo": "CVPR26-QKD",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1192341005,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-16T02:52:30Z",
-                "open_issues": 0,
-                "owner": "zjrzjrz",
-                "repo": "RSIAT",
                 "stars": 3,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4032,
+                "stars": 4035,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7810,7 +7810,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "CVPR22-Fact",
-                "stars": 139,
+                "stars": 140,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:33:51.661Z",
+    "last_updated": "2026-09-30T14:32:20.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
