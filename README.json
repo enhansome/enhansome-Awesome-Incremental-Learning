@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 707,
+                "stars": 708,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 45,
+                "stars": 46,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -763,6 +763,27 @@
             },
             {
               "node_type": "item",
+              "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1157656346,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-14T02:47:22Z",
+                "open_issues": 1,
+                "owner": "byzhaoAI",
+                "repo": "VILA",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
               "description": "][code]",
               "children": [],
@@ -819,27 +840,6 @@
                 "open_issues": 0,
                 "owner": "zhoujiahuan1991",
                 "repo": "ICLR2026-N2L",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1157656346,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-07-14T02:47:22Z",
-                "open_issues": 1,
-                "owner": "byzhaoAI",
-                "repo": "VILA",
                 "stars": 9,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4035,
+                "stars": 4034,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2260,6 +2260,27 @@
             },
             {
               "node_type": "item",
+              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
+              "description": "][code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
+                "homepage": "https://tanganke.github.io/opcm/",
+                "id": 900708339,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-11T12:15:24Z",
+                "open_issues": 0,
+                "owner": "tanganke",
+                "repo": "opcm",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Do Your Best and Get Enough Rest for Continual Learning (CVPR 2025) [paper",
               "description": "][code]",
               "children": [],
@@ -2275,27 +2296,6 @@
                 "owner": "hankyul2",
                 "repo": "ViewBatchModel",
                 "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
-              "description": "][code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
-                "homepage": "https://tanganke.github.io/opcm/",
-                "id": 900708339,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-11T12:15:24Z",
-                "open_issues": 0,
-                "owner": "tanganke",
-                "repo": "opcm",
-                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4477,
+                "stars": 4475,
                 "topics": [
                   "agi",
                   "gpt",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T14:32:20.004Z",
+    "last_updated": "2026-10-01T15:02:10.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4530,
       "topics": []
     },
     "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
