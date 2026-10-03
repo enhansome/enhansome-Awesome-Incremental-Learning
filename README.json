@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4035,
+                "stars": 4036,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2115,7 +2115,7 @@
                 "open_issues": 4,
                 "owner": "FisherCats",
                 "repo": "CLG-CBM",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:02.008Z",
+    "last_updated": "2026-10-03T12:59:18.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
