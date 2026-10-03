@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Three scenarios for continual learning (Nature Machine Intelligence 2022) [paper",
-          "description": "][code]",
+          "description": "GMvandeVen/continual-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -44,7 +44,7 @@
         {
           "node_type": "item",
           "title": "Continual Learning with Pre-Trained Models: A Survey (IJCAI 2024) [paper",
-          "description": "][code]",
+          "description": "LAMDA-CL/LAMDA-PILOT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -77,7 +77,7 @@
         {
           "node_type": "item",
           "title": "Class-incremental learning: survey and performance evaluation (TPAMI 2022) [paper",
-          "description": "] [code]",
+          "description": "mmasana/FACIL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "Continual Learning of Large Language Models: A Comprehensive Survey (arXiv 2024) [paper",
-          "description": "][code]",
+          "description": "Wang-ML-Lab/llm-continual-learning-survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
         {
           "node_type": "item",
           "title": "Online Continual Learning in Image Classification: An Empirical Survey (Neurocomputing 2021) [paper",
-          "description": "] [code]",
+          "description": "RaptorMai/online-continual-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -164,7 +164,7 @@
         {
           "node_type": "item",
           "title": "Class-Incremental Learning: A Survey (TPAMI 2024) [paper",
-          "description": "][code]",
+          "description": "LAMDA-CL/CIL_Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "Continual Learning for VLMs: A Survey and Taxonomy Beyond Forgetting (arXiv 2025) [paper",
-          "description": "][code]",
+          "description": "YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,7 +211,7 @@
         {
           "node_type": "item",
           "title": "A Comprehensive Study of Class Incremental Learning Algorithms for Visual Tasks (Neural Networks) [paper",
-          "description": "] [code]",
+          "description": "EdenBelouadah/class-incremental-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -232,7 +232,7 @@
         {
           "node_type": "item",
           "title": "A Comprehensive Empirical Evaluation on Online Continual Learning (ICCV Workshop 2023) [paper",
-          "description": "][code]",
+          "description": "AlbinSou/ocl_survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,7 +267,7 @@
             {
               "node_type": "item",
               "title": "Self-Distillation Enables Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "idanshen/Self-Distillation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 711,
+                "stars": 712,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -288,7 +288,7 @@
             {
               "node_type": "item",
               "title": "ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "XSkill-Agent/XSkill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -309,7 +309,7 @@
             {
               "node_type": "item",
               "title": "KeepLoRA: Continual Learning with Residual Gradient Adaptation (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "MaolinLuo/KeepLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "LAMDA-CL/Prism",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -356,7 +356,7 @@
             {
               "node_type": "item",
               "title": "Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "gfyddha/Fly-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -377,7 +377,7 @@
             {
               "node_type": "item",
               "title": "IDER: IDempotent Experience Replay for Reliable Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "YutingLi0606/Idempotent-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "Fed-Duet: Dual Expert-Orchestrated Framework for Continual Federated Vision-Language Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "cocogt96/Fed-Duet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -426,7 +426,7 @@
             {
               "node_type": "item",
               "title": "Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "Red-Hat-AI-Innovation-Team/mini_trainer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -447,7 +447,7 @@
             {
               "node_type": "item",
               "title": "Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "HHHLF/LoDA_ICML2026",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +468,7 @@
             {
               "node_type": "item",
               "title": "Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "LMMMEng/CaRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -496,7 +496,7 @@
             {
               "node_type": "item",
               "title": "Revisiting Weight Regularization for Low-Rank Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "yaoyz96/low-rank-cl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -517,7 +517,7 @@
             {
               "node_type": "item",
               "title": "Spectral Imbalance Causes Forgetting in Low-Rank Continual Adaptation (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "haodotgu/EBLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "FlyPrompt: Brain-Inspired Random-Expanded Routing with Temporal-Ensemble Experts for General Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "AnAppleCore/FlyGCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -562,7 +562,7 @@
             {
               "node_type": "item",
               "title": "One-Prompt Strikes Back: Sparse Mixture of Experts for Prompt-based Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "Minhchuyentoancbn/SMoPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -583,7 +583,7 @@
             {
               "node_type": "item",
               "title": "MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "zygao930/MedCRP-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -612,7 +612,7 @@
             {
               "node_type": "item",
               "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "datake/FAME",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -633,7 +633,7 @@
             {
               "node_type": "item",
               "title": "MergeTune: Continued Fine-Tuning of Vision-Language Models (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "Surrey-UP-Lab/MERGETUNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -654,7 +654,7 @@
             {
               "node_type": "item",
               "title": "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "AIGNLAI/EDGE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -680,7 +680,7 @@
             {
               "node_type": "item",
               "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "zyt95579/PDP_IOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -701,7 +701,7 @@
             {
               "node_type": "item",
               "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "LAMDA-CL/ICML2026-AREA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -722,7 +722,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "Continue-Edge-AI-Lab/ProNC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -743,7 +743,7 @@
             {
               "node_type": "item",
               "title": "Consistency-Driven Calibration and Matching for Few-Shot Class Incremental Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "wire-wqz/ConCM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -764,7 +764,7 @@
             {
               "node_type": "item",
               "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "byzhaoAI/VILA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -785,7 +785,7 @@
             {
               "node_type": "item",
               "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "Artificer-AI-Lab/MoRAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -806,7 +806,7 @@
             {
               "node_type": "item",
               "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "Nicolas1203/continual_distillation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "zhoujiahuan1991/ICLR2026-N2L",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -848,7 +848,7 @@
             {
               "node_type": "item",
               "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "ZhouKanglei/BriMA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -869,7 +869,7 @@
             {
               "node_type": "item",
               "title": "Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "HXuSz11/BiCyc_ICLR2026",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -890,7 +890,7 @@
             {
               "node_type": "item",
               "title": "Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "liaoweiduo/CompSLOT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -913,7 +913,7 @@
             {
               "node_type": "item",
               "title": "SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "iLearn-Lab/ICLR26-SplitLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -934,7 +934,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "YonseiML/dpw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "zihuanqiu/NUFILT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -976,7 +976,7 @@
             {
               "node_type": "item",
               "title": "Enhanced Continual Learning of Vision-Language Models with Model Fusion (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "zhangzicong518/ConDU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "SalesforceAIResearch/PLATE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1018,7 +1018,7 @@
             {
               "node_type": "item",
               "title": "Elastic Weight Consolidation Done Right for Continual Learning (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "scarlet0703/EWC-DR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1039,7 +1039,7 @@
             {
               "node_type": "item",
               "title": "Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "yfqi/lifelong_mlr_ifa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
             {
               "node_type": "item",
               "title": "Continual Segmentation under Joint Nonstationarity (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "prinshul/JASCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1081,7 +1081,7 @@
             {
               "node_type": "item",
               "title": "Skill Neologisms: Towards Skill-based Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "antoninbrthn/skill-neologisms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1102,7 +1102,7 @@
             {
               "node_type": "item",
               "title": "MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "SunGL001/MePo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1123,7 +1123,7 @@
             {
               "node_type": "item",
               "title": "Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "AldrinLake/Dual-E",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1144,7 +1144,7 @@
             {
               "node_type": "item",
               "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "zjrzjrz/RSIAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,7 +1165,7 @@
             {
               "node_type": "item",
               "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "YvoGao/TAPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1186,7 +1186,7 @@
             {
               "node_type": "item",
               "title": "TAPE: Task-Adaptive Prototype Evolution in Audio-Language Models for Fully Few-shot Class-incremental Audio Classification (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "YvoGao/TAPE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1207,7 +1207,7 @@
             {
               "node_type": "item",
               "title": "Subspace Alignment for CLIP-based Continual Learning via Canonical Correlation Analysis (CVPR 2026) [paper",
-              "description": "] [code]",
+              "description": "zhwhu/CCA-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1228,7 +1228,7 @@
             {
               "node_type": "item",
               "title": "Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "Frank-lilinjie/CVPR26-QKD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1249,7 +1249,7 @@
             {
               "node_type": "item",
               "title": "Geometry-driven OOD Detectors Are Class-Incremental Learners (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "Wangwang-Jia/GOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1270,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "Active Continual Learning with Metaplastic Binary Bayesian Neural Networks (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "kellian-cottart/active-continual-learning-bayesianbinn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1291,7 +1291,7 @@
             {
               "node_type": "item",
               "title": "Robustness Under Data Scarcity: Few-Shot Continual Adversarial Training for Evolving Threats (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "aup520/FS_CAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1312,7 +1312,7 @@
             {
               "node_type": "item",
               "title": "Quantized Gradient Projection for Memory-Efficient Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "Dongjun0101/Quantized-Gradient-Projection-for-Memory-Efficient-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1333,7 +1333,7 @@
             {
               "node_type": "item",
               "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "AnAppleCore/CE4L",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1354,7 +1354,7 @@
             {
               "node_type": "item",
               "title": "ECA: Efficient Continual Alignment for Open-Ended Image-to-Text Generation. (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "Snowball0823/ECA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,7 +1375,7 @@
             {
               "node_type": "item",
               "title": "GR-LoRA: Gradient-Recycling Low-Rank Adaptation for Class-Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "njustkmg/ICML26-GR-LoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1396,7 @@
             {
               "node_type": "item",
               "title": "HEDP: A Hybrid Energy-Distance Prompt-based Framework for Domain Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "dannis97500/HEDP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1417,7 +1417,7 @@
             {
               "node_type": "item",
               "title": "Retrospective Feature Estimation for Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "mail-research/retrospective-feature-estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1438,7 +1438,7 @@
             {
               "node_type": "item",
               "title": "Re-evaluating Continual VQA: Toward Fair and Robust Evaluation for Multimodal Continual Learning (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "Zi-Jian-Gao/MaDQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1459,7 +1459,7 @@
             {
               "node_type": "item",
               "title": "CHEEM:Continual Learning by Reuse, New, Adapt and Skip A Hierarchical Exploration-Exploitation Approach (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "savadikarc/cheem",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1480,7 +1480,7 @@
             {
               "node_type": "item",
               "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
-              "description": "][code]",
+              "description": "ouycc/Spectral_MoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1501,7 +1501,7 @@
             {
               "node_type": "item",
               "title": "HippoTune: A Hippocampal Associative Loop–Inspired Fine-Tuning Method for Continual Learning (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "yan4xi1/HippoTune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1522,7 +1522,7 @@
             {
               "node_type": "item",
               "title": "Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "yhyet/HC_SOINN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1543,7 +1543,7 @@
             {
               "node_type": "item",
               "title": "Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "OptMN-Lab/SABER-ICML-2026",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1564,7 +1564,7 @@
             {
               "node_type": "item",
               "title": "Temporal Imbalance of Positive and Negative Supervision in Class-Incremental Learning (CVPR 2026) [paper",
-              "description": "] [code]",
+              "description": "jingema99/TAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1585,7 +1585,7 @@
             {
               "node_type": "item",
               "title": "CoMem: Compositional Concept-Graph Memory for Vision–Language Adaptation (ICLR 2026) [paper",
-              "description": "][code]",
+              "description": "song-zixuan/CoMEM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1606,7 +1606,7 @@
             {
               "node_type": "item",
               "title": "Factor-Wise Homogeneity of Slot-Attention for Continual Object-Centric Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "GIST-IRR/FWH_COCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1627,7 +1627,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "Legenddddd/HFRC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1648,7 +1648,7 @@
             {
               "node_type": "item",
               "title": "Online Continual Learning with Dynamic Label Hierarchies (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "wxr99/HALO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1669,7 +1669,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Memory in Continual Learning: Beyond a Monolithic Store of the Past (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "YaqianZhang/long-term-short-term",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1690,7 +1690,7 @@
             {
               "node_type": "item",
               "title": "Towards Understanding Continual Factual Knowledge Acquisition of Language Models: From Theory to Algorithm (ICML 2026) [paper",
-              "description": "][code]",
+              "description": "WhyDwelledOnAi/continual_Factual_Knowledge_Acquision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1718,7 +1718,7 @@
             {
               "node_type": "item",
               "title": "From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "OSU-NLP-Group/HippoRAG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4033,
+                "stars": 4035,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1739,7 +1739,7 @@
             {
               "node_type": "item",
               "title": "A Second-Order Perspective on Model Compositionality and Incremental Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "aimagelab/mammoth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,7 +1769,7 @@
             {
               "node_type": "item",
               "title": "SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "WuYichen-97/SD-Lora-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1790,7 +1790,7 @@
             {
               "node_type": "item",
               "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "Feliciaxyao/NavMorph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1814,7 +1814,7 @@
             {
               "node_type": "item",
               "title": "Large Continual Instruction Assistant (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "JingyangQiao/CoIN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1835,7 +1835,7 @@
             {
               "node_type": "item",
               "title": "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "jan-ackermann/cl-splats",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1856,7 +1856,7 @@
             {
               "node_type": "item",
               "title": "One-for-More: Continual Diffusion Model for Anomaly Detection (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "FuNz-0/One-for-More",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1877,7 +1877,7 @@
             {
               "node_type": "item",
               "title": "Spurious Forgetting in Continual Learning of Language Models (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "zzz47zzz/spurious-forgetting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1905,7 +1905,7 @@
             {
               "node_type": "item",
               "title": "Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "linlany/MindtheGap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1926,7 +1926,7 @@
             {
               "node_type": "item",
               "title": "External Knowledge Injection for CLIP-Based Class-Incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "LAMDA-CL/ICCV25-ENGINE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,7 +1950,7 @@
             {
               "node_type": "item",
               "title": "HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "Ghy0501/HiDe-LLaVA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,7 +1971,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Query-based Transformer for Continual Image Segmentation (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "SooLab/SimCIS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1992,7 +1992,7 @@
             {
               "node_type": "item",
               "title": "DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "chiara-cap/DitHub",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2013,7 +2013,7 @@
             {
               "node_type": "item",
               "title": "CL-LoRA: Continual Low-Rank Adaptation for Rehearsal-Free Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "JiangpengHe/CL-LoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2034,7 +2034,7 @@
             {
               "node_type": "item",
               "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "huiyiwang01/SEMA-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2055,7 +2055,7 @@
             {
               "node_type": "item",
               "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "MaolinLuo/LADA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2076,7 +2076,7 @@
             {
               "node_type": "item",
               "title": "Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "Estrella-fugaz/CVPR25-DUCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2102,7 +2102,7 @@
             {
               "node_type": "item",
               "title": "Language Guided Concept Bottleneck Models for Interpretable Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "FisherCats/CLG-CBM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2123,7 +2123,7 @@
             {
               "node_type": "item",
               "title": "Continual Multimodal Contrastive Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "Xiaohao-Liu/CMCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2144,7 +2144,7 @@
             {
               "node_type": "item",
               "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "Fhujinwu/CKA-RL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "DMNSP: Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "RL-VIG/DMNSP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2186,7 +2186,7 @@
             {
               "node_type": "item",
               "title": "Policy Compatible Skill Incremental Learning via Lazy Learning Interface (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "L2dulgi/SIL-C",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2217,7 +2217,7 @@
             {
               "node_type": "item",
               "title": "Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "beautyremain/SUR-LID",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2240,7 +2240,7 @@
             {
               "node_type": "item",
               "title": "Task-Agnostic Guided Feature Expansion for Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "bwnzheng/TagFex_CVPR2025",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2261,7 +2261,7 @@
             {
               "node_type": "item",
               "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "tanganke/opcm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2282,7 +2282,7 @@
             {
               "node_type": "item",
               "title": "Do Your Best and Get Enough Rest for Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "hankyul2/ViewBatchModel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2303,7 +2303,7 @@
             {
               "node_type": "item",
               "title": "Revisiting Generative Replay for Class Incremental Object Detection (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "qiangzai-lv/RGR-IOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2324,7 +2324,7 @@
             {
               "node_type": "item",
               "title": "ProtoDepth: Unsupervised Continual Depth Completion with Prototypes (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "patrickqrim/ProtoDepth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2345,7 +2345,7 @@
             {
               "node_type": "item",
               "title": "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "wang-qiuchen/PseDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2366,7 +2366,7 @@
             {
               "node_type": "item",
               "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "MemEIC/MemEIC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2387,7 +2387,7 @@
             {
               "node_type": "item",
               "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "apple-aiml-research/ml-tic-lm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2408,7 +2408,7 @@
             {
               "node_type": "item",
               "title": "Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "fwu11/MACIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2429,7 +2429,7 @@
             {
               "node_type": "item",
               "title": "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "Luo-Jiaming/GIFT_CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2450,7 +2450,7 @@
             {
               "node_type": "item",
               "title": "Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "AIGNLAI/GDDSG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2471,7 +2471,7 @@
             {
               "node_type": "item",
               "title": "Reinforced Lifelong Editing for Language Models (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "zhrli324/RLEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2492,7 +2492,7 @@
             {
               "node_type": "item",
               "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "Ethanhuhuhu/KAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2513,7 +2513,7 @@
             {
               "node_type": "item",
               "title": "KAC: Kolmogorov-Arnold Classifier for Continual Learning (CVPR2025) [paper",
-              "description": "][code]",
+              "description": "Ethanhuhuhu/KAC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2534,7 +2534,7 @@
             {
               "node_type": "item",
               "title": "Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "tf63/ACMap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2562,7 +2562,7 @@
             {
               "node_type": "item",
               "title": "Mixture of Noise for Pre-Trained Model-Based Class-Incremental Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "ASCIIJK/MiN-NeurIPS2025",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2583,7 +2583,7 @@
             {
               "node_type": "item",
               "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "chenhao-zju/VAMoE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2604,7 +2604,7 @@
             {
               "node_type": "item",
               "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "LAMDA-CL/ICCV2025-TUNA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2629,7 +2629,7 @@
             {
               "node_type": "item",
               "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "scarlet0703/LoRA-Sub-DRS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2650,7 +2650,7 @@
             {
               "node_type": "item",
               "title": "On Large Language Model Continual Unlearning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "GCYZSL/O3-LLM-UNLEARNING",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2671,7 +2671,7 @@
             {
               "node_type": "item",
               "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR2025) [paper",
-              "description": "][code]",
+              "description": "scarlet0703/LoRA-Sub-DRS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2692,7 +2692,7 @@
             {
               "node_type": "item",
               "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "zhoujiahuan1991/ICML2025-KA-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2713,7 +2713,7 @@
             {
               "node_type": "item",
               "title": "Advancing Prompt-based Methods for Replay-Independent General Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "kangzhiq/MISA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2734,7 +2734,7 @@
             {
               "node_type": "item",
               "title": "SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "Minato-Zackie/SMoLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2755,7 +2755,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "yychen016/BiMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2776,7 +2776,7 @@
             {
               "node_type": "item",
               "title": "Coreset Selection via Reducible Loss in Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "RuilinTong/CSReL-Coreset-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2797,7 +2797,7 @@
             {
               "node_type": "item",
               "title": "MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "zihuanqiu/MINGLE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2818,7 +2818,7 @@
             {
               "node_type": "item",
               "title": "Learning Expandable and Adaptable Representations for Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "yrluestc/NeurIPS2025-LEAR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
             {
               "node_type": "item",
               "title": "Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "RHe502/ICML25-DPCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2860,7 +2860,7 @@
             {
               "node_type": "item",
               "title": "Unlocking the Power of Function Vectors for Characterizing and Mitigating Catastrophic Forgetting in Continual Instruction Tuning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "GangweiJiang/FvForgetting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2881,7 +2881,7 @@
             {
               "node_type": "item",
               "title": "HiDe-PET: Continual Learning via Hierarchical Decomposition of Parameter-Efficient Tuning (TPAMI 2025) [paper",
-              "description": "]",
+              "description": "thu-ml/HiDe-PET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2902,7 +2902,7 @@
             {
               "node_type": "item",
               "title": "Hierarchical Visual Prompt Learning for Continual Video Instance Segmentation (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "JiahuaDong/HVPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2923,7 +2923,7 @@
             {
               "node_type": "item",
               "title": "Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "fanrena/NSGP-RePRE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2944,7 +2944,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "MyToumaKazusa/S6MOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2965,7 +2965,7 @@
             {
               "node_type": "item",
               "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "jinpeng0528/SEFE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2986,7 +2986,7 @@
             {
               "node_type": "item",
               "title": "Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "lilyht/CREATE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3007,7 +3007,7 @@
             {
               "node_type": "item",
               "title": "Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "zhoujiahuan1991/ICCV2025-SPRED",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3028,7 +3028,7 @@
             {
               "node_type": "item",
               "title": "CODE-CL: Conceptor-Based Gradient Projection for Deep Continual Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "mapolinario94/CODE-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3053,7 +3053,7 @@
             {
               "node_type": "item",
               "title": "Neuron-Level Sequential Editing for Large Language Models (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "jianghoucheng/NSE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3077,7 +3077,7 @@
             {
               "node_type": "item",
               "title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "bluecontra/C-CHAIN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3098,7 +3098,7 @@
             {
               "node_type": "item",
               "title": "BECAME: Bayesian Continual Learning with Adaptive Model Merging (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "limei0818/BECAME",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3119,7 +3119,7 @@
             {
               "node_type": "item",
               "title": "Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "NJUyued/USP4SSCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3140,7 +3140,7 @@
             {
               "node_type": "item",
               "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "zyzhang11/DGAR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3161,7 +3161,7 @@
             {
               "node_type": "item",
               "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "WoodScene/Recurrent_KIF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3182,7 +3182,7 @@
             {
               "node_type": "item",
               "title": "Knowledge Swapping via Learning and Unlearning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "ExplainableML/WikiBigEdit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3203,7 +3203,7 @@
             {
               "node_type": "item",
               "title": "Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "qwangcv/SOYO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3224,7 +3224,7 @@
             {
               "node_type": "item",
               "title": "Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "Christina200/MoDE-official",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3245,7 +3245,7 @@
             {
               "node_type": "item",
               "title": "Ask and Remember: A Questions-Only Replay Strategy for Continual Visual Question Answering (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "IemProg/QUAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3269,7 +3269,7 @@
             {
               "node_type": "item",
               "title": "Adapt-$\\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "adymaharana/adapt-inf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3290,7 +3290,7 @@
             {
               "node_type": "item",
               "title": "Achieving More with Less: Additive Prompt Tuning for Rehearsal-Free Class-Incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "HaoranChen/Additive-Prompt-Tuning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3311,7 +3311,7 @@
             {
               "node_type": "item",
               "title": "Revisiting Pool-based Prompt Learning for Few-shot Class-incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "Jywsuperman/LGSP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3332,7 +3332,7 @@
             {
               "node_type": "item",
               "title": "Understanding the Limits of Lifelong Knowledge Editing in LLMs (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "xingmingyu123456/KnowledgeSwapping",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3353,7 +3353,7 @@
             {
               "node_type": "item",
               "title": "L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "scut-zx/L3A",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3374,7 +3374,7 @@
             {
               "node_type": "item",
               "title": "AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "kx-wu/AVQACL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3395,7 +3395,7 @@
             {
               "node_type": "item",
               "title": "Handling Spatial-Temporal Data Heterogeneity for Federated Continual Learning via Tail Anchor (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "SkyOfBeginning/FedTA_CVPR2025",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3416,7 +3416,7 @@
             {
               "node_type": "item",
               "title": "TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "liangzu/loranpac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3437,7 +3437,7 @@
             {
               "node_type": "item",
               "title": "Self-Normalized Resets for Plasticity in Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "ajozefiak/SelfNormalizedResets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3458,7 +3458,7 @@
             {
               "node_type": "item",
               "title": "Learning Multi-Source and Robust Representations for Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "CL-Coder236/LMSRR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3479,7 +3479,7 @@
             {
               "node_type": "item",
               "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "HarveyYi/iDPA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3500,7 +3500,7 @@
             {
               "node_type": "item",
               "title": "Beyond Background Shift: Rethinking Instance Replay in Continual Semantic Segmentation (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "YikeYin97/EIR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3521,7 +3521,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Retention & Correction: Test-Time Training for Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "HaoranChen/Adaptive-Retention-and-Correction-for-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3542,7 +3542,7 @@
             {
               "node_type": "item",
               "title": "Semantic Aware Representation Learning for Lifelong Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "NeurAI-Lab/SARL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3563,7 +3563,7 @@
             {
               "node_type": "item",
               "title": "Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "hongjoon0805/Reset-Distill",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3584,7 +3584,7 @@
             {
               "node_type": "item",
               "title": "Decentralized Dynamic Cooperation of Personalized Models for Federated Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "ydn3229/DCFCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3605,7 +3605,7 @@
             {
               "node_type": "item",
               "title": "Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "iLearn-Lab/NeurIPS25-P-M_CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3626,7 +3626,7 @@
             {
               "node_type": "item",
               "title": "Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "ENJOY-Yin-jiong/PHP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3647,7 +3647,7 @@
             {
               "node_type": "item",
               "title": "FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "RAIAN08/FG-OrIU",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3668,7 +3668,7 @@
             {
               "node_type": "item",
               "title": "Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "tianjiao-j/CCA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3689,7 +3689,7 @@
             {
               "node_type": "item",
               "title": "Continual Gradient Low-Rank Projection Fine-Tuning for LLMs (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "Wcxwcxw/GORP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3710,7 +3710,7 @@
             {
               "node_type": "item",
               "title": "Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "daihao42/VB-CGCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3731,7 +3731,7 @@
             {
               "node_type": "item",
               "title": "BiLoRA: Almost-orthogonal Parameter Spaces for Continual Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "yifeiacc/BiLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3752,7 +3752,7 @@
             {
               "node_type": "item",
               "title": "Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "Zi-Jian-Gao/Moal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3773,7 +3773,7 @@
             {
               "node_type": "item",
               "title": "STAR: Stability-Inducing Weight Perturbation for Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "Gnomy17/STAR_CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3794,7 +3794,7 @@
             {
               "node_type": "item",
               "title": "Hybrid Re-matching for Continual Learning with Parameter-Efficient Tuning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "wei-cheng777/HRM-PET",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3815,7 +3815,7 @@
             {
               "node_type": "item",
               "title": "ADAPT: Attentive Self-Distillation and Dual-Decoder Prediction Fusion for Continual Panoptic Segmentation (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "Ze-Yang/ADAPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3836,7 +3836,7 @@
             {
               "node_type": "item",
               "title": "Cut out and Replay: A Simple yet Versatile Strategy for Multi-Label Online Continual Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "wxr99/CUTER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3857,7 +3857,7 @@
             {
               "node_type": "item",
               "title": "H2ST: Hierarchical Two-Sample Tests for Continual Out-of-Distribution Detection (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "YuhangLiuu/H2ST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3878,7 +3878,7 @@
             {
               "node_type": "item",
               "title": "C-CLIP: Multimodal Continual Learning for Vision-Language Model (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "SmallPigPeppa/C-CLIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3899,7 +3899,7 @@
             {
               "node_type": "item",
               "title": "Exploiting Presentative Feature Distributions for Parameter-Efficient Continual Learning of Large Language Models (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "ZERO-9215/Online-CL-LLMs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3920,7 +3920,7 @@
             {
               "node_type": "item",
               "title": "Geometric Feature Embedding for Effective 3D Few-Shot Class Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "lixiangqi707/3D-FLEG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3941,7 +3941,7 @@
             {
               "node_type": "item",
               "title": "CAN: Leveraging Clients As Navigators for Generative Replay in Federated Continual Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "XuankunRong/CAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3962,7 +3962,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Score Alignment Learning for Continual Perceptual Quality Assessment of 360-Degree Videos in Virtual Reality (VR-TVCG 2025) [paper",
-              "description": "][code]",
+              "description": "ZhouKanglei/ASAL_CVQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3983,7 +3983,7 @@
             {
               "node_type": "item",
               "title": "Model Inversion with Layer-Specific Modeling and Alignment for Data-Free Continual Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "RuilinTong/PMI-CFS-DFCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4004,7 +4004,7 @@
             {
               "node_type": "item",
               "title": "Controlled Low-Rank Adaptation with Subspace Regularization for Continued Training on Large Language Models (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "sutakori/CLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4025,7 +4025,7 @@
             {
               "node_type": "item",
               "title": "Activating Sparse Part Concepts for 3D Class Incremental Learning (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "zhenyatian/ILPC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4046,7 +4046,7 @@
             {
               "node_type": "item",
               "title": "Meta-Continual Learning of Neural Fields (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "seungyoon-woo/mcl-nf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4067,7 +4067,7 @@
             {
               "node_type": "item",
               "title": "Vision and Language Synergy for Rehearsal Free Continual Learning (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "anwarmaxsum/LEAPGEN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4088,7 +4088,7 @@
             {
               "node_type": "item",
               "title": "Investigating and Mitigating Catastrophic Forgetting in Medical Knowledge Injection through Internal Knowledge Augmentation Learning (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "THUMLP/InternAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4109,7 +4109,7 @@
             {
               "node_type": "item",
               "title": "Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory (ACL 2025) [paper",
-              "description": "][code]",
+              "description": "viniferagy/MoNIM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4130,7 +4130,7 @@
             {
               "node_type": "item",
               "title": "Probabilistic Group Mask Guided Discrete Optimization for Incremental Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "njustkmg/ICML25-PGM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4151,7 +4151,7 @@
             {
               "node_type": "item",
               "title": "Online Task-Free Continual Learning via Dynamic Expansionable Memory Distribution (CVPR 2025) [paper",
-              "description": "][code]",
+              "description": "dtuzi123/DEMD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4172,7 +4172,7 @@
             {
               "node_type": "item",
               "title": "Self-Evolving Pseudo-Rehearsal for Catastrophic Forgetting with Task Similarity in LLMs (NeurIPS 2025) [paper",
-              "description": "][code]",
+              "description": "JerryWangJun/LLM_CL_SERS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4193,7 +4193,7 @@
             {
               "node_type": "item",
               "title": "PROL : Rehearsal Free Continual Learning in Streaming Data via Prompt Online Learning (ICCV 2025) [paper",
-              "description": "][code]",
+              "description": "anwarmaxsum/PROL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4214,7 +4214,7 @@
             {
               "node_type": "item",
               "title": "Learning without Isolation: Pathway Protection for Continual Learning (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "chenzk202212/LwI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4235,7 +4235,7 @@
             {
               "node_type": "item",
               "title": "Where is the Truth? The Risk of Getting Confounded in a Continual World (ICML 2025) [paper",
-              "description": "][code]",
+              "description": "ml-research/concon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4256,7 +4256,7 @@
             {
               "node_type": "item",
               "title": "CLDyB: Towards Dynamic Benchmarking for Continual Learning with Pre-trained Models (ICLR 2025) [paper",
-              "description": "][code]",
+              "description": "szc12153/CLDyB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4284,7 +4284,7 @@
             {
               "node_type": "item",
               "title": "Adapting Large Language Models via Reading Comprehension (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "microsoft/LMOps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4317,7 +4317,7 @@
             {
               "node_type": "item",
               "title": "CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (BMVC24)[paper",
-              "description": "][code]",
+              "description": "aimagelab/mammoth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4347,7 +4347,7 @@
             {
               "node_type": "item",
               "title": "Semantic Residual Prompts for Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "aimagelab/mammoth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4377,7 +4377,7 @@
             {
               "node_type": "item",
               "title": "Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (ECCV24)[paper",
-              "description": "][code]",
+              "description": "nianticlabs/acezero",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4409,7 +4409,7 @@
             {
               "node_type": "item",
               "title": "Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "JiazuoYu/MoE-Adapters4CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4430,7 +4430,7 @@
             {
               "node_type": "item",
               "title": "Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "yeerwen/MedCoSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4451,7 +4451,7 @@
             {
               "node_type": "item",
               "title": "InfLoRA: Interference-Free Low-Rank Adaptation for Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "liangyanshuo/InfLoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4472,7 +4472,7 @@
             {
               "node_type": "item",
               "title": "Prompt Gradient Projection for Continual Learning (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "JingyangQiao/prompt-gradient-projection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4493,7 +4493,7 @@
             {
               "node_type": "item",
               "title": "Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "sun-hailong/CVPR24-Ease",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4523,7 +4523,7 @@
             {
               "node_type": "item",
               "title": "Class-incremental Learning for Time Series: Benchmark and Evaluation (KDD24)[paper",
-              "description": "][code]",
+              "description": "zqiao11/TSCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4550,7 +4550,7 @@
             {
               "node_type": "item",
               "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "KU-VGI/PriViLege",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4571,7 +4571,7 @@
             {
               "node_type": "item",
               "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
-              "description": "][code]",
+              "description": "lloongx/DIKI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4592,7 +4592,7 @@
             {
               "node_type": "item",
               "title": "Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (ECCV24)[paper",
-              "description": "][code]",
+              "description": "linlany/RAPF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4613,7 +4613,7 @@
             {
               "node_type": "item",
               "title": "Generative Multi-modal Models are Good Class Incremental Learners (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "DoubleClass/GMM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4634,7 +4634,7 @@
             {
               "node_type": "item",
               "title": "ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "clovaai/ECLIPSE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4655,7 +4655,7 @@
             {
               "node_type": "item",
               "title": "Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "mashijie1028/Happy-CGCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4681,7 +4681,7 @@
             {
               "node_type": "item",
               "title": "Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "pkuxmq/HLOP-SNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4702,7 +4702,7 @@
             {
               "node_type": "item",
               "title": "Mixture of Experts Meets Prompt-Based Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Minhchuyentoancbn/MoE_PromptCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4723,7 +4723,7 @@
             {
               "node_type": "item",
               "title": "Early Preparation Pays Off: New Classifier Pre-tuning for Class Incremental Semantic Segmentation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "zhengyuan-xie/ECCV24_NeST",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4744,7 +4744,7 @@
             {
               "node_type": "item",
               "title": "CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "srvCodes/clap4clip",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4771,7 +4771,7 @@
             {
               "node_type": "item",
               "title": "Few-shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt (ECCV24)[paper",
-              "description": "][code]",
+              "description": "DawnLIU35/FSCIL-ASP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4792,7 +4792,7 @@
             {
               "node_type": "item",
               "title": "Divide and not forget: Ensemble of selectively trained experts in Continual Learning (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "grypesc/SEED",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4820,7 +4820,7 @@
             {
               "node_type": "item",
               "title": "Elastic Feature Consolidation For Cold Start Exemplar-Free Incremental Learning (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "simomagi/elastic_feature_consolidation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4841,7 +4841,7 @@
             {
               "node_type": "item",
               "title": "Mitigating Background Shift in Class-Incremental Semantic Segmentation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "GilhanPark/ECCV2024_MBS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4873,7 +4873,7 @@
             {
               "node_type": "item",
               "title": "Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "linghan1997/Regression-based-Analytic-Incremental-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4894,7 +4894,7 @@
             {
               "node_type": "item",
               "title": "OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "noorahmedds/OrCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4915,7 +4915,7 @@
             {
               "node_type": "item",
               "title": "Consistent Prompting for Rehearsal-Free Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "Zhanxin-Gao/CPrompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4936,7 +4936,7 @@
             {
               "node_type": "item",
               "title": "CLIFF: Continual Latent Diffusion for Open-Vocabulary Object Detection (ECCV24)[paper",
-              "description": "][code]",
+              "description": "CUHK-AIM-Group/CLIFF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4960,7 +4960,7 @@
             {
               "node_type": "item",
               "title": "MagMax: Leveraging Model Merging for Seamless Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "danielm1405/magmax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4984,7 +4984,7 @@
             {
               "node_type": "item",
               "title": "Online Continual Learning for Interactive Instruction Following Agents (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "snumprlab/cl-alfred",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5005,7 +5005,7 @@
             {
               "node_type": "item",
               "title": "Resurrecting Old Classes with New Data for Exemplar-Free Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "dipamgoswami/ADC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5026,7 +5026,7 @@
             {
               "node_type": "item",
               "title": "Class Incremental Learning via Likelihood Ratio Based Task Prediction (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "linhaowei1/TPL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5052,7 +5052,7 @@
             {
               "node_type": "item",
               "title": "Weighted Ensemble Models Are Strong Continual Learners (ECCV24)[paper",
-              "description": "][code]",
+              "description": "IemProg/CoFiMA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5077,7 +5077,7 @@
             {
               "node_type": "item",
               "title": "Semantically-Shifted Incremental Adapter-Tuning is A Continual ViTransformer (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "HAIV-Lab/SSIAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5098,7 +5098,7 @@
             {
               "node_type": "item",
               "title": "NICE: Neurogenesis Inspired Contextual Encoding for Replay-free Class Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "BurakGurbuz97/NICE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5123,7 +5123,7 @@
             {
               "node_type": "item",
               "title": "Visual Prompt Tuning in Null Space for Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "zugexiaodui/VPTinNSforCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5144,7 +5144,7 @@
             {
               "node_type": "item",
               "title": "Diffusion-Driven Data Replay: A Novel Approach to Combat Forgetting in Federated Class Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "jinglin-liang/DDDR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5165,7 +5165,7 @@
             {
               "node_type": "item",
               "title": "On the Approximation Risk of Few-Shot Class-Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "xwangrs/Approximation_FSCIL-ECCV2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5186,7 +5186,7 @@
             {
               "node_type": "item",
               "title": "PILoRA: Prototype Guided Incremental LoRA for Federated Class-Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "Ghy0501/PILoRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5207,7 +5207,7 @@
             {
               "node_type": "item",
               "title": "Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "AnAppleCore/MOSE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5230,7 +5230,7 @@
             {
               "node_type": "item",
               "title": "Anytime Continual Learning for Open Vocabulary Classification (ECCV24)[paper",
-              "description": "][code]",
+              "description": "jessemelpolio/AnytimeCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5256,7 +5256,7 @@
             {
               "node_type": "item",
               "title": "Text-Enhanced Data-free Approach for Federated Class-Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "tmtuan1307/LANDER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5277,7 +5277,7 @@
             {
               "node_type": "item",
               "title": "eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (AAAI2024) [paper",
-              "description": "][code]",
+              "description": "libo-huang/eTag",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5304,7 +5304,7 @@
             {
               "node_type": "item",
               "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "CVIR/ConvPrompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5325,7 +5325,7 @@
             {
               "node_type": "item",
               "title": "Stabilizing Zero-Shot Prediction: A Novel Antidote to Forgetting in Continual Vision-Language Tasks (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Zi-Jian-Gao/Stabilizing-Zero-Shot-Prediction-ZAF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5346,7 +5346,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Few-shot Class-incremental Learning: Learning from Yourself (ECCV24)[paper",
-              "description": "][code]",
+              "description": "iSEE-Laboratory/Revisting_FSCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5367,7 +5367,7 @@
             {
               "node_type": "item",
               "title": "Federated Continual Learning via Prompt-based Dual Knowledge Transfer (ICML24)[paper",
-              "description": "][code]",
+              "description": "piaohongming/Powder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5388,7 +5388,7 @@
             {
               "node_type": "item",
               "title": "ViLCo-Bench: VIdeo Language COntinual learning Benchmark (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "cruiseresearchgroup/ViLCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5409,7 +5409,7 @@
             {
               "node_type": "item",
               "title": "Bridge Past and Future: Overcoming Information Asymmetry in Incremental Object Detection (ECCV24)[paper",
-              "description": "][code]",
+              "description": "iSEE-Laboratory/BPF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5430,7 +5430,7 @@
             {
               "node_type": "item",
               "title": "Learning to Continually Learn with the Bayesian Principle (ICML24)[paper",
-              "description": "][code]",
+              "description": "soochan-lee/SB-MCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5451,7 +5451,7 @@
             {
               "node_type": "item",
               "title": "FCS: Feature Calibration and Separation for Non-Exemplar Class Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "zhoujiahuan1991/CVPR2024-FCS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5472,7 +5472,7 @@
             {
               "node_type": "item",
               "title": "Gradient Reweighting: Towards Imbalanced Class-Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "JiangpengHe/imbalanced_cil",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5493,7 +5493,7 @@
             {
               "node_type": "item",
               "title": "GACL: Exemplar-Free Generalized Analytic Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "CHEN-YIZHU/GACL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5514,7 +5514,7 @@
             {
               "node_type": "item",
               "title": "Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "KU-VGI/VIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5535,7 +5535,7 @@
             {
               "node_type": "item",
               "title": "Exemplar-free Continual Representation Learning via Learnable Drift Compensation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "alviur/ldc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5558,7 +5558,7 @@
             {
               "node_type": "item",
               "title": "Traceable Federated Continual Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "P0werWeirdo/TagFCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5579,7 +5579,7 @@
             {
               "node_type": "item",
               "title": "Improving Plasticity in Online Continual Learning via Collaborative Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "maorong-wang/CCL-DC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5600,7 +5600,7 @@
             {
               "node_type": "item",
               "title": "Maintaining Fairness in Logit-based Knowledge Distillation for Class-Incremental Learning (AAAI 2024) [paper",
-              "description": "][code]",
+              "description": "Zi-Jian-Gao/Maintaining-Fairness-in-LKD-for-CIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5621,7 +5621,7 @@
             {
               "node_type": "item",
               "title": "Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models (ECCV24)[paper",
-              "description": "][code]",
+              "description": "chu0802/SnD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5647,7 +5647,7 @@
             {
               "node_type": "item",
               "title": "Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method (ICML24)[paper",
-              "description": "][code]",
+              "description": "NeurAI-Lab/DARE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5668,7 +5668,7 @@
             {
               "node_type": "item",
               "title": "SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Models (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "MIFA-Lab/SAFE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5693,7 +5693,7 @@
             {
               "node_type": "item",
               "title": "Reshaping the Online Data Buffering and Organizing Mechanism for Continual Test-Time Adaptation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "z1358/OBAO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5714,7 +5714,7 @@
             {
               "node_type": "item",
               "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "dtuzi123/DCM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5735,7 +5735,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning in the Frequency Domain (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "EMLS-ICTCAS/CLFD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5756,7 +5756,7 @@
             {
               "node_type": "item",
               "title": "CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "JungHunOh/CLOSER_ECCV2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5777,7 +5777,7 @@
             {
               "node_type": "item",
               "title": "Online Continuous Generalized Category Discovery (ECCV24)[paper",
-              "description": "][code]",
+              "description": "KU-VGI/OCGCD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5798,7 +5798,7 @@
             {
               "node_type": "item",
               "title": "Class Incremental Learning with Multi-Teacher Distillation (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "HaitaoWen/CLearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5822,7 +5822,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Momentum Knowledge Distillation in Online Continual Learning (ICML24)[paper",
-              "description": "][code]",
+              "description": "Nicolas1203/mkd_ocl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5843,7 +5843,7 @@
             {
               "node_type": "item",
               "title": "Evolving Parameterized Prompt Memory for Continual Learning (AAAI2024)[paper",
-              "description": "][code]",
+              "description": "MIV-XJTU/EvoPrompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5864,7 +5864,7 @@
             {
               "node_type": "item",
               "title": "Saliency-driven Experience Replay for Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "perceivelab/SER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5891,7 +5891,7 @@
             {
               "node_type": "item",
               "title": "Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "mala-lab/TPP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5919,7 +5919,7 @@
             {
               "node_type": "item",
               "title": "Make Continual Learning Stronger via C-Flat (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "WanNaa/C-Flat",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5940,7 +5940,7 @@
             {
               "node_type": "item",
               "title": "Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (ICML24)[paper",
-              "description": "][code]",
+              "description": "bwnzheng/MRFA_ICML2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5967,7 +5967,7 @@
             {
               "node_type": "item",
               "title": "Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "why19991/InSeg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5988,7 +5988,7 @@
             {
               "node_type": "item",
               "title": "Prediction Error-based Classification for Class-Incremental Learning (ICLR2024)[paper",
-              "description": "][code]",
+              "description": "michalzajac-ml/pec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6009,7 +6009,7 @@
             {
               "node_type": "item",
               "title": "Adapt Your Teacher: Improving Knowledge Distillation for Exemplar-free Continual Learning (WACV2024)[paper",
-              "description": "][code]",
+              "description": "fszatkowski/cl-teacher-adaptation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6030,7 +6030,7 @@
             {
               "node_type": "item",
               "title": "F-OAL: Forward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "liuyuchen-cz/F-OAL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6051,7 +6051,7 @@
             {
               "node_type": "item",
               "title": "Not Just Object, But State: Compositional Incremental Learning without Forgetting (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Yanyi-Zhang/CompILer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6072,7 +6072,7 @@
             {
               "node_type": "item",
               "title": "Task-recency bias strikes back: Adapting covariances in Exemplar-Free Class Incremental Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "grypesc/AdaGauss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6103,7 +6103,7 @@
             {
               "node_type": "item",
               "title": "Persistence Homology Distillation for Semi-supervised Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "fanyan0411/PsHD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6124,7 +6124,7 @@
             {
               "node_type": "item",
               "title": "Vector Quantization Prompting for Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "jiaolifengmi/VQ-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6145,7 +6145,7 @@
             {
               "node_type": "item",
               "title": "Preventing Catastrophic Forgetting through Memory Networks in Continuous Detection (ECCV24)[paper",
-              "description": "][code]",
+              "description": "GauravBh1010tt/MD-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6166,7 +6166,7 @@
             {
               "node_type": "item",
               "title": "STELLA: Continual Audio-Video Pre-training with SpatioTemporal Localized Alignment (ICML24)[paper",
-              "description": "][code]",
+              "description": "G-JWLee/STELLA_code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6187,7 +6187,7 @@
             {
               "node_type": "item",
               "title": "Compositional Few-Shot Class-Incremental Learning (ICML24)[paper",
-              "description": "][code]",
+              "description": "Zoilsen/Comp-FSCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6208,7 +6208,7 @@
             {
               "node_type": "item",
               "title": "Continual Audio-Visual Sound Separation (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "weiguoPian/ContAV-Sep_NeurIPS2024",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6229,7 +6229,7 @@
             {
               "node_type": "item",
               "title": "Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "ANDYZAQ/BARM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6250,7 +6250,7 @@
             {
               "node_type": "item",
               "title": "Category Adaptation Meets Projected Distillation in Generalized Continual Category Discovery (ECCV24)[paper",
-              "description": "][code]",
+              "description": "grypesc/CAMP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6276,7 +6276,7 @@
             {
               "node_type": "item",
               "title": "Random Representations Outperform Online Continually Learned Representations (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "drimpossible/RanDumb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6297,7 +6297,7 @@
             {
               "node_type": "item",
               "title": "A Topology-aware Graph Coarsening Framework for Continual Graph Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "hanxiaoxue114/TACO",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6318,7 +6318,7 @@
             {
               "node_type": "item",
               "title": "MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment (ECCV 2024) [paper",
-              "description": "][code]",
+              "description": "ZhouKanglei/MAGR_CAQA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6339,7 +6339,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning for Remote Physiological Measurement: Minimize Forgetting and Simplify Inference (ECCV24)[paper",
-              "description": "][code]",
+              "description": "MayYoY/rPPGDIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6360,7 +6360,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning and Unknown Object Discovery in 3D Scenes via Self-Distillation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "aminebdj/OpenDistill3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6381,7 +6381,7 @@
             {
               "node_type": "item",
               "title": "MIND: Multi-Task Incremental Network Distillation (AAAI2024)[paper",
-              "description": "][code]",
+              "description": "Lsabetta/MIND",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6402,7 +6402,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Visual Scene Understanding: Incremental Scene Graph Generation (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "ZhangLab-DeepNeuroCogLab/CSEGG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6423,7 +6423,7 @@
             {
               "node_type": "item",
               "title": "Label Delay in Online Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "botcs/label-delay-exp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6444,7 +6444,7 @@
             {
               "node_type": "item",
               "title": "iNeMo: Incremental Neural Mesh Models for Robust Class-Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "Fischer-Tom/iNeMo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6465,7 +6465,7 @@
             {
               "node_type": "item",
               "title": "Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation (ECCV24)[paper",
-              "description": "][code]",
+              "description": "dota-109/Web-WILSS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6486,7 +6486,7 @@
             {
               "node_type": "item",
               "title": "CLEO: Continual Learning of Evolving Ontologies (ECCV24)[paper",
-              "description": "][code]",
+              "description": "longrongyang/RCS-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6507,7 +6507,7 @@
             {
               "node_type": "item",
               "title": "RCS-Prompt: Learning Prompt to Rearrange Class Space for Prompt-based Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "longrongyang/RCS-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6528,7 +6528,7 @@
             {
               "node_type": "item",
               "title": "Task-Adaptive Saliency Guidance for Exemplar-free Class Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "scok30/tass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6549,7 +6549,7 @@
             {
               "node_type": "item",
               "title": "DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "isCDX2/DYSON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6570,7 +6570,7 @@
             {
               "node_type": "item",
               "title": "Learning a Low-Rank Feature Representation: Achieving Better Trade-Off between Stability and Plasticity in Continual Learning (ICASSP2024) [paper",
-              "description": "] [code]",
+              "description": "Dacaidi/LRFR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6597,7 +6597,7 @@
             {
               "node_type": "item",
               "title": "Train-Attention: Meta-Learning Where to Focus in Continual Knowledge Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "ybseo-ac/TAALM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6618,7 +6618,7 @@
             {
               "node_type": "item",
               "title": "CroMo-Mixup: Augmenting Cross-Model Representations for Continual Self-Supervised Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "ErumMushtaq/CroMo-Mixup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6639,7 +6639,7 @@
             {
               "node_type": "item",
               "title": "Revisiting Supervision for Continual Representation Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "danielm1405/sl-vs-ssl-cl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6663,7 +6663,7 @@
             {
               "node_type": "item",
               "title": "An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Arvin0313/Mecoin-GFSCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6684,7 +6684,7 @@
             {
               "node_type": "item",
               "title": "What Matters in Graph Class Incremental Learning? An Information Preservation Perspective (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Jillian555/GSIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6705,7 +6705,7 @@
             {
               "node_type": "item",
               "title": "Pick-a-back: Selective Device-to-Device Knowledge Transfer in Federated Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "jinyi-yoon/Pick-a-back",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6726,7 +6726,7 @@
             {
               "node_type": "item",
               "title": "Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "wxr99/NsCE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6747,7 +6747,7 @@
             {
               "node_type": "item",
               "title": "PromptFusion: Decoupling Stability and Plasticity for Continual Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "HaoranChen/PromptFusion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6768,7 +6768,7 @@
             {
               "node_type": "item",
               "title": "Canonical Shape Projection is All You Need for 3D Few-shot Class Incremental Learning (ECCV24)[paper",
-              "description": "][code]",
+              "description": "alichr/C3PR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6789,7 +6789,7 @@
             {
               "node_type": "item",
               "title": "Continual Segmentation with Disentangled Objectness Learning and Class Recognition (CVPR2024)[paper",
-              "description": "][code]",
+              "description": "jordangong/CoMasTRe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6810,7 +6810,7 @@
             {
               "node_type": "item",
               "title": "Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning (ICPR2024) [paper",
-              "description": "][code]",
+              "description": "Sperimental3/CHARON",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6831,7 +6831,7 @@
             {
               "node_type": "item",
               "title": "Rapid Learning without Catastrophic Forgetting in the Morris Water Maze (ICML24)[paper",
-              "description": "][code]",
+              "description": "raymondw2/seq-wm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6852,7 +6852,7 @@
             {
               "node_type": "item",
               "title": "PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding (NeurIPS 2024) [paper",
-              "description": "][code]",
+              "description": "Jinec98/PCoTTA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6873,7 +6873,7 @@
             {
               "node_type": "item",
               "title": "On the Diminishing Returns of Width for Continual Learning (ICML24)[paper",
-              "description": "][code]",
+              "description": "vihan-lakshman/diminishing-returns-wide-continual-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6894,7 +6894,7 @@
             {
               "node_type": "item",
               "title": "Adapt without Forgetting: Distill Proximity from Dual Teachers in Vision-Language Models (ECCV24)[paper",
-              "description": "][code]",
+              "description": "myz-ah/AwoForget",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6922,7 +6922,7 @@
             {
               "node_type": "item",
               "title": "Self-regulating Prompts: Foundational Model Adaptation without Forgetting (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "muzairkhattak/PromptSRC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6943,7 +6943,7 @@
             {
               "node_type": "item",
               "title": "CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "GT-RIPL/CODA-Prompt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6964,7 +6964,7 @@
             {
               "node_type": "item",
               "title": "Continual Detection Transformer for Incremental Object Detection (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "yaoyao-liu/CL-DETR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6991,7 +6991,7 @@
             {
               "node_type": "item",
               "title": "Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "Thunderbeee/ZSCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7012,7 +7012,7 @@
             {
               "node_type": "item",
               "title": "Learning with Fantasy: Semantic-Aware Virtual Contrastive Constraint for Few-Shot Class-Incremental Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "zysong0113/SAVC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7033,7 +7033,7 @@
             {
               "node_type": "item",
               "title": "A Unified Approach to Domain Incremental Learning with Memory: Theory and Algorithm (NeurIPS 2023)[paper",
-              "description": "][code]",
+              "description": "Wang-ML-Lab/unified-continual-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7059,7 +7059,7 @@
             {
               "node_type": "item",
               "title": "SLCA: Slow Learner with Classifier Alignment for Continual Learning on a Pre-trained Model (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "GengDavid/SLCA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7080,7 +7080,7 @@
             {
               "node_type": "item",
               "title": "MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "simplify23/MRN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7108,7 +7108,7 @@
             {
               "node_type": "item",
               "title": "Online Prototype Learning for Online Continual Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "weilllllls/OnPro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7129,7 +7129,7 @@
             {
               "node_type": "item",
               "title": "Augmented Box Replay: Overcoming Foreground Shift for Incremental Object Detection (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "YuyangSunshine/ABR_IOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7150,7 +7150,7 @@
             {
               "node_type": "item",
               "title": "CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "KevinLight831/CTP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7171,7 +7171,7 @@
             {
               "node_type": "item",
               "title": "Audio-Visual Class-Incremental Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "weiguoPian/AV-CIL_ICCV2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7192,7 +7192,7 @@
             {
               "node_type": "item",
               "title": "Regularizing Second-Order Influences for Continual Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "feifeiobama/InfluenceCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7216,7 +7216,7 @@
             {
               "node_type": "item",
               "title": "Online Class Incremental Learning on Stochastic Blurry Task Boundary via Mask and Visual Prompt Tuning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "KU-VGI/Si-Blurry",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7237,7 +7237,7 @@
             {
               "node_type": "item",
               "title": "CLR: Channel-wise Lightweight Reprogramming for Continual Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "gyhandy/Channel-wise-Lightweight-Reprogramming",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7258,7 +7258,7 @@
             {
               "node_type": "item",
               "title": "Prototype Reminiscence and Augmented Asymmetric Knowledge Aggregation for Non-Exemplar Class-Incremental Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "ShiWuxuan/ICCV2023-PRAKA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7279,7 +7279,7 @@
             {
               "node_type": "item",
               "title": "Class-Incremental Exemplar Compression for Class-Incremental Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "xfflzl/CIM-CIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7300,7 +7300,7 @@
             {
               "node_type": "item",
               "title": "PCR: Proxy-based Contrastive Replay for Online Class-Incremental Continual Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "FelixHuiweiLin/PCR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7321,7 +7321,7 @@
             {
               "node_type": "item",
               "title": "Do Pre-trained Models Benefit Equally in Continual Learning? (WACV2023)[paper",
-              "description": "] [code]",
+              "description": "eric11220/pretrained-models-in-CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7342,7 +7342,7 @@
             {
               "node_type": "item",
               "title": "Class-Incremental Grouping Network for Continual Audio-Visual Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "stoneMo/CIGN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7368,7 +7368,7 @@
             {
               "node_type": "item",
               "title": "Computationally Budgeted Continual Learning: What Does Matter? (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "drimpossible/BudgetCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7389,7 +7389,7 @@
             {
               "node_type": "item",
               "title": "Exemplar-Free Continual Transformer with Convolutions (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "CVIR/contracon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7410,7 +7410,7 @@
             {
               "node_type": "item",
               "title": "Tangent Model Composition for Ensembling and Continual Fine-tuning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "tianyu139/tangent-model-composition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7431,7 +7431,7 @@
             {
               "node_type": "item",
               "title": "A Probabilistic Framework for Lifelong Test-Time Adaptation (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "dhanajitb/petal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7452,7 +7452,7 @@
             {
               "node_type": "item",
               "title": "NAPA-VQ: Neighborhood Aware Prototype Augmentation with Vector Quantization for Continual Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "TamashaM/NAPA-VQ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7473,7 +7473,7 @@
             {
               "node_type": "item",
               "title": "Heterogeneous Forgetting Compensation for Class-Incremental Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "JiahuaDong/HFC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7494,7 +7494,7 @@
             {
               "node_type": "item",
               "title": "Sparse Coding in a Dual Memory System for Lifelong Learning (AAAI2023)[paper",
-              "description": "] [code]",
+              "description": "NeurAI-Lab/SCoMMER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7521,7 +7521,7 @@
             {
               "node_type": "item",
               "title": "Learnability and Algorithm for Continual Learning (ICML2023)[paper",
-              "description": "][code]",
+              "description": "k-gyuhak/CLOOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7542,7 +7542,7 @@
             {
               "node_type": "item",
               "title": "Growing a Brain with Sparsity-Inducing Generation for Continual Learning (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "Jin0316/GrowBrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7563,7 +7563,7 @@
             {
               "node_type": "item",
               "title": "Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "SunWenJu123/BMKP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7584,7 +7584,7 @@
             {
               "node_type": "item",
               "title": "Dealing With Cross-Task Class Discrimination in Online Continual Learning (CVPR2023)[paper",
-              "description": "][code]",
+              "description": "gydpku/GSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7605,7 +7605,7 @@
             {
               "node_type": "item",
               "title": "Enhancing Knowledge Transfer for Task Incremental Learning with Data-free Subnetwork (NeurIPS 2023) [paper",
-              "description": "] [Code]",
+              "description": "shanxiaojun/DSN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7626,7 +7626,7 @@
             {
               "node_type": "item",
               "title": "Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right? (ICCV 2023)[paper",
-              "description": "][code]",
+              "description": "drimpossible/EvalOCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7647,7 +7647,7 @@
             {
               "node_type": "item",
               "title": "RaSP: Relation-aware Semantic Prior for Weakly Supervised Incremental Segmentation (CoLLAs 2023) [paper",
-              "description": "] [code]",
+              "description": "naver/rasp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7668,7 +7668,7 @@
             {
               "node_type": "item",
               "title": "Minimax Forward and Backward Learning of Evolving Tasks with Performance Guarantees (NeurIPS 2023)[paper",
-              "description": "][code]",
+              "description": "MachineLearningBCAM/IMRCs-for-incremental-learning-NeurIPS-2023",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7696,7 +7696,7 @@
             {
               "node_type": "item",
               "title": "Class-Incremental Continual Learning into the eXtended DER-verse (TPAMI2022) [paper",
-              "description": "] [code]",
+              "description": "aimagelab/mammoth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7726,7 +7726,7 @@
             {
               "node_type": "item",
               "title": "DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (ECCV2022) [paper",
-              "description": "] [code]",
+              "description": "google-research/l2p",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7751,7 +7751,7 @@
             {
               "node_type": "item",
               "title": "Learning to Prompt for Continual Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "google-research/l2p",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -7776,7 +7776,7 @@
             {
               "node_type": "item",
               "title": "Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "DQiaole/ZITS_inpainting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7797,7 +7797,7 @@
             {
               "node_type": "item",
               "title": "Forward Compatible Few-Shot Class-Incremental Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "LAMDA-CL/CVPR22-Fact",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7824,7 +7824,7 @@
             {
               "node_type": "item",
               "title": "Self-Supervised Models are Continual Learners (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "DonkeyShot21/cassle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7845,7 +7845,7 @@
             {
               "node_type": "item",
               "title": "Federated Class-Incremental Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "conditionWang/FCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7871,7 +7871,7 @@
             {
               "node_type": "item",
               "title": "CLiMB: A Continual Learning Benchmark for Vision-and-Language Tasks (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "GLAMOR-USC/CLiMB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7892,7 +7892,7 @@
             {
               "node_type": "item",
               "title": "FOSTER: Feature Boosting and Compression for Class-Incremental Learning (ECCV2022) [paper",
-              "description": "] [code]",
+              "description": "G-U-N/ECCV22-FOSTER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7921,7 +7921,7 @@
             {
               "node_type": "item",
               "title": "CGLB: Benchmark Tasks for Continual Graph Learning (NeurIPS2022)[paper",
-              "description": "] [code]",
+              "description": "QueuQ/CGLB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7942,7 +7942,7 @@
             {
               "node_type": "item",
               "title": "Energy-based Latent Aligner for Incremental Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "JosephKJ/ELI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -7972,7 +7972,7 @@
             {
               "node_type": "item",
               "title": "Continual Training of Language Models for Few-Shot Learning (EMNLP2022) [paper",
-              "description": "] [code]",
+              "description": "UIC-Liu-Lab/CPT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8002,7 +8002,7 @@
             {
               "node_type": "item",
               "title": "Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks (TPAMI2022) [paper",
-              "description": "] [code]",
+              "description": "LAMDA-CL/TPAMI-Limit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8027,7 +8027,7 @@
             {
               "node_type": "item",
               "title": "Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation (ECCV2022)[paper",
-              "description": "] [code]",
+              "description": "Hongbin98/ProCA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8048,7 +8048,7 @@
             {
               "node_type": "item",
               "title": "Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV2022) [paper",
-              "description": "] [code]",
+              "description": "Hongbin98/ProCA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8069,7 +8069,7 @@
             {
               "node_type": "item",
               "title": "Meta-attention for ViT-backed Continual Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "zju-vipa/MEAT-TIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8090,7 +8090,7 @@
             {
               "node_type": "item",
               "title": "Mimicking the Oracle: An Initial Phase Decorrelation Approach for Class Incremental Learning (CVPR2022) [paper",
-              "description": "] [code]",
+              "description": "Yujun-Shi/CwD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8114,7 +8114,7 @@
             {
               "node_type": "item",
               "title": "Learngene: From Open-World to Your Learning Task (AAAI2022) [paper",
-              "description": "] [code]",
+              "description": "BruceQiufengWang/learngene",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8135,7 +8135,7 @@
             {
               "node_type": "item",
               "title": "Exploring Example Influence in Continual Learning (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "SSSunQing/Example_Influence_CL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8156,7 +8156,7 @@
             {
               "node_type": "item",
               "title": "CoSCL: Cooperation of Small Continual Learners is Stronger than a Big One (ECCV2022)[paper",
-              "description": "] [code]",
+              "description": "lywang3081/CoSCL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8177,7 +8177,7 @@
             {
               "node_type": "item",
               "title": "Transfer without Forgetting (ECCV2022) [paper",
-              "description": "][code]",
+              "description": "mbosc/twf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8201,7 +8201,7 @@
             {
               "node_type": "item",
               "title": "Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (ECCV2022) [paper",
-              "description": "] [code]",
+              "description": "ashok-arjun/CSCCT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8231,7 +8231,7 @@
             {
               "node_type": "item",
               "title": "R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning (ECCV2022) [paper",
-              "description": "] [code]",
+              "description": "jianzhangcs/R-DFCIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8252,7 +8252,7 @@
             {
               "node_type": "item",
               "title": "A Theoretical Study on Solving Continual Learning (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "k-gyuhak/WPTP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8273,7 +8273,7 @@
             {
               "node_type": "item",
               "title": "Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "Zoilsen/CLOM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8294,7 +8294,7 @@
             {
               "node_type": "item",
               "title": "On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "aimagelab/LiDER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8315,7 +8315,7 @@
             {
               "node_type": "item",
               "title": "Incremental Prompting: Episodic Memory Prompt for Lifelong Event Detection (COLING2022) [paper",
-              "description": "] [code]",
+              "description": "PLUM-Lab/Incremental_Prompting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8341,7 +8341,7 @@
             {
               "node_type": "item",
               "title": "A Multi-Head Model for Continual Learning via Out-of-Distribution Replay (CoLLAs2022) [paper",
-              "description": "] [code]",
+              "description": "k-gyuhak/MORE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8362,7 +8362,7 @@
             {
               "node_type": "item",
               "title": "Online Task-free Continual Learning with Dynamic Sparse Distributed Memory (ECCV2022)[paper",
-              "description": "][code]",
+              "description": "Julien-pour/Dynamic-Sparse-Distributed-Memory",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8383,7 +8383,7 @@
             {
               "node_type": "item",
               "title": "Continual Semi-Supervised Learning through Contrastive Interpolation Consistency (PRL2022) [paper",
-              "description": "][code]",
+              "description": "aimagelab/CSSL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8404,7 +8404,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning In Environments With Polynomial Mixing Times (NeurIPS2022) [paper",
-              "description": "] [code]",
+              "description": "SharathRaparthy/polynomial-mixing-times",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8463,7 +8463,7 @@
             {
               "node_type": "item",
               "title": "Online Class-Incremental Continual Learning with Adversarial Shapley Value(AAAI, 2021) [paper",
-              "description": "] [code]",
+              "description": "RaptorMai/online-continual-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8495,7 +8495,7 @@
             {
               "node_type": "item",
               "title": "CLASSIC: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks (EMNLP, 2021) [paper",
-              "description": "][code]",
+              "description": "ZixuanKe/PyContinual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8526,7 +8526,7 @@
             {
               "node_type": "item",
               "title": "Incremental Object Detection via Meta-Learning (TPAMI 2021) [paper",
-              "description": "] [code]",
+              "description": "JosephKJ/iOD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8555,7 +8555,7 @@
             {
               "node_type": "item",
               "title": "Prototype Augmentation and Self-Supervision for Incremental Learning (CVPR, 2021) [paper",
-              "description": "] [code]",
+              "description": "Impression2805/CVPR21_PASS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8581,7 +8581,7 @@
             {
               "node_type": "item",
               "title": "Split-and-Bridge: Adaptable Class Incremental Learning within a Single Neural Network(AAAI, 2021) [paper",
-              "description": "] [code]",
+              "description": "bigdata-inha/Split-and-Bridge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8607,7 +8607,7 @@
             {
               "node_type": "item",
               "title": "Bridging Non Co-occurrence with Unlabeled In-the-wild Data for Incremental Object Detection (NeurIPS, 2021) [paper",
-              "description": "] [code]",
+              "description": "dongnana777/Bridging-Non-Co-occurrence",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8635,7 +8635,7 @@
             {
               "node_type": "item",
               "title": "Dark Experience for General Continual Learning: a Strong, Simple Baseline (NeurIPS2020) [paper",
-              "description": "] [code]",
+              "description": "aimagelab/mammoth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8665,7 +8665,7 @@
             {
               "node_type": "item",
               "title": "Mnemonics Training: Multi-Class Incremental Learning without Forgetting (CVPR2020) [paper",
-              "description": "] [code]",
+              "description": "yaoyao-liu/class-incremental-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8689,7 +8689,7 @@
             {
               "node_type": "item",
               "title": "PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning (ECCV2020) [paper",
-              "description": "] [code]",
+              "description": "arthurdouillard/incremental_learning.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8717,7 +8717,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Continual Learning (ECCV2020) [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/Adversarial-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8738,7 +8738,7 @@
             {
               "node_type": "item",
               "title": "Brain-inspired replay for continual learning with artificial neural networks (Natrue Communications 2020) [paper",
-              "description": "] [code]",
+              "description": "GMvandeVen/brain-inspired-replay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8777,7 +8777,7 @@
             {
               "node_type": "item",
               "title": "Semantic Drift Compensation for Class-Incremental Learning (CVPR2020) [paper",
-              "description": "] [code]",
+              "description": "yulu0724/SDC-IL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8798,7 +8798,7 @@
             {
               "node_type": "item",
               "title": "Learning to Continually Learn (ECAI 2020) [paper",
-              "description": "] [code]",
+              "description": "uvm-neurobotics-lab/ANML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8819,7 +8819,7 @@
             {
               "node_type": "item",
               "title": "iTAML : An Incremental Task-Agnostic Meta-learning Approach (CVPR2020) [paper",
-              "description": "] [code]",
+              "description": "brjathu/iTAML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8840,7 +8840,7 @@
             {
               "node_type": "item",
               "title": "REMIND Your Neural Network to Prevent Catastrophic Forgetting (ECCV2020) [paper",
-              "description": "] [code]",
+              "description": "tyler-hayes/REMIND",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8861,7 +8861,7 @@
             {
               "node_type": "item",
               "title": "Rethinking Experience Replay: a Bag of Tricks for Continual Learning(ICPR, 2020) [paper",
-              "description": "] [code]",
+              "description": "pbuzzega/rethinking_er",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8882,7 +8882,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning with Knowledge Transfer for Sentiment Classification (ECML-PKDD2020) [paper",
-              "description": "] [code]",
+              "description": "ZixuanKe/LifelongSentClass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8909,7 +8909,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning of a Mixed Sequence of Similar and Dissimilar Tasks (NeurIPS2020) [paper",
-              "description": "] [code]",
+              "description": "ZixuanKe/CAT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8943,7 +8943,7 @@
             {
               "node_type": "item",
               "title": "Efficient Lifelong Learning with A-GEM (ICLR2019) [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/agem",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -8964,7 +8964,7 @@
             {
               "node_type": "item",
               "title": "Meta-Learning Representations for Continual Learning (NeurIPS2019) [paper",
-              "description": "] [code]",
+              "description": "kjaved0/mrcl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -8991,7 +8991,7 @@
             {
               "node_type": "item",
               "title": "Learning a Unified Classifier Incrementally via Rebalancing (CVPR2019) [paper",
-              "description": "] [code]",
+              "description": "hshustc/CVPR19_Incremental_Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9012,7 +9012,7 @@
             {
               "node_type": "item",
               "title": "Continual learning of context-dependent processing in neural networks (Nature Machine Intelligence 2019) [paper",
-              "description": "] [code]",
+              "description": "beijixiong3510/OWM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9033,7 +9033,7 @@
             {
               "node_type": "item",
               "title": "Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference (ICLR2019) [paper",
-              "description": "] [code]",
+              "description": "mattriemer/MER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9054,7 +9054,7 @@
             {
               "node_type": "item",
               "title": "Compacting, Picking and Growing for Unforgetting Continual Learning (NeurIPS2019)[paper",
-              "description": "][code]",
+              "description": "ivclab/CPG",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9086,7 +9086,7 @@
             {
               "node_type": "item",
               "title": "Large Scale Incremental Learning (CVPR2019) [paper",
-              "description": "] [code]",
+              "description": "wuyuebupt/LargeScaleIncrementalLearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9107,7 +9107,7 @@
             {
               "node_type": "item",
               "title": "Increasingly Packing Multiple Facial-Informatics Modules in A Unified Deep-Learning Model via Lifelong Learning (ICMR2019) [paper",
-              "description": "][code]",
+              "description": "ivclab/PAE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9146,7 +9146,7 @@
             {
               "node_type": "item",
               "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning (CVPR2018) [paper",
-              "description": "] [code]",
+              "description": "arunmallya/packnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9167,7 +9167,7 @@
             {
               "node_type": "item",
               "title": "Overcoming Catastrophic Forgetting with Hard Attention to the Task (ICML2018) [paper",
-              "description": "] [code]",
+              "description": "joansj/hat",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9188,7 +9188,7 @@
             {
               "node_type": "item",
               "title": "Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights (ECCV2018) [paper",
-              "description": "] [code]",
+              "description": "arunmallya/piggyback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9209,7 +9209,7 @@
             {
               "node_type": "item",
               "title": "Memory Aware Synapses: Learning what (not) to forget (ECCV2018) [paper",
-              "description": "] [code]",
+              "description": "rahafaljundi/MAS-Memory-Aware-Synapses",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9230,7 +9230,7 @@
             {
               "node_type": "item",
               "title": "End-to-End Incremental Learning (ECCV2018) [paper",
-              "description": "][code]",
+              "description": "fmcp/EndToEndIncrementalLearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9251,7 +9251,7 @@
             {
               "node_type": "item",
               "title": "Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018) [paper",
-              "description": "] [code]",
+              "description": "WuChenshen/MeRGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9272,7 +9272,7 @@
             {
               "node_type": "item",
               "title": "Reinforced Continual Learning (NIPS2018) [paper",
-              "description": "] [code]",
+              "description": "xujinfan/Reinforced-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9293,7 +9293,7 @@
             {
               "node_type": "item",
               "title": "Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting (R-EWC) (ICPR2018) [paper",
-              "description": "] [code]",
+              "description": "xialeiliu/RotateNetworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9314,7 +9314,7 @@
             {
               "node_type": "item",
               "title": "Exemplar-Supported Generative Reproduction for Class Incremental Learning (BMVC2018) [paper",
-              "description": "] [code]",
+              "description": "TonyPod/ESGR",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9342,7 +9342,7 @@
             {
               "node_type": "item",
               "title": "Gradient Episodic Memory for Continual Learning (NIPS2017) [paper",
-              "description": "] [code]",
+              "description": "facebookresearch/GradientEpisodicMemory",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -9384,7 +9384,7 @@
             {
               "node_type": "item",
               "title": "iCaRL: Incremental Classifier and Representation Learning (CVPR2017) [paper",
-              "description": "] [code]",
+              "description": "srebuffi/iCaRL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9405,7 +9405,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning with Deep Generative Replay (NIPS2017) [paper",
-              "description": "] [code]",
+              "description": "kuc2477/pytorch-deep-generative-replay",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9426,7 +9426,7 @@
             {
               "node_type": "item",
               "title": "Continual Learning Through Synaptic Intelligence (ICML2017) [paper",
-              "description": "] [code]",
+              "description": "ganguli-lab/pathint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9447,7 +9447,7 @@
             {
               "node_type": "item",
               "title": "Overcoming Catastrophic Forgetting by Incremental Moment Matching (NIPS2017) [paper",
-              "description": "] [code]",
+              "description": "btjhjeon/IMM_tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9475,7 +9475,7 @@
             {
               "node_type": "item",
               "title": "Learning without forgetting (ECCV2016) [paper",
-              "description": "] [code]",
+              "description": "lizhitwo/LearningWithoutForgetting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:24:12.455Z",
+    "last_updated": "2026-10-03T04:25:02.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
