@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 712,
+                "stars": 714,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -481,7 +481,7 @@
                 "open_issues": 1,
                 "owner": "LMMMEng",
                 "repo": "CaRE",
-                "stars": 24,
+                "stars": 25,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -4129,6 +4129,27 @@
             },
             {
               "node_type": "item",
+              "title": "Learning without Isolation: Pathway Protection for Continual Learning (ICML 2025) [paper",
+              "description": "chenzk202212/LwI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 750161299,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-06-14T10:38:39Z",
+                "open_issues": 1,
+                "owner": "chenzk202212",
+                "repo": "LwI",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Probabilistic Group Mask Guided Discrete Optimization for Incremental Learning (ICML 2025) [paper",
               "description": "njustkmg/ICML25-PGM",
               "children": [],
@@ -4213,27 +4234,6 @@
             },
             {
               "node_type": "item",
-              "title": "Learning without Isolation: Pathway Protection for Continual Learning (ICML 2025) [paper",
-              "description": "chenzk202212/LwI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 750161299,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-06-14T10:38:39Z",
-                "open_issues": 1,
-                "owner": "chenzk202212",
-                "repo": "LwI",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Where is the Truth? The Risk of Getting Confounded in a Continual World (ICML 2025) [paper",
               "description": "ml-research/concon",
               "children": [],
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4475,
+                "stars": 4476,
                 "topics": [
                   "agi",
                   "gpt",
@@ -8476,7 +8476,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:59:18.016Z",
+    "last_updated": "2026-10-04T13:38:06.374Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
