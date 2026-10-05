@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 427,
+            "stars": 426,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -721,6 +721,27 @@
             },
             {
               "node_type": "item",
+              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
+              "description": "Artificer-AI-Lab/MoRAM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
+                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
+                "id": 1242284307,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-23T08:47:40Z",
+                "open_issues": 1,
+                "owner": "Artificer-AI-Lab",
+                "repo": "MoRAM",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
               "description": "Continue-Edge-AI-Lab/ProNC",
               "children": [],
@@ -777,27 +798,6 @@
                 "open_issues": 1,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
-              "description": "Artificer-AI-Lab/MoRAM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of \"Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts\", accepted at ICML 2026.",
-                "homepage": "https://artificer-ai-lab.github.io/MoRAM/",
-                "id": 1242284307,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-23T08:47:40Z",
-                "open_issues": 1,
-                "owner": "Artificer-AI-Lab",
-                "repo": "MoRAM",
                 "stars": 10,
                 "topics": []
               },
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4036,
+                "stars": 4040,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5387,6 +5387,27 @@
             },
             {
               "node_type": "item",
+              "title": "GACL: Exemplar-Free Generalized Analytic Continual Learning (NeurIPS 2024) [paper",
+              "description": "CHEN-YIZHU/GACL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2024] GACL: Exemplar-Free Generalized Analytic Continual Learning",
+                "homepage": null,
+                "id": 876667495,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2024-11-05T11:40:17Z",
+                "open_issues": 0,
+                "owner": "CHEN-YIZHU",
+                "repo": "GACL",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "ViLCo-Bench: VIdeo Language COntinual learning Benchmark (NeurIPS 2024) [paper",
               "description": "cruiseresearchgroup/ViLCo",
               "children": [],
@@ -5486,27 +5507,6 @@
                 "owner": "JiangpengHe",
                 "repo": "imbalanced_cil",
                 "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "GACL: Exemplar-Free Generalized Analytic Continual Learning (NeurIPS 2024) [paper",
-              "description": "CHEN-YIZHU/GACL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2024] GACL: Exemplar-Free Generalized Analytic Continual Learning",
-                "homepage": null,
-                "id": 876667495,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-11-05T11:40:17Z",
-                "open_issues": 0,
-                "owner": "CHEN-YIZHU",
-                "repo": "GACL",
-                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8476,7 +8476,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -9243,7 +9243,7 @@
                 "open_issues": 8,
                 "owner": "fmcp",
                 "repo": "EndToEndIncrementalLearning",
-                "stars": 66,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:38:06.374Z",
+    "last_updated": "2026-10-05T16:44:05.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
