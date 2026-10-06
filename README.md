@@ -932,13 +932,13 @@
 
 * <a name="todo"></a> Class Incremental Learning with Multi-Teacher Distillation (**CVPR2024**)\[[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_Class_Incremental_Learning_with_Multi-Teacher_Distillation_CVPR_2024_paper.pdf)]\[[code](https://github.com/HaitaoWen/CLearning) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2025-01-31]
 
+* <a name="todo"></a> Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/db512259110b000f82fd2052e9432dd693af4137.pdf)]\[[code](https://github.com/mala-lab/TPP) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-12-28]
+
 * <a name="todo"></a> Rethinking Momentum Knowledge Distillation in Online Continual Learning (**ICML24**)\[[paper](https://arxiv.org/abs/2309.02870)]\[[code](https://github.com/Nicolas1203/mkd_ocl) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-03-21]
 
 * <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)]\[[code](https://github.com/MIV-XJTU/EvoPrompt) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2024-04-15]
 
 * <a name="todo"></a> Saliency-driven Experience Replay for Continual Learning  (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/f3e3bc516755d6efa43fb0c62dea0d705efacfe7.pdf)]\[[code](https://github.com/perceivelab/SER) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-03-14]
-
-* <a name="todo"></a> Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/db512259110b000f82fd2052e9432dd693af4137.pdf)]\[[code](https://github.com/mala-lab/TPP) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2024-12-28]
 
 * <a name="todo"></a> Make Continual Learning Stronger via C-Flat (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/be179393fb5b55da27facef791300b7cea7f22b0.pdf)]\[[code](https://github.com/WanNaa/C-Flat) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
 

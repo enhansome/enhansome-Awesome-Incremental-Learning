@@ -5821,6 +5821,34 @@
             },
             {
               "node_type": "item",
+              "title": "Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (NeurIPS 2024) [paper",
+              "description": "mala-lab/TPP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach\" (NeurIPS 2024).",
+                "homepage": null,
+                "id": 866809570,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-12-28T03:47:51Z",
+                "open_issues": 1,
+                "owner": "mala-lab",
+                "repo": "TPP",
+                "stars": 13,
+                "topics": [
+                  "class-incremental-learning",
+                  "continual-learning",
+                  "graph-class-incremental-learning",
+                  "graph-learning",
+                  "graph-neural-networks",
+                  "graph-prompting"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Momentum Knowledge Distillation in Online Continual Learning (ICML24)[paper",
               "description": "Nicolas1203/mkd_ocl",
               "children": [],
@@ -5884,34 +5912,6 @@
                   "online-learning",
                   "saliency-prediction",
                   "selective-attention"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (NeurIPS 2024) [paper",
-              "description": "mala-lab/TPP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official code for \"Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach\" (NeurIPS 2024).",
-                "homepage": null,
-                "id": 866809570,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-12-28T03:47:51Z",
-                "open_issues": 1,
-                "owner": "mala-lab",
-                "repo": "TPP",
-                "stars": 12,
-                "topics": [
-                  "class-incremental-learning",
-                  "continual-learning",
-                  "graph-class-incremental-learning",
-                  "graph-learning",
-                  "graph-neural-networks",
-                  "graph-prompting"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:08.554Z",
+    "last_updated": "2026-10-06T14:41:17.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
