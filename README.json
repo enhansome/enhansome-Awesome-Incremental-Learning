@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -8445,7 +8445,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1074,
+                "stars": 1073,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -8476,7 +8476,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -9243,7 +9243,7 @@
                 "open_issues": 8,
                 "owner": "fmcp",
                 "repo": "EndToEndIncrementalLearning",
-                "stars": 65,
+                "stars": 66,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:44:05.772Z",
+    "last_updated": "2026-10-06T10:31:08.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
