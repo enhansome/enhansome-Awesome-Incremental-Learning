@@ -64,11 +64,11 @@
 
 * <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
 
+* <a name="todo"></a> Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Beyond_Prompt_Degradation_Prototype-guided_Dual-pool_Prompting_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)]\[[code](https://github.com/zyt95579/PDP_IOD) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2026-05-31]
+
 * <a name="todo"></a> MergeTune: Continued Fine-Tuning of Vision-Language Models (**ICLR 2026**) \[[paper](https://openreview.net/pdf/dc7bd9df5a2b1278492c62046a6415123282688d.pdf)]\[[code](https://github.com/Surrey-UP-Lab/MERGETUNE) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-02-25]
 
 * <a name="todo"></a> The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (**ICLR 2026**) \[[paper](https://openreview.net/pdf/bd2df573fd7f06b12f1921f93726ba6c66050149.pdf)]\[[code](https://github.com/AIGNLAI/EDGE) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-02-07]
-
-* <a name="todo"></a> Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Beyond_Prompt_Degradation_Prototype-guided_Dual-pool_Prompting_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)]\[[code](https://github.com/zyt95579/PDP_IOD) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-05-31]
 
 * <a name="todo"></a> AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.28809)]\[[code](https://github.com/LAMDA-CL/ICML2026-AREA) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-07-06]
 
@@ -348,7 +348,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,040 | 🐛 7 | 🌐 Python | 📅 2026-10-01]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,045 | 🐛 7 | 🌐 Python | 📅 2026-10-06]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 842 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -366,7 +366,7 @@
 
 * <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.09118)]\[[code](https://github.com/linlany/MindtheGap) ⭐ 61 | 🐛 0 | 🌐 Python | 📅 2026-01-07]
 
-* <a name="todo"></a> External Knowledge Injection for CLIP-Based Class-Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2503.08510)]\[[code](https://github.com/LAMDA-CL/ICCV25-ENGINE) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2025-11-19]
+* <a name="todo"></a> External Knowledge Injection for CLIP-Based Class-Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2503.08510)]\[[code](https://github.com/LAMDA-CL/ICCV25-ENGINE) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2025-11-19]
 
 * <a name="todo"></a> HiDe-LLaVA: Hierarchical Decoupling for Continual Instruction Tuning of Multimodal Large Language Model (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.666.pdf)]\[[code](https://github.com/Ghy0501/HiDe-LLaVA) ⭐ 56 | 🐛 4 | 🌐 Python | 📅 2026-06-01]
 
@@ -406,8 +406,6 @@
 
 * <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=Iu8FVcUmVp)]\[[code](https://github.com/wang-qiuchen/PseDet) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-09-16]
 
-* <a name="todo"></a> MemEIC: A Step Toward Continual and Compositional Knowledge Editing (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/e5209240370185240edeb5bc9a5296481fd5702b.pdf)]\[[code](https://github.com/MemEIC/MemEIC) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
-
 * <a name="todo"></a> TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.1551.pdf)]\[[code](https://github.com/apple/ml-tic-lm) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2026-09-11]
 
 * <a name="todo"></a> Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.07560)]\[[code](https://github.com/fwu11/MACIL.git) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-08-08]
@@ -415,6 +413,8 @@
 * <a name="todo"></a> Synthetic Data is an Elegant GIFT for Continual Vision-Language Models (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2503.04229)]\[[code](https://github.com/Luo-Jiaming/GIFT_CL) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-06-29]
 
 * <a name="todo"></a> Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2502.20032)]\[[code](https://github.com/AIGNLAI/GDDSG) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-10-16]
+
+* <a name="todo"></a> MemEIC: A Step Toward Continual and Compositional Knowledge Editing (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/e5209240370185240edeb5bc9a5296481fd5702b.pdf)]\[[code](https://github.com/MemEIC/MemEIC) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
 
 * <a name="todo"></a>Reinforced Lifelong Editing for Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.05759)]\[[code](https://github.com/zhrli324/RLEdit) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-02-23]
 
@@ -798,7 +798,7 @@
 
 ### 2024
 
-* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,476 | 🐛 120 | 🌐 Python | 📅 2026-09-15]
+* <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⭐ 4,477 | 🐛 120 | 🌐 Python | 📅 2026-09-15]
 
 * <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 842 | 🐛 1 | 🌐 Python | 📅 2026-05-20]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

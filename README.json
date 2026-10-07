@@ -632,6 +632,27 @@
             },
             {
               "node_type": "item",
+              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
+              "description": "zyt95579/PDP_IOD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
+                "homepage": null,
+                "id": 1169751906,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-31T06:51:17Z",
+                "open_issues": 2,
+                "owner": "zyt95579",
+                "repo": "PDP_IOD",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "MergeTune: Continued Fine-Tuning of Vision-Language Models (ICLR 2026) [paper",
               "description": "Surrey-UP-Lab/MERGETUNE",
               "children": [],
@@ -674,27 +695,6 @@
                   "evaluation",
                   "protocol"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
-              "description": "zyt95579/PDP_IOD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
-                "homepage": null,
-                "id": 1169751906,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-31T06:51:17Z",
-                "open_issues": 2,
-                "owner": "zyt95579",
-                "repo": "PDP_IOD",
-                "stars": 11,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1727,11 +1727,11 @@
                 "id": 805115184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T21:23:15Z",
+                "last_commit": "2026-10-06T21:03:49Z",
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4040,
+                "stars": 4045,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1936,7 +1936,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-11-19T07:23:40Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICCV25-ENGINE",
                 "stars": 60,
@@ -2365,27 +2365,6 @@
             },
             {
               "node_type": "item",
-              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
-              "description": "MemEIC/MemEIC",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
-                "homepage": null,
-                "id": 1077233616,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-23T01:33:41Z",
-                "open_issues": 0,
-                "owner": "MemEIC",
-                "repo": "MemEIC",
-                "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
               "description": "apple-aiml-research/ml-tic-lm",
               "children": [],
@@ -2464,6 +2443,27 @@
                 "owner": "AIGNLAI",
                 "repo": "GDDSG",
                 "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
+              "description": "MemEIC/MemEIC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
+                "homepage": null,
+                "id": 1077233616,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-23T01:33:41Z",
+                "open_issues": 0,
+                "owner": "MemEIC",
+                "repo": "MemEIC",
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4476,
+                "stars": 4477,
                 "topics": [
                   "agi",
                   "gpt",
@@ -6385,7 +6385,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": null,
+                "description": "Official implementation of MIND, a continual learning method published at AAAI 2024.",
                 "homepage": null,
                 "id": 678450373,
                 "language": "Jupyter Notebook",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:41:17.618Z",
+    "last_updated": "2026-10-07T15:01:03.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
