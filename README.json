@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -646,7 +646,7 @@
                 "open_issues": 2,
                 "owner": "zyt95579",
                 "repo": "PDP_IOD",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4045,
+                "stars": 4048,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1752,7 +1752,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2582,6 +2582,31 @@
             },
             {
               "node_type": "item",
+              "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
+              "description": "LAMDA-CL/ICCV2025-TUNA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025)",
+                "homepage": null,
+                "id": 1019921687,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-23T06:48:33Z",
+                "open_issues": 1,
+                "owner": "LAMDA-CL",
+                "repo": "ICCV2025-TUNA",
+                "stars": 20,
+                "topics": [
+                  "class-incremental-learning",
+                  "continual-learning",
+                  "incremental-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
               "description": "chenhao-zju/VAMoE",
               "children": [],
@@ -2598,31 +2623,6 @@
                 "repo": "VAMoE",
                 "stars": 19,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
-              "description": "LAMDA-CL/ICCV2025-TUNA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025)",
-                "homepage": null,
-                "id": 1019921687,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-09-23T06:48:33Z",
-                "open_issues": 1,
-                "owner": "LAMDA-CL",
-                "repo": "ICCV2025-TUNA",
-                "stars": 19,
-                "topics": [
-                  "class-incremental-learning",
-                  "continual-learning",
-                  "incremental-learning"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -3268,6 +3268,27 @@
             },
             {
               "node_type": "item",
+              "title": "L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning (ICML 2025) [paper",
+              "description": "scut-zx/L3A",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning",
+                "homepage": null,
+                "id": 991944411,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-03T07:56:57Z",
+                "open_issues": 2,
+                "owner": "scut-zx",
+                "repo": "L3A",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Adapt-$\\infty$: Scalable Continual Multimodal Instruction Tuning via Dynamic Data Selection (ICLR 2025) [paper",
               "description": "adymaharana/adapt-inf",
               "children": [],
@@ -3345,27 +3366,6 @@
                 "open_issues": 2,
                 "owner": "xingmingyu123456",
                 "repo": "KnowledgeSwapping",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning (ICML 2025) [paper",
-              "description": "scut-zx/L3A",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning",
-                "homepage": null,
-                "id": 991944411,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-03T07:56:57Z",
-                "open_issues": 2,
-                "owner": "scut-zx",
-                "repo": "L3A",
                 "stars": 9,
                 "topics": []
               },
@@ -3451,6 +3451,27 @@
                 "owner": "ajozefiak",
                 "repo": "SelfNormalizedResets",
                 "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning (NeurIPS 2025) [paper",
+              "description": "iLearn-Lab/NeurIPS25-P-M_CL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Official Implementation for Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning",
+                "homepage": null,
+                "id": 984253506,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-06T08:20:46Z",
+                "open_issues": 0,
+                "owner": "iLearn-Lab",
+                "repo": "NeurIPS25-P-M_CL",
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3597,27 +3618,6 @@
                 "open_issues": 0,
                 "owner": "ydn3229",
                 "repo": "DCFCL",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning (NeurIPS 2025) [paper",
-              "description": "iLearn-Lab/NeurIPS25-P-M_CL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Official Implementation for Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning",
-                "homepage": null,
-                "id": 984253506,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-06T08:20:46Z",
-                "open_issues": 0,
-                "owner": "iLearn-Lab",
-                "repo": "NeurIPS25-P-M_CL",
                 "stars": 7,
                 "topics": []
               },
@@ -4330,7 +4330,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,7 +4360,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7709,7 +7709,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,7 +8648,7 @@
                 "open_issues": 1,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T15:01:03.586Z",
+    "last_updated": "2026-10-08T15:09:29.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9538,14 +9538,14 @@
       "id": 146447849,
       "language": null,
       "license": null,
-      "last_commit": "2026-06-27T08:44:09Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-08T01:47:45Z",
+      "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
       "stars": 4530,
       "topics": []
     },
-    "original_repository_sha": "09fc427483a2fcf25ddfdc95c3495832f485bb9d",
+    "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
     "enhanced_repository_description": null,
     "title": "Awesome Incremental Learning / Lifelong learning with stars"
