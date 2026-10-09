@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 47,
+                "stars": 48,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -826,6 +826,29 @@
             },
             {
               "node_type": "item",
+              "title": "Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models (ICLR 2026) [paper",
+              "description": "liaoweiduo/CompSLOT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for ICLR 2026 Oral: Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models",
+                "homepage": "https://iclr.cc/virtual/2026/oral/10011784",
+                "id": 1168164351,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-04-24T10:30:13Z",
+                "open_issues": 0,
+                "owner": "liaoweiduo",
+                "repo": "CompSLOT",
+                "stars": 9,
+                "topics": [
+                  "continual-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data (ICLR 2026) [paper",
               "description": "zhoujiahuan1991/ICLR2026-N2L",
               "children": [],
@@ -889,29 +912,6 @@
             },
             {
               "node_type": "item",
-              "title": "Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models (ICLR 2026) [paper",
-              "description": "liaoweiduo/CompSLOT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official code for ICLR 2026 Oral: Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models",
-                "homepage": "https://iclr.cc/virtual/2026/oral/10011784",
-                "id": 1168164351,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-04-24T10:30:13Z",
-                "open_issues": 0,
-                "owner": "liaoweiduo",
-                "repo": "CompSLOT",
-                "stars": 8,
-                "topics": [
-                  "continual-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (ICLR 2026) [paper",
               "description": "iLearn-Lab/ICLR26-SplitLoRA",
               "children": [],
@@ -927,6 +927,27 @@
                 "owner": "iLearn-Lab",
                 "repo": "ICLR26-SplitLoRA",
                 "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Elastic Weight Consolidation Done Right for Continual Learning (CVPR 2026) [paper",
+              "description": "scarlet0703/EWC-DR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of our CVPR 2026 paper, \"Elastic Weight Consolidation Done Right for Continual Learning.\"",
+                "homepage": null,
+                "id": 1179699729,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-11T03:14:59Z",
+                "open_issues": 0,
+                "owner": "scarlet0703",
+                "repo": "EWC-DR",
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1011,27 +1032,6 @@
                 "owner": "SalesforceAIResearch",
                 "repo": "PLATE",
                 "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Elastic Weight Consolidation Done Right for Continual Learning (CVPR 2026) [paper",
-              "description": "scarlet0703/EWC-DR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of our CVPR 2026 paper, \"Elastic Weight Consolidation Done Right for Continual Learning.\"",
-                "homepage": null,
-                "id": 1179699729,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-11T03:14:59Z",
-                "open_issues": 0,
-                "owner": "scarlet0703",
-                "repo": "EWC-DR",
-                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4048,
+                "stars": 4052,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2818,7 +2818,7 @@
             {
               "node_type": "item",
               "title": "Learning Expandable and Adaptable Representations for Continual Learning (NeurIPS 2025) [paper",
-              "description": "yrluestc/NeurIPS2025-LEAR",
+              "description": "yrluestc/Learning-Expandable-and-Adaptable-Representations-for-Continual-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2827,10 +2827,10 @@
                 "id": 1080332998,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-01-18T07:03:55Z",
+                "last_commit": "2026-10-09T02:23:21Z",
                 "open_issues": 0,
                 "owner": "yrluestc",
-                "repo": "NeurIPS2025-LEAR",
+                "repo": "Learning-Expandable-and-Adaptable-Representations-for-Continual-Learning",
                 "stars": 15,
                 "topics": []
               },
@@ -3076,6 +3076,27 @@
             },
             {
               "node_type": "item",
+              "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [paper",
+              "description": "zyzhang11/DGAR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 933089756,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-24T09:06:47Z",
+                "open_issues": 1,
+                "owner": "zyzhang11",
+                "repo": "DGAR",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mitigating Plasticity Loss in Continual Reinforcement Learning by Reducing Churn (ICML 2025) [paper",
               "description": "bluecontra/C-CHAIN",
               "children": [],
@@ -3132,27 +3153,6 @@
                 "open_issues": 0,
                 "owner": "NJUyued",
                 "repo": "USP4SSCL",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A Generative Adaptive Replay Continual Learning Model for Temporal Knowledge Graph Reasoning (ACL 2025) [paper",
-              "description": "zyzhang11/DGAR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 933089756,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-24T09:06:47Z",
-                "open_issues": 1,
-                "owner": "zyzhang11",
-                "repo": "DGAR",
                 "stars": 11,
                 "topics": []
               },
@@ -4297,7 +4297,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4477,
+                "stars": 4478,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7789,7 +7789,7 @@
                 "open_issues": 5,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
-                "stars": 396,
+                "stars": 395,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9264,7 +9264,7 @@
                 "open_issues": 6,
                 "owner": "WuChenshen",
                 "repo": "MeRGAN",
-                "stars": 62,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9439,7 +9439,7 @@
                 "open_issues": 1,
                 "owner": "ganguli-lab",
                 "repo": "pathint",
-                "stars": 112,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T15:09:29.897Z",
+    "last_updated": "2026-10-09T14:54:51.882Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4530,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
