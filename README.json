@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 714,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -667,7 +667,7 @@
                 "open_issues": 0,
                 "owner": "Surrey-UP-Lab",
                 "repo": "MERGETUNE",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1731,7 +1731,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4052,
+                "stars": 4054,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3405,7 +3405,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-06-13T12:38:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SkyOfBeginning",
                 "repo": "FedTA_CVPR2025",
                 "stars": 9,
@@ -6228,6 +6228,27 @@
             },
             {
               "node_type": "item",
+              "title": "MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment (ECCV 2024) [paper",
+              "description": "ZhouKanglei/MAGR_CAQA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024 Oral] MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment",
+                "homepage": "https://arxiv.org/abs/2403.04398",
+                "id": 824083217,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-05-10T11:11:54Z",
+                "open_issues": 1,
+                "owner": "ZhouKanglei",
+                "repo": "MAGR_CAQA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Background Adaptation with Residual Modeling for Exemplar-Free Class-Incremental Semantic Segmentation (ECCV24)[paper",
               "description": "ANDYZAQ/BARM",
               "children": [],
@@ -6310,27 +6331,6 @@
                 "open_issues": 0,
                 "owner": "hanxiaoxue114",
                 "repo": "TACO",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment (ECCV 2024) [paper",
-              "description": "ZhouKanglei/MAGR_CAQA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024 Oral] MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment",
-                "homepage": "https://arxiv.org/abs/2403.04398",
-                "id": 824083217,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-05-10T11:11:54Z",
-                "open_issues": 1,
-                "owner": "ZhouKanglei",
-                "repo": "MAGR_CAQA",
                 "stars": 8,
                 "topics": []
               },
@@ -6538,7 +6538,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-02-18T03:23:42Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "scok30",
                 "repo": "tass",
                 "stars": 6,
@@ -9530,7 +9530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:54:51.882Z",
+    "last_updated": "2026-10-10T14:10:31.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,7 +9542,7 @@
       "open_issues": 8,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4530,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
