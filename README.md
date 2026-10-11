@@ -2,7 +2,7 @@
 
 ## Survey
 
-* <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  \[[paper](https://openreview.net/forum?id=9aZ2ixiYGd)]\[[code](https://github.com/GMvandeVen/continual-learning) ⭐ 1,883 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-11-05]
+* <a name="todo"></a> Three scenarios for continual learning (**Nature Machine Intelligence 2022**)  \[[paper](https://openreview.net/forum?id=9aZ2ixiYGd)]\[[code](https://github.com/GMvandeVen/continual-learning) ⭐ 1,884 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-11-05]
 * <a name="todo"></a> Continual Learning with Pre-Trained Models: A Survey (**IJCAI 2024**)  \[[paper](https://arxiv.org/abs/2401.16386)]\[[code](https://github.com/sun-hailong/LAMDA-PILOT) ⭐ 607 | 🐛 6 | 🌐 Python | 📅 2026-01-29]
 * <a name="todo"></a> Class-incremental learning: survey and performance evaluation (**TPAMI 2022**) \[[paper](https://arxiv.org/abs/2010.15277)] \[[code](https://github.com/mmasana/FACIL) ⭐ 569 | 🐛 11 | 🌐 Python | 📅 2023-05-26]
 * <a name="todo"></a> Continual Learning of Large Language Models: A Comprehensive Survey (**arXiv 2024**)  \[[paper](https://arxiv.org/abs/2404.16789)]\[[code](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) ⭐ 566 | 🐛 0 | 📅 2025-12-23]
@@ -68,7 +68,7 @@
 
 * <a name="todo"></a> MergeTune: Continued Fine-Tuning of Vision-Language Models (**ICLR 2026**) \[[paper](https://openreview.net/pdf/dc7bd9df5a2b1278492c62046a6415123282688d.pdf)]\[[code](https://github.com/Surrey-UP-Lab/MERGETUNE) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-02-25]
 
-* <a name="todo"></a> The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (**ICLR 2026**) \[[paper](https://openreview.net/pdf/bd2df573fd7f06b12f1921f93726ba6c66050149.pdf)]\[[code](https://github.com/AIGNLAI/EDGE) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-02-07]
+* <a name="todo"></a> The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (**ICLR 2026**) \[[paper](https://openreview.net/pdf/bd2df573fd7f06b12f1921f93726ba6c66050149.pdf)]\[[code](https://github.com/AIGNLAI/EDGE) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
 * <a name="todo"></a> AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.28809)]\[[code](https://github.com/LAMDA-CL/ICML2026-AREA) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-07-06]
 
@@ -1819,4 +1819,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

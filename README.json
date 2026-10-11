@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -679,21 +679,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "The Code for \"The Lie of the Average: How Class Incremental Learning Evaluation Deceives You?\"",
-                "homepage": "https://openreview.net/pdf?id=19LHXi9uLw",
+                "description": "[ICLR 2026] EDGE: Distribution-aware evaluation of class-incremental learning with extreme class sequences. Official code for The Lie of the Average.",
+                "homepage": "https://openreview.net/forum?id=19LHXi9uLw",
                 "id": 1063988310,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-02-07T12:03:33Z",
+                "last_commit": "2026-10-10T17:17:31Z",
                 "open_issues": 1,
                 "owner": "AIGNLAI",
                 "repo": "EDGE",
                 "stars": 12,
                 "topics": [
+                  "benchmarking",
                   "class-incremental-learning",
                   "continual-learning",
                   "evaluation",
-                  "protocol"
+                  "iclr-2026",
+                  "protocol",
+                  "robustness"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9530,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:10:31.480Z",
+    "last_updated": "2026-10-11T14:35:06.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
