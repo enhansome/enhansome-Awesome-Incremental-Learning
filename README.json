@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 716,
+                "stars": 715,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -530,7 +530,7 @@
                 "open_issues": 2,
                 "owner": "haodotgu",
                 "repo": "EBLoRA",
-                "stars": 19,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -717,7 +717,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICML2026-AREA",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -797,7 +797,7 @@
                 "id": 1157656346,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-14T02:47:22Z",
+                "last_commit": "2026-10-12T02:18:11Z",
                 "open_issues": 1,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
@@ -894,6 +894,27 @@
             },
             {
               "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 0,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Two-Way Is Better Than One: Bidirectional Alignment with Cycle Consistency for Exemplar-Free Class-Incremental Learning (ICLR 2026) [paper",
               "description": "HXuSz11/BiCyc_ICLR2026",
               "children": [],
@@ -971,27 +992,6 @@
                 "open_issues": 0,
                 "owner": "YonseiML",
                 "repo": "dpw",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 0,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
                 "stars": 7,
                 "topics": []
               },
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4054,
+                "stars": 4057,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1987,7 +1987,7 @@
                 "open_issues": 3,
                 "owner": "SooLab",
                 "repo": "SimCIS",
-                "stars": 51,
+                "stars": 52,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2008,7 +2008,7 @@
                 "open_issues": 0,
                 "owner": "chiara-cap",
                 "repo": "DitHub",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2813,7 +2813,7 @@
                 "open_issues": 0,
                 "owner": "zihuanqiu",
                 "repo": "MINGLE",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:35:06.742Z",
+    "last_updated": "2026-10-12T17:17:12.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
