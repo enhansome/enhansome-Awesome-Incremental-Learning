@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1884,
+            "stars": 1885,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 566,
+            "stars": 567,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 715,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -439,7 +439,7 @@
                 "open_issues": 25,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -548,7 +548,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T05:29:40Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "AnAppleCore",
                 "repo": "FlyGCL",
                 "stars": 18,
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4057,
+                "stars": 4059,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2834,7 +2834,7 @@
                 "open_issues": 0,
                 "owner": "yrluestc",
                 "repo": "Learning-Expandable-and-Adaptable-Representations-for-Continual-Learning",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4300,7 +4300,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4478,
+                "stars": 4479,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4552,6 +4552,27 @@
             },
             {
               "node_type": "item",
+              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
+              "description": "lloongx/DIKI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
+                "homepage": null,
+                "id": 824475693,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-09T01:49:02Z",
+                "open_issues": 0,
+                "owner": "lloongx",
+                "repo": "DIKI",
+                "stars": 57,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
               "description": "KU-VGI/PriViLege",
               "children": [],
@@ -4567,27 +4588,6 @@
                 "owner": "KU-VGI",
                 "repo": "PriViLege",
                 "stars": 57,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
-              "description": "lloongx/DIKI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
-                "homepage": null,
-                "id": 824475693,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-09T01:49:02Z",
-                "open_issues": 0,
-                "owner": "lloongx",
-                "repo": "DIKI",
-                "stars": 56,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8511,7 +8511,7 @@
                 "open_issues": 6,
                 "owner": "ZixuanKe",
                 "repo": "PyContinual",
-                "stars": 323,
+                "stars": 324,
                 "topics": [
                   "attention-mechanism",
                   "capsule-network",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T17:17:12.072Z",
+    "last_updated": "2026-10-13T15:31:27.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9542,10 +9542,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-08T01:47:45Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4530,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
