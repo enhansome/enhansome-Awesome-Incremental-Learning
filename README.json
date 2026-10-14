@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 716,
+                "stars": 719,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -418,7 +418,7 @@
                 "open_issues": 1,
                 "owner": "cocogt96",
                 "repo": "Fed-Duet",
-                "stars": 34,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1072,7 +1072,7 @@
                 "id": 1243848870,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-09-22T05:53:26Z",
+                "last_commit": "2026-10-13T19:46:51Z",
                 "open_issues": 0,
                 "owner": "prinshul",
                 "repo": "JASCL",
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4059,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2026,7 +2026,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-14T21:32:35Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "JiangpengHe",
                 "repo": "CL-LoRA",
                 "stars": 41,
@@ -2188,6 +2188,27 @@
             },
             {
               "node_type": "item",
+              "title": "Task-Agnostic Guided Feature Expansion for Class-Incremental Learning (CVPR 2025) [paper",
+              "description": "bwnzheng/TagFex_CVPR2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The code repository for \"Task-Agnostic Guided Feature Expansion for Class-Incremental Learning\" (CVPR25)",
+                "homepage": null,
+                "id": 941077678,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-31T11:10:42Z",
+                "open_issues": 2,
+                "owner": "bwnzheng",
+                "repo": "TagFex_CVPR2025",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Policy Compatible Skill Incremental Learning via Lazy Learning Interface (NeurIPS 2025) [paper",
               "description": "L2dulgi/SIL-C",
               "children": [],
@@ -2237,27 +2258,6 @@
                 "topics": [
                   "deepfake-detection"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Task-Agnostic Guided Feature Expansion for Class-Incremental Learning (CVPR 2025) [paper",
-              "description": "bwnzheng/TagFex_CVPR2025",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The code repository for \"Task-Agnostic Guided Feature Expansion for Class-Incremental Learning\" (CVPR25)",
-                "homepage": null,
-                "id": 941077678,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-31T11:10:42Z",
-                "open_issues": 2,
-                "owner": "bwnzheng",
-                "repo": "TagFex_CVPR2025",
-                "stars": 27,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -2316,7 +2316,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-03-01T12:52:46Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "qiangzai-lv",
                 "repo": "RGR-IOD",
                 "stars": 25,
@@ -4300,7 +4300,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4479,
+                "stars": 4481,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7187,7 +7187,7 @@
                 "open_issues": 4,
                 "owner": "weiguoPian",
                 "repo": "AV-CIL_ICCV2023",
-                "stars": 38,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:31:27.085Z",
+    "last_updated": "2026-10-14T13:16:52.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
