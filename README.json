@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1885,
+            "stars": 1886,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -418,7 +418,7 @@
                 "open_issues": 1,
                 "owner": "cocogt96",
                 "repo": "Fed-Duet",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -936,6 +936,27 @@
             },
             {
               "node_type": "item",
+              "title": "Enhanced Continual Learning of Vision-Language Models with Model Fusion (ICLR 2026) [paper",
+              "description": "zhangzicong518/ConDU",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code Implementation of the ICLR 2026 paper \"Enhanced Continual Learning of Vision-Language Models with Model Fusion\"",
+                "homepage": null,
+                "id": 1145043123,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-02T08:24:00Z",
+                "open_issues": 2,
+                "owner": "zhangzicong518",
+                "repo": "ConDU",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "SplitLoRA: Balancing Stability and Plasticity in Continual Learning Through Gradient Space Splitting (ICLR 2026) [paper",
               "description": "iLearn-Lab/ICLR26-SplitLoRA",
               "children": [],
@@ -992,27 +1013,6 @@
                 "open_issues": 0,
                 "owner": "YonseiML",
                 "repo": "dpw",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Enhanced Continual Learning of Vision-Language Models with Model Fusion (ICLR 2026) [paper",
-              "description": "zhangzicong518/ConDU",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code Implementation of the ICLR 2026 paper \"Enhanced Continual Learning of Vision-Language Models with Model Fusion\"",
-                "homepage": null,
-                "id": 1145043123,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-04-02T08:24:00Z",
-                "open_issues": 2,
-                "owner": "zhangzicong518",
-                "repo": "ConDU",
                 "stars": 7,
                 "topics": []
               },
@@ -1220,7 +1220,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-02T02:59:37Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "zhwhu",
                 "repo": "CCA-CL",
                 "stars": 4,
@@ -1752,10 +1752,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4330,10 +4330,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4360,10 +4360,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4393,7 +4393,7 @@
                 "open_issues": 1,
                 "owner": "nianticlabs",
                 "repo": "acezero",
-                "stars": 809,
+                "stars": 808,
                 "topics": [
                   "3d-reconstruction",
                   "camera-relocalization",
@@ -5637,7 +5637,7 @@
                 "open_issues": 0,
                 "owner": "chu0802",
                 "repo": "SnD",
-                "stars": 17,
+                "stars": 18,
                 "topics": [
                   "continual-learning",
                   "eccv",
@@ -7709,10 +7709,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8648,10 +8648,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:16:52.647Z",
+    "last_updated": "2026-10-15T13:01:48.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
