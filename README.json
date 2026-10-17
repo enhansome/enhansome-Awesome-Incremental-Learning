@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4065,
+                "stars": 4068,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1755,7 +1755,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -1806,7 +1806,7 @@
                 "open_issues": 4,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "vision-and-language-navigation",
                   "world-model"
@@ -2240,27 +2240,6 @@
             },
             {
               "node_type": "item",
-              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
-              "description": "tanganke/opcm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
-                "homepage": "https://tanganke.github.io/opcm/",
-                "id": 900708339,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-11T12:15:24Z",
-                "open_issues": 0,
-                "owner": "tanganke",
-                "repo": "opcm",
-                "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (CVPR 2025) [paper",
               "description": "beautyremain/SUR-LID",
               "children": [],
@@ -2299,6 +2278,27 @@
                 "owner": "hankyul2",
                 "repo": "ViewBatchModel",
                 "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
+              "description": "tanganke/opcm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
+                "homepage": "https://tanganke.github.io/opcm/",
+                "id": 900708339,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-11T12:15:24Z",
+                "open_issues": 0,
+                "owner": "tanganke",
+                "repo": "opcm",
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4300,7 +4300,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4481,
+                "stars": 4482,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4333,7 +4333,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4363,7 +4363,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7712,7 +7712,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8651,7 +8651,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 844,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T12:58:22.121Z",
+    "last_updated": "2026-10-17T11:56:31.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
