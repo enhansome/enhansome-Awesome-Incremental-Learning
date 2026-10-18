@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1887,
+            "stars": 1888,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -456,8 +456,8 @@
                 "id": 1227010555,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-03T02:55:34Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-18T12:19:26Z",
+                "open_issues": 5,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
                 "stars": 27,
@@ -688,7 +688,7 @@
                 "open_issues": 1,
                 "owner": "AIGNLAI",
                 "repo": "EDGE",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "benchmarking",
                   "class-incremental-learning",
@@ -717,7 +717,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICML2026-AREA",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -787,6 +787,27 @@
             },
             {
               "node_type": "item",
+              "title": "Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data (ICLR 2026) [paper",
+              "description": "zhoujiahuan1991/ICLR2026-N2L",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of paper \"Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data\", ICLR 2026",
+                "homepage": null,
+                "id": 1154239462,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-01T12:11:00Z",
+                "open_issues": 0,
+                "owner": "zhoujiahuan1991",
+                "repo": "ICLR2026-N2L",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Advancing Analytic Class-Incremental Learning through Vision-Language Calibration (ICML 2026) [paper",
               "description": "byzhaoAI/VILA",
               "children": [],
@@ -847,27 +868,6 @@
                 "topics": [
                   "continual-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data (ICLR 2026) [paper",
-              "description": "zhoujiahuan1991/ICLR2026-N2L",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of paper \"Naming to Learn: Class Incremental Learning for Vision-Language Model with Unlabeled Data\", ICLR 2026",
-                "homepage": null,
-                "id": 1154239462,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-01T12:11:00Z",
-                "open_issues": 0,
-                "owner": "zhoujiahuan1991",
-                "repo": "ICLR2026-N2L",
-                "stars": 9,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4068,
+                "stars": 4070,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1755,7 +1755,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2029,7 +2029,7 @@
                 "open_issues": 2,
                 "owner": "JiangpengHe",
                 "repo": "CL-LoRA",
-                "stars": 41,
+                "stars": 42,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4300,7 +4300,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4482,
+                "stars": 4484,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4333,7 +4333,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4363,7 +4363,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4425,7 +4425,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 281,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4467,7 +4467,7 @@
                 "open_issues": 5,
                 "owner": "liangyanshuo",
                 "repo": "InfLoRA",
-                "stars": 115,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4552,6 +4552,27 @@
             },
             {
               "node_type": "item",
+              "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
+              "description": "KU-VGI/PriViLege",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners",
+                "homepage": null,
+                "id": 774162879,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-09-05T03:52:21Z",
+                "open_issues": 4,
+                "owner": "KU-VGI",
+                "repo": "PriViLege",
+                "stars": 58,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
               "description": "lloongx/DIKI",
               "children": [],
@@ -4573,27 +4594,6 @@
             },
             {
               "node_type": "item",
-              "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
-              "description": "KU-VGI/PriViLege",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners",
-                "homepage": null,
-                "id": 774162879,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-09-05T03:52:21Z",
-                "open_issues": 4,
-                "owner": "KU-VGI",
-                "repo": "PriViLege",
-                "stars": 57,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (ECCV24)[paper",
               "description": "linlany/RAPF",
               "children": [],
@@ -4608,7 +4608,7 @@
                 "open_issues": 1,
                 "owner": "linlany",
                 "repo": "RAPF",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4746,6 +4746,27 @@
             },
             {
               "node_type": "item",
+              "title": "Few-shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt (ECCV24)[paper",
+              "description": "DawnLIU35/FSCIL-ASP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of Few-shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt (ECCV2024)",
+                "homepage": "https://arxiv.org/pdf/2403.09857",
+                "id": 830095334,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-18T07:21:48Z",
+                "open_issues": 0,
+                "owner": "DawnLIU35",
+                "repo": "FSCIL-ASP",
+                "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "CLAP4CLIP: Continual Learning with Probabilistic Finetuning for Vision-Language Models (NeurIPS 2024) [paper",
               "description": "srvCodes/clap4clip",
               "children": [],
@@ -4768,27 +4789,6 @@
                   "variational-inference",
                   "vision-language-model"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Few-shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt (ECCV24)[paper",
-              "description": "DawnLIU35/FSCIL-ASP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of Few-shot Class Incremental Learning with Attention-Aware Self-Adaptive Prompt (ECCV2024)",
-                "homepage": "https://arxiv.org/pdf/2403.09857",
-                "id": 830095334,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-18T07:21:48Z",
-                "open_issues": 0,
-                "owner": "DawnLIU35",
-                "repo": "FSCIL-ASP",
-                "stars": 38,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -4875,27 +4875,6 @@
             },
             {
               "node_type": "item",
-              "title": "Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models (NeurIPS 2024) [paper",
-              "description": "linghan1997/Regression-based-Analytic-Incremental-Learning",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 804313580,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-24T03:33:20Z",
-                "open_issues": 4,
-                "owner": "linghan1997",
-                "repo": "Regression-based-Analytic-Incremental-Learning",
-                "stars": 34,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "OrCo: Towards Better Generalization via Orthogonality and Contrast for Few-Shot Class-Incremental Learning (CVPR2024)[paper",
               "description": "noorahmedds/OrCo",
               "children": [],
@@ -4910,6 +4889,27 @@
                 "open_issues": 2,
                 "owner": "noorahmedds",
                 "repo": "OrCo",
+                "stars": 35,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models (NeurIPS 2024) [paper",
+              "description": "linghan1997/Regression-based-Analytic-Incremental-Learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 804313580,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-24T03:33:20Z",
+                "open_issues": 4,
+                "owner": "linghan1997",
+                "repo": "Regression-based-Analytic-Incremental-Learning",
                 "stars": 34,
                 "topics": []
               },
@@ -5369,27 +5369,6 @@
             },
             {
               "node_type": "item",
-              "title": "Federated Continual Learning via Prompt-based Dual Knowledge Transfer (ICML24)[paper",
-              "description": "piaohongming/Powder",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 805544190,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-06-17T09:38:26Z",
-                "open_issues": 2,
-                "owner": "piaohongming",
-                "repo": "Powder",
-                "stars": 21,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "GACL: Exemplar-Free Generalized Analytic Continual Learning (NeurIPS 2024) [paper",
               "description": "CHEN-YIZHU/GACL",
               "children": [],
@@ -5467,6 +5446,27 @@
                 "open_issues": 0,
                 "owner": "soochan-lee",
                 "repo": "SB-MCL",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Federated Continual Learning via Prompt-based Dual Knowledge Transfer (ICML24)[paper",
+              "description": "piaohongming/Powder",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 805544190,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-06-17T09:38:26Z",
+                "open_issues": 2,
+                "owner": "piaohongming",
+                "repo": "Powder",
                 "stars": 20,
                 "topics": []
               },
@@ -7082,34 +7082,6 @@
             },
             {
               "node_type": "item",
-              "title": "MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (ICCV 2023)[paper",
-              "description": "simplify23/MRN",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Pytorch implementations of MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (ICCV 2023)",
-                "homepage": null,
-                "id": 669696767,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-09-26T02:07:04Z",
-                "open_issues": 6,
-                "owner": "simplify23",
-                "repo": "MRN",
-                "stars": 46,
-                "topics": [
-                  "der",
-                  "ewc",
-                  "incremental-learning",
-                  "lwf",
-                  "ocr",
-                  "wa"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Online Prototype Learning for Online Continual Learning (ICCV 2023)[paper",
               "description": "weilllllls/OnPro",
               "children": [],
@@ -7126,6 +7098,34 @@
                 "repo": "OnPro",
                 "stars": 46,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (ICCV 2023)[paper",
+              "description": "simplify23/MRN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Pytorch implementations of MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition (ICCV 2023)",
+                "homepage": null,
+                "id": 669696767,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-09-26T02:07:04Z",
+                "open_issues": 6,
+                "owner": "simplify23",
+                "repo": "MRN",
+                "stars": 45,
+                "topics": [
+                  "der",
+                  "ewc",
+                  "incremental-learning",
+                  "lwf",
+                  "ocr",
+                  "wa"
+                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -7712,7 +7712,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8511,7 +8511,7 @@
                 "open_issues": 6,
                 "owner": "ZixuanKe",
                 "repo": "PyContinual",
-                "stars": 324,
+                "stars": 323,
                 "topics": [
                   "attention-mechanism",
                   "capsule-network",
@@ -8651,7 +8651,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9162,7 +9162,7 @@
                 "open_issues": 3,
                 "owner": "arunmallya",
                 "repo": "packnet",
-                "stars": 245,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9379,7 +9379,7 @@
                 "open_issues": 1,
                 "owner": "ariseff",
                 "repo": "overcoming-catastrophic",
-                "stars": 305,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:56:31.414Z",
+    "last_updated": "2026-10-18T12:24:31.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9545,7 +9545,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4528,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
