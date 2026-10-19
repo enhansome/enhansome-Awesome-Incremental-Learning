@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1888,
+            "stars": 1889,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 719,
+                "stars": 720,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -703,27 +703,6 @@
             },
             {
               "node_type": "item",
-              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
-              "description": "LAMDA-CL/ICML2026-AREA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
-                "homepage": null,
-                "id": 1234378525,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-06T04:53:21Z",
-                "open_issues": 1,
-                "owner": "LAMDA-CL",
-                "repo": "ICML2026-AREA",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
               "description": "Artificer-AI-Lab/MoRAM",
               "children": [],
@@ -738,6 +717,27 @@
                 "open_issues": 1,
                 "owner": "Artificer-AI-Lab",
                 "repo": "MoRAM",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
+              "description": "LAMDA-CL/ICML2026-AREA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+                "homepage": null,
+                "id": 1234378525,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-06T04:53:21Z",
+                "open_issues": 1,
+                "owner": "LAMDA-CL",
+                "repo": "ICML2026-AREA",
                 "stars": 11,
                 "topics": []
               },
@@ -873,6 +873,27 @@
             },
             {
               "node_type": "item",
+              "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
+              "description": "YonseiML/dpw",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2026] Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting",
+                "homepage": null,
+                "id": 1194003242,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-22T15:57:26Z",
+                "open_issues": 0,
+                "owner": "YonseiML",
+                "repo": "dpw",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
               "description": "ZhouKanglei/BriMA",
               "children": [],
@@ -992,27 +1013,6 @@
                 "open_issues": 0,
                 "owner": "scarlet0703",
                 "repo": "EWC-DR",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting (CVPR 2026) [paper",
-              "description": "YonseiML/dpw",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2026] Enhancing Continual Learning of Vision-Language Models via Dynamic Prefix Weighting",
-                "homepage": null,
-                "id": 1194003242,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-04-22T15:57:26Z",
-                "open_issues": 0,
-                "owner": "YonseiML",
-                "repo": "dpw",
                 "stars": 7,
                 "topics": []
               },
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4070,
+                "stars": 4071,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1755,7 +1755,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2305,6 +2305,27 @@
             },
             {
               "node_type": "item",
+              "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
+              "description": "apple-aiml-research/ml-tic-lm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Repository for the paper: \"TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining\" ACL Oral 2025",
+                "homepage": null,
+                "id": 954933942,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-11T16:07:05Z",
+                "open_issues": 1,
+                "owner": "apple-aiml-research",
+                "repo": "ml-tic-lm",
+                "stars": 25,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Revisiting Generative Replay for Class Incremental Object Detection (CVPR 2025) [paper",
               "description": "qiangzai-lv/RGR-IOD",
               "children": [],
@@ -2362,27 +2383,6 @@
                 "owner": "wang-qiuchen",
                 "repo": "PseDet",
                 "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (ACL 2025) [paper",
-              "description": "apple-aiml-research/ml-tic-lm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Repository for the paper: \"TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining\" ACL Oral 2025",
-                "homepage": null,
-                "id": 954933942,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-11T16:07:05Z",
-                "open_issues": 1,
-                "owner": "apple-aiml-research",
-                "repo": "ml-tic-lm",
-                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2631,6 +2631,27 @@
             },
             {
               "node_type": "item",
+              "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
+              "description": "zhoujiahuan1991/ICML2025-KA-Prompt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 977015866,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-03T06:29:53Z",
+                "open_issues": 1,
+                "owner": "zhoujiahuan1991",
+                "repo": "ICML2025-KA-Prompt",
+                "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (CVPR 2025) [paper",
               "description": "scarlet0703/LoRA-Sub-DRS",
               "children": [],
@@ -2688,27 +2709,6 @@
                 "owner": "scarlet0703",
                 "repo": "LoRA-Sub-DRS",
                 "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Componential Prompt-Knowledge Alignment for Domain Incremental Learning (ICML 2025) [paper",
-              "description": "zhoujiahuan1991/ICML2025-KA-Prompt",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 977015866,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-03T06:29:53Z",
-                "open_issues": 1,
-                "owner": "zhoujiahuan1991",
-                "repo": "ICML2025-KA-Prompt",
-                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3030,6 +3030,27 @@
             },
             {
               "node_type": "item",
+              "title": "Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning (ICCV 2025) [paper",
+              "description": "NJUyued/USP4SSCL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "\"Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning\" by Yue Duan & Taicai Chen (ICCV 2025)",
+                "homepage": null,
+                "id": 1027151557,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-11-20T09:48:41Z",
+                "open_issues": 0,
+                "owner": "NJUyued",
+                "repo": "USP4SSCL",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "CODE-CL: Conceptor-Based Gradient Projection for Deep Continual Learning (ICCV 2025) [paper",
               "description": "mapolinario94/CODE-CL",
               "children": [],
@@ -3136,27 +3157,6 @@
                 "owner": "limei0818",
                 "repo": "BECAME",
                 "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning (ICCV 2025) [paper",
-              "description": "NJUyued/USP4SSCL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "\"Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning\" by Yue Duan & Taicai Chen (ICCV 2025)",
-                "homepage": null,
-                "id": 1027151557,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-11-20T09:48:41Z",
-                "open_issues": 0,
-                "owner": "NJUyued",
-                "repo": "USP4SSCL",
-                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4333,7 +4333,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4363,7 +4363,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4552,6 +4552,27 @@
             },
             {
               "node_type": "item",
+              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
+              "description": "lloongx/DIKI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
+                "homepage": null,
+                "id": 824475693,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-09T01:49:02Z",
+                "open_issues": 0,
+                "owner": "lloongx",
+                "repo": "DIKI",
+                "stars": 58,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
               "description": "KU-VGI/PriViLege",
               "children": [],
@@ -4567,27 +4588,6 @@
                 "owner": "KU-VGI",
                 "repo": "PriViLege",
                 "stars": 58,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
-              "description": "lloongx/DIKI",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models",
-                "homepage": null,
-                "id": 824475693,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-09T01:49:02Z",
-                "open_issues": 0,
-                "owner": "lloongx",
-                "repo": "DIKI",
-                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5320,7 +5320,7 @@
                 "open_issues": 2,
                 "owner": "CVIR",
                 "repo": "ConvPrompt",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5432,6 +5432,27 @@
             },
             {
               "node_type": "item",
+              "title": "Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (ECCV24)[paper",
+              "description": "KU-VGI/VIL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ECCV 2024] Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning",
+                "homepage": null,
+                "id": 828778707,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-09-23T01:33:00Z",
+                "open_issues": 4,
+                "owner": "KU-VGI",
+                "repo": "VIL",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning to Continually Learn with the Bayesian Principle (ICML24)[paper",
               "description": "soochan-lee/SB-MCL",
               "children": [],
@@ -5510,27 +5531,6 @@
                 "owner": "JiangpengHe",
                 "repo": "imbalanced_cil",
                 "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning (ECCV24)[paper",
-              "description": "KU-VGI/VIL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ECCV 2024] Versatile Incremental Learning: Towards Class and Domain-Agnostic Incremental Learning",
-                "homepage": null,
-                "id": 828778707,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-09-23T01:33:00Z",
-                "open_issues": 4,
-                "owner": "KU-VGI",
-                "repo": "VIL",
-                "stars": 19,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5670,6 +5670,27 @@
             },
             {
               "node_type": "item",
+              "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
+              "description": "dtuzi123/DCM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the implementation of Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory",
+                "homepage": null,
+                "id": 777148853,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-28T21:16:16Z",
+                "open_issues": 1,
+                "owner": "dtuzi123",
+                "repo": "DCM",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Models (NeurIPS 2024) [paper",
               "description": "MIFA-Lab/SAFE",
               "children": [],
@@ -5709,27 +5730,6 @@
                 "open_issues": 0,
                 "owner": "z1358",
                 "repo": "OBAO",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
-              "description": "dtuzi123/DCM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the implementation of Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory",
-                "homepage": null,
-                "id": 777148853,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-28T21:16:16Z",
-                "open_issues": 1,
-                "owner": "dtuzi123",
-                "repo": "DCM",
                 "stars": 15,
                 "topics": []
               },
@@ -7712,7 +7712,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8651,7 +8651,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8705,7 +8705,7 @@
                 "open_issues": 8,
                 "owner": "arthurdouillard",
                 "repo": "incremental_learning.pytorch",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -9379,7 +9379,7 @@
                 "open_issues": 1,
                 "owner": "ariseff",
                 "repo": "overcoming-catastrophic",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:24:31.222Z",
+    "last_updated": "2026-10-19T15:14:03.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9545,7 +9545,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4528,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
