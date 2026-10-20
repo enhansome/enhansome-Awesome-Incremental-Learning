@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 609,
+            "stars": 608,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -298,10 +298,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-13T03:56:12Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -390,7 +390,7 @@
                 "open_issues": 0,
                 "owner": "YutingLi0606",
                 "repo": "Idempotent-Continual-Learning",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "computer-vision",
                   "continual-learning",
@@ -1335,6 +1335,27 @@
             },
             {
               "node_type": "item",
+              "title": "Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning (ICML 2026) [paper",
+              "description": "yhyet/HC_SOINN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1111535930,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-14T07:10:12Z",
+                "open_issues": 0,
+                "owner": "yhyet",
+                "repo": "HC_SOINN",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "CE$^4$L: Continual Ego, Exo, and Ego-Exo Learning (ICML 2026) [paper",
               "description": "AnAppleCore/CE4L",
               "children": [],
@@ -1517,27 +1538,6 @@
                 "open_issues": 0,
                 "owner": "yan4xi1",
                 "repo": "HippoTune",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Beyond Point-wise Neural Collapse: A Topology-Aware Hierarchical Classifier for Class-Incremental Learning (ICML 2026) [paper",
-              "description": "yhyet/HC_SOINN",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1111535930,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-14T07:10:12Z",
-                "open_issues": 0,
-                "owner": "yhyet",
-                "repo": "HC_SOINN",
                 "stars": 1,
                 "topics": []
               },
@@ -1734,7 +1734,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4071,
+                "stars": 4074,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1755,7 +1755,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -1942,7 +1942,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICCV25-ENGINE",
-                "stars": 60,
+                "stars": 61,
                 "topics": [
                   "continual-learning",
                   "incremental-learning"
@@ -2585,6 +2585,27 @@
             },
             {
               "node_type": "item",
+              "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
+              "description": "chenhao-zju/VAMoE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official repo for VA-MoE (ICCV2025).",
+                "homepage": null,
+                "id": 1018812955,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-08-13T03:31:03Z",
+                "open_issues": 0,
+                "owner": "chenhao-zju",
+                "repo": "VAMoE",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning (ICCV 2025) [paper",
               "description": "LAMDA-CL/ICCV2025-TUNA",
               "children": [],
@@ -2605,27 +2626,6 @@
                   "continual-learning",
                   "incremental-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
-              "description": "chenhao-zju/VAMoE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official repo for VA-MoE (ICCV2025).",
-                "homepage": null,
-                "id": 1018812955,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-08-13T03:31:03Z",
-                "open_issues": 0,
-                "owner": "chenhao-zju",
-                "repo": "VAMoE",
-                "stars": 19,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -3502,6 +3502,27 @@
             },
             {
               "node_type": "item",
+              "title": "Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning (ICCV 2025) [paper",
+              "description": "tianjiao-j/CCA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1110377926,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-11T06:16:35Z",
+                "open_issues": 5,
+                "owner": "tianjiao-j",
+                "repo": "CCA",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
               "description": "HarveyYi/iDPA",
               "children": [],
@@ -3663,27 +3684,6 @@
                 "open_issues": 0,
                 "owner": "RAIAN08",
                 "repo": "FG-OrIU",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning (ICCV 2025) [paper",
-              "description": "tianjiao-j/CCA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1110377926,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-04-11T06:16:35Z",
-                "open_issues": 5,
-                "owner": "tianjiao-j",
-                "repo": "CCA",
                 "stars": 7,
                 "topics": []
               },
@@ -4333,7 +4333,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4363,7 +4363,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4671,7 +4671,7 @@
                 "open_issues": 1,
                 "owner": "mashijie1028",
                 "repo": "Happy-CGCD",
-                "stars": 48,
+                "stars": 49,
                 "topics": [
                   "continual-learning",
                   "machine-learning",
@@ -5279,6 +5279,27 @@
             },
             {
               "node_type": "item",
+              "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
+              "description": "CVIR/ConvPrompt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 783350367,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-04-07T17:06:00Z",
+                "open_issues": 2,
+                "owner": "CVIR",
+                "repo": "ConvPrompt",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "eTag: Class-Incremental Learning via Embedding Distillation and Task-Oriented Generation (AAAI2024) [paper",
               "description": "libo-huang/eTag",
               "children": [],
@@ -5301,27 +5322,6 @@
                   "incremental-learning",
                   "lifelong-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Convolutional Prompting meets Language Models for Continual Learning (CVPR2024)[paper",
-              "description": "CVIR/ConvPrompt",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 783350367,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-04-07T17:06:00Z",
-                "open_issues": 2,
-                "owner": "CVIR",
-                "repo": "ConvPrompt",
-                "stars": 23,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -5670,27 +5670,6 @@
             },
             {
               "node_type": "item",
-              "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
-              "description": "dtuzi123/DCM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the implementation of Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory",
-                "homepage": null,
-                "id": 777148853,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-07-28T21:16:16Z",
-                "open_issues": 1,
-                "owner": "dtuzi123",
-                "repo": "DCM",
-                "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "SAFE: Slow and Fast Parameter-Efficient Tuning for Continual Learning with Pre-Trained Models (NeurIPS 2024) [paper",
               "description": "MIFA-Lab/SAFE",
               "children": [],
@@ -5730,6 +5709,27 @@
                 "open_issues": 0,
                 "owner": "z1358",
                 "repo": "OBAO",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
+              "description": "dtuzi123/DCM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the implementation of Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory",
+                "homepage": null,
+                "id": 777148853,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-07-28T21:16:16Z",
+                "open_issues": 1,
+                "owner": "dtuzi123",
+                "repo": "DCM",
                 "stars": 15,
                 "topics": []
               },
@@ -7712,7 +7712,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8651,7 +8651,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T15:14:03.324Z",
+    "last_updated": "2026-10-20T13:15:21.380Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
