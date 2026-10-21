@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1889,
+            "stars": 1890,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 427,
+            "stars": 426,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -339,7 +339,7 @@
                 "id": 1179691496,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-27T03:03:29Z",
+                "last_commit": "2026-10-20T15:54:54Z",
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
@@ -611,6 +611,35 @@
             },
             {
               "node_type": "item",
+              "title": "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (ICLR 2026) [paper",
+              "description": "AIGNLAI/EDGE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2026] EDGE: Distribution-aware evaluation of class-incremental learning with extreme class sequences. Official code for The Lie of the Average.",
+                "homepage": "https://openreview.net/forum?id=19LHXi9uLw",
+                "id": 1063988310,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-10T17:17:31Z",
+                "open_issues": 1,
+                "owner": "AIGNLAI",
+                "repo": "EDGE",
+                "stars": 14,
+                "topics": [
+                  "benchmarking",
+                  "class-incremental-learning",
+                  "continual-learning",
+                  "evaluation",
+                  "iclr-2026",
+                  "protocol",
+                  "robustness"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
               "description": "datake/FAME",
               "children": [],
@@ -669,35 +698,6 @@
                 "repo": "MERGETUNE",
                 "stars": 13,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (ICLR 2026) [paper",
-              "description": "AIGNLAI/EDGE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2026] EDGE: Distribution-aware evaluation of class-incremental learning with extreme class sequences. Official code for The Lie of the Average.",
-                "homepage": "https://openreview.net/forum?id=19LHXi9uLw",
-                "id": 1063988310,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-10-10T17:17:31Z",
-                "open_issues": 1,
-                "owner": "AIGNLAI",
-                "repo": "EDGE",
-                "stars": 13,
-                "topics": [
-                  "benchmarking",
-                  "class-incremental-learning",
-                  "continual-learning",
-                  "evaluation",
-                  "iclr-2026",
-                  "protocol",
-                  "robustness"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1731,10 +1731,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:03:49Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4074,
+                "stars": 4073,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2967,27 +2967,6 @@
             },
             {
               "node_type": "item",
-              "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
-              "description": "jinpeng0528/SEFE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 976460770,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-05-06T01:34:27Z",
-                "open_issues": 1,
-                "owner": "jinpeng0528",
-                "repo": "SEFE",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Reducing Class-wise Confusion for Incremental Learning with Disentangled Manifolds (CVPR 2025) [paper",
               "description": "lilyht/CREATE",
               "children": [],
@@ -3002,6 +2981,27 @@
                 "open_issues": 2,
                 "owner": "lilyht",
                 "repo": "CREATE",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
+              "description": "jinpeng0528/SEFE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 976460770,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-05-06T01:34:27Z",
+                "open_issues": 1,
+                "owner": "jinpeng0528",
+                "repo": "SEFE",
                 "stars": 13,
                 "topics": []
               },
@@ -4443,7 +4443,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-20T10:43:55Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "yeerwen",
                 "repo": "MedCoSS",
                 "stars": 150,
@@ -8479,7 +8479,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 427,
+                "stars": 426,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -8754,7 +8754,7 @@
                 "open_issues": 2,
                 "owner": "GMvandeVen",
                 "repo": "brain-inspired-replay",
-                "stars": 252,
+                "stars": 253,
                 "topics": [
                   "artificial-neural-networks",
                   "brain-inspired",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:15:21.380Z",
+    "last_updated": "2026-10-21T13:22:45.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9545,7 +9545,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4527,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
