@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -460,7 +460,7 @@
                 "open_issues": 5,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -745,6 +745,27 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
+              "description": "Nicolas1203/continual_distillation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official repository of our CVPR 2026 paper titled \"Continual Distillation of Teachers from Different Domains\".",
+                "homepage": null,
+                "id": 1191505963,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-13T08:27:53Z",
+                "open_issues": 0,
+                "owner": "Nicolas1203",
+                "repo": "continual_distillation",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
               "description": "Continue-Edge-AI-Lab/ProNC",
               "children": [],
@@ -829,20 +850,20 @@
             },
             {
               "node_type": "item",
-              "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
-              "description": "Nicolas1203/continual_distillation",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Official repository of our CVPR 2026 paper titled \"Continual Distillation of Teachers from Different Domains\".",
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
                 "homepage": null,
-                "id": 1191505963,
+                "id": 1195344604,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-04-13T08:27:53Z",
+                "last_commit": "2026-03-31T16:25:24Z",
                 "open_issues": 0,
-                "owner": "Nicolas1203",
-                "repo": "continual_distillation",
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
                 "stars": 9,
                 "topics": []
               },
@@ -908,27 +929,6 @@
                 "open_issues": 1,
                 "owner": "ZhouKanglei",
                 "repo": "BriMA",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 0,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
                 "stars": 8,
                 "topics": []
               },
@@ -1661,7 +1661,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-05T23:29:59Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "wxr99",
                 "repo": "HALO",
                 "stars": 0,
@@ -1734,7 +1734,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4073,
+                "stars": 4076,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1966,7 +1966,7 @@
                 "open_issues": 4,
                 "owner": "Ghy0501",
                 "repo": "HiDe-LLaVA",
-                "stars": 56,
+                "stars": 57,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5942,6 +5942,27 @@
             },
             {
               "node_type": "item",
+              "title": "Not Just Object, But State: Compositional Incremental Learning without Forgetting (NeurIPS 2024) [paper",
+              "description": "Yanyi-Zhang/CompILer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 868490587,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-27T08:19:09Z",
+                "open_issues": 4,
+                "owner": "Yanyi-Zhang",
+                "repo": "CompILer",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Multi-layer Rehearsal Feature Augmentation for Class-Incremental Learning (ICML24)[paper",
               "description": "bwnzheng/MRFA_ICML2024",
               "children": [],
@@ -6046,27 +6067,6 @@
                 "open_issues": 0,
                 "owner": "liuyuchen-cz",
                 "repo": "F-OAL",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Not Just Object, But State: Compositional Incremental Learning without Forgetting (NeurIPS 2024) [paper",
-              "description": "Yanyi-Zhang/CompILer",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 868490587,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-27T08:19:09Z",
-                "open_issues": 4,
-                "owner": "Yanyi-Zhang",
-                "repo": "CompILer",
                 "stars": 11,
                 "topics": []
               },
@@ -8448,7 +8448,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1073,
+                "stars": 1072,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T13:22:45.987Z",
+    "last_updated": "2026-10-22T13:23:17.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9545,7 +9545,7 @@
       "open_issues": 9,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4527,
+      "stars": 4526,
       "topics": []
     },
     "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
