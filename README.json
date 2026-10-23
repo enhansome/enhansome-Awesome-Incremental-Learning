@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 720,
+                "stars": 724,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 4,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 271,
+                "stars": 272,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -456,8 +456,8 @@
                 "id": 1227010555,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-18T12:19:26Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-23T08:32:24Z",
+                "open_issues": 4,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
                 "stars": 28,
@@ -756,7 +756,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-04-13T08:27:53Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Nicolas1203",
                 "repo": "continual_distillation",
                 "stars": 10,
@@ -839,7 +839,7 @@
                 "id": 1157656346,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T02:18:11Z",
+                "last_commit": "2026-10-23T01:40:29Z",
                 "open_issues": 1,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
@@ -1734,7 +1734,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4076,
+                "stars": 4077,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2078,6 +2078,27 @@
             },
             {
               "node_type": "item",
+              "title": "Language Guided Concept Bottleneck Models for Interpretable Continual Learning (CVPR 2025) [paper",
+              "description": "FisherCats/CLG-CBM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official PyTorch implementation of CVPR2025 paper \"Language Guided Concept Bottleneck Models for Interpretable Continual Learning\"",
+                "homepage": null,
+                "id": 945799194,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-06-17T06:15:12Z",
+                "open_issues": 4,
+                "owner": "FisherCats",
+                "repo": "CLG-CBM",
+                "stars": 40,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dual Consolidation for Pre-Trained Model-Based Domain-Incremental Learning (CVPR 2025) [paper",
               "description": "Estrella-fugaz/CVPR25-DUCT",
               "children": [],
@@ -2099,27 +2120,6 @@
                   "incremental-learning",
                   "open-world-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Language Guided Concept Bottleneck Models for Interpretable Continual Learning (CVPR 2025) [paper",
-              "description": "FisherCats/CLG-CBM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official PyTorch implementation of CVPR2025 paper \"Language Guided Concept Bottleneck Models for Interpretable Continual Learning\"",
-                "homepage": null,
-                "id": 945799194,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-06-17T06:15:12Z",
-                "open_issues": 4,
-                "owner": "FisherCats",
-                "repo": "CLG-CBM",
-                "stars": 39,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -2389,6 +2389,27 @@
             },
             {
               "node_type": "item",
+              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
+              "description": "MemEIC/MemEIC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
+                "homepage": null,
+                "id": 1077233616,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-23T01:33:41Z",
+                "open_issues": 0,
+                "owner": "MemEIC",
+                "repo": "MemEIC",
+                "stars": 24,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Navigating Semantic Drift in Task-Agnostic Class-Incremental Learning (ICML 2025) [paper",
               "description": "fwu11/MACIL",
               "children": [],
@@ -2446,27 +2467,6 @@
                 "owner": "AIGNLAI",
                 "repo": "GDDSG",
                 "stars": 24,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MemEIC: A Step Toward Continual and Compositional Knowledge Editing (NeurIPS 2025) [paper",
-              "description": "MemEIC/MemEIC",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] MemEIC: A Step Toward Continual and Compositional Knowledge Editing",
-                "homepage": null,
-                "id": 1077233616,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-23T01:33:41Z",
-                "open_issues": 0,
-                "owner": "MemEIC",
-                "repo": "MemEIC",
-                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2768,7 +2768,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-03-18T08:00:13Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "yychen016",
                 "repo": "BiMC",
                 "stars": 17,
@@ -4739,7 +4739,7 @@
                 "open_issues": 0,
                 "owner": "zhengyuan-xie",
                 "repo": "ECCV24_NeST",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4886,7 +4886,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-10-13T10:23:17Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "noorahmedds",
                 "repo": "OrCo",
                 "stars": 35,
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T13:23:17.387Z",
+    "last_updated": "2026-10-23T13:01:59.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
