@@ -787,6 +787,27 @@
             },
             {
               "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 1,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Consistency-Driven Calibration and Matching for Few-Shot Class Incremental Learning (ICLR 2026) [paper",
               "description": "wire-wqz/ConCM",
               "children": [],
@@ -844,27 +865,6 @@
                 "owner": "byzhaoAI",
                 "repo": "VILA",
                 "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 0,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
-                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1734,7 +1734,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4076,
+                "stars": 4077,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1785,7 +1785,7 @@
                 "open_issues": 7,
                 "owner": "WuYichen-97",
                 "repo": "SD-Lora-CL",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4300,7 +4300,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4485,
+                "stars": 4484,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7447,7 +7447,7 @@
                 "open_issues": 1,
                 "owner": "dhanajitb",
                 "repo": "petal",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8980,7 +8980,7 @@
                 "open_issues": 6,
                 "owner": "kjaved0",
                 "repo": "mrcl",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "continual",
                   "machine",
@@ -9533,7 +9533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:25:04.939Z",
+    "last_updated": "2026-10-25T12:55:10.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
