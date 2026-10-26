@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 723,
+                "stars": 725,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -298,10 +298,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-13T03:56:12Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 272,
+                "stars": 273,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -373,6 +373,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PrePrompt: Predictive Prompting for Class Incremental Learning. (KDD 2026) [paper",
+              "description": "libo-huang/preprompt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[KDD-2026, arXiv-2025.5.13] Official implementation of \"PrePrompt: Predictive Prompting for Class-Incremental Learning\"",
+                "homepage": "https://libo-huang.github.io/preprompt/",
+                "id": 985108139,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-07-27T15:42:24Z",
+                "open_issues": 0,
+                "owner": "libo-huang",
+                "repo": "preprompt",
+                "stars": 37,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T14:47:38.193Z"
             },
             {
               "node_type": "item",
@@ -891,6 +912,27 @@
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Parameterized Prompt for Incremental Object Detection (CVPR 2026) [paper",
+              "description": "EMLS-ICTCAS/P2IOD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for Parameterized Prompt for Incremental Object Detection",
+                "homepage": null,
+                "id": 1165474090,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-04-25T08:26:52Z",
+                "open_issues": 1,
+                "owner": "EMLS-ICTCAS",
+                "repo": "P2IOD",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T14:47:38.193Z"
             },
             {
               "node_type": "item",
@@ -1440,6 +1482,27 @@
             },
             {
               "node_type": "item",
+              "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs (ICML 2026) [paper",
+              "description": "lihe-maxsize/Lifelong_Unlearning_main",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 924466318,
+                "language": null,
+                "license": null,
+                "last_commit": "2025-05-11T14:15:26Z",
+                "open_issues": 1,
+                "owner": "lihe-maxsize",
+                "repo": "Lifelong_Unlearning_main",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T14:47:38.193Z"
+            },
+            {
+              "node_type": "item",
               "title": "Retrospective Feature Estimation for Continual Learning (ICML 2026) [paper",
               "description": "mail-research/retrospective-feature-estimation",
               "children": [],
@@ -1647,6 +1710,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Merge to Remember: Sharpness-Aware Isotropic Merging for Continual Learning (ICML 2026) [paper",
+              "description": "Yangqun123456/SAIM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2026] Merge to Remember: Sharpness-Aware Isotropic Merging for Continual Learning",
+                "homepage": null,
+                "id": 1237304311,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-13T04:07:31Z",
+                "open_issues": 0,
+                "owner": "Yangqun123456",
+                "repo": "SAIM",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-10-26T14:47:38.193Z"
             },
             {
               "node_type": "item",
@@ -2254,7 +2338,7 @@
                 "open_issues": 3,
                 "owner": "beautyremain",
                 "repo": "SUR-LID",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "deepfake-detection"
                 ]
@@ -6938,7 +7022,7 @@
                 "open_issues": 4,
                 "owner": "muzairkhattak",
                 "repo": "PromptSRC",
-                "stars": 290,
+                "stars": 291,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9533,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T12:55:10.010Z",
+    "last_updated": "2026-10-26T14:47:38.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9541,14 +9625,14 @@
       "id": 146447849,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-08T01:47:45Z",
-      "open_issues": 9,
+      "last_commit": "2026-10-26T02:07:17Z",
+      "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4526,
+      "stars": 4525,
       "topics": []
     },
-    "original_repository_sha": "91c1285213494ca25f5c4a916c9ce9d3d05bccbc",
+    "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
     "enhanced_repository": "enhansome/enhansome-Awesome-Incremental-Learning",
     "enhanced_repository_description": null,
     "title": "Awesome Incremental Learning / Lifelong learning with stars"
