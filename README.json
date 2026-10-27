@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 228,
+            "stars": 229,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -457,7 +457,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T20:31:53Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
                 "stars": 28,
@@ -1146,6 +1146,27 @@
             },
             {
               "node_type": "item",
+              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
+              "description": "zjrzjrz/RSIAT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1192341005,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-16T02:52:30Z",
+                "open_issues": 0,
+                "owner": "zjrzjrz",
+                "repo": "RSIAT",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning (ICML 2026) [paper",
               "description": "SunGL001/MePo",
               "children": [],
@@ -1181,27 +1202,6 @@
                 "open_issues": 1,
                 "owner": "AldrinLake",
                 "repo": "Dual-E",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
-              "description": "zjrzjrz/RSIAT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1192341005,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-16T02:52:30Z",
-                "open_issues": 0,
-                "owner": "zjrzjrz",
-                "repo": "RSIAT",
                 "stars": 4,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4077,
+                "stars": 4080,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3072,6 +3072,27 @@
             },
             {
               "node_type": "item",
+              "title": "Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification (ICCV 2025) [paper",
+              "description": "zhoujiahuan1991/ICCV2025-SPRED",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1012213342,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-17T05:19:29Z",
+                "open_issues": 1,
+                "owner": "zhoujiahuan1991",
+                "repo": "ICCV2025-SPRED",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
               "description": "jinpeng0528/SEFE",
               "children": [],
@@ -3087,27 +3108,6 @@
                 "owner": "jinpeng0528",
                 "repo": "SEFE",
                 "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification (ICCV 2025) [paper",
-              "description": "zhoujiahuan1991/ICCV2025-SPRED",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1012213342,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-17T05:19:29Z",
-                "open_issues": 1,
-                "owner": "zhoujiahuan1991",
-                "repo": "ICCV2025-SPRED",
-                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4374,7 +4374,7 @@
               "description": "microsoft/LMOps",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
                 "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
@@ -4509,7 +4509,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 282,
+                "stars": 283,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4551,7 +4551,7 @@
                 "open_issues": 5,
                 "owner": "liangyanshuo",
                 "repo": "InfLoRA",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8765,7 +8765,7 @@
                 "open_issues": 28,
                 "owner": "yaoyao-liu",
                 "repo": "class-incremental-learning",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "class-incremental-learning",
                   "continual-learning"
@@ -9484,7 +9484,7 @@
                 "open_issues": 8,
                 "owner": "srebuffi",
                 "repo": "iCaRL",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:47:38.193Z",
+    "last_updated": "2026-10-27T13:53:16.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
