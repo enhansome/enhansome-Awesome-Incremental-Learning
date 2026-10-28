@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 725,
+                "stars": 726,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -892,6 +892,27 @@
             },
             {
               "node_type": "item",
+              "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
+              "description": "ZhouKanglei/BriMA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment",
+                "homepage": null,
+                "id": 1165318334,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-24T03:39:34Z",
+                "open_issues": 1,
+                "owner": "ZhouKanglei",
+                "repo": "BriMA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Plug-and-Play Compositionality for Boosting Continual Learning with Foundation Models (ICLR 2026) [paper",
               "description": "liaoweiduo/CompSLOT",
               "children": [],
@@ -950,27 +971,6 @@
                 "open_issues": 0,
                 "owner": "YonseiML",
                 "repo": "dpw",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment (CVPR 2026) [paper",
-              "description": "ZhouKanglei/BriMA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "BriMA: Bridged Modality Adaptation for Multi-Modal Continual Action Quality Assessment",
-                "homepage": null,
-                "id": 1165318334,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-02-24T03:39:34Z",
-                "open_issues": 1,
-                "owner": "ZhouKanglei",
-                "repo": "BriMA",
                 "stars": 8,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4080,
+                "stars": 4081,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1900,6 +1900,27 @@
             },
             {
               "node_type": "item",
+              "title": "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (ICCV 2025) [paper",
+              "description": "jan-ackermann/cl-splats",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official code for \"CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization\" ICCV 2025",
+                "homepage": null,
+                "id": 1018259503,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-06-12T14:51:14Z",
+                "open_issues": 3,
+                "owner": "jan-ackermann",
+                "repo": "cl-splats",
+                "stars": 66,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Large Continual Instruction Assistant (ICML 2025) [paper",
               "description": "JingyangQiao/CoIN",
               "children": [],
@@ -1915,27 +1936,6 @@
                 "owner": "JingyangQiao",
                 "repo": "CoIN",
                 "stars": 66,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (ICCV 2025) [paper",
-              "description": "jan-ackermann/cl-splats",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official code for \"CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization\" ICCV 2025",
-                "homepage": null,
-                "id": 1018259503,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-06-12T14:51:14Z",
-                "open_issues": 3,
-                "owner": "jan-ackermann",
-                "repo": "cl-splats",
-                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2002,7 +2002,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-01-07T11:16:51Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "linlany",
                 "repo": "MindtheGap",
                 "stars": 61,
@@ -2120,6 +2120,27 @@
             },
             {
               "node_type": "item",
+              "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
+              "description": "MaolinLuo/LADA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 985654567,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-08-26T12:50:24Z",
+                "open_issues": 1,
+                "owner": "MaolinLuo",
+                "repo": "LADA",
+                "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
               "description": "huiyiwang01/SEMA-CL",
               "children": [],
@@ -2135,27 +2156,6 @@
                 "owner": "huiyiwang01",
                 "repo": "SEMA-CL",
                 "stars": 41,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
-              "description": "MaolinLuo/LADA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 985654567,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-08-26T12:50:24Z",
-                "open_issues": 1,
-                "owner": "MaolinLuo",
-                "repo": "LADA",
-                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2620,6 +2620,27 @@
             },
             {
               "node_type": "item",
+              "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
+              "description": "chenhao-zju/VAMoE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official repo for VA-MoE (ICCV2025).",
+                "homepage": null,
+                "id": 1018812955,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-08-13T03:31:03Z",
+                "open_issues": 0,
+                "owner": "chenhao-zju",
+                "repo": "VAMoE",
+                "stars": 21,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning (CVPR 2025) [paper",
               "description": "tf63/ACMap",
               "children": [],
@@ -2662,27 +2683,6 @@
                 "open_issues": 3,
                 "owner": "ASCIIJK",
                 "repo": "MiN-NeurIPS2025",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "VA-MoE: Variables-Adaptive Mixture of Experts for Incremental Weather Forecasting (ICCV 2025) [paper",
-              "description": "chenhao-zju/VAMoE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official repo for VA-MoE (ICCV2025).",
-                "homepage": null,
-                "id": 1018812955,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-08-13T03:31:03Z",
-                "open_issues": 0,
-                "owner": "chenhao-zju",
-                "repo": "VAMoE",
                 "stars": 20,
                 "topics": []
               },
@@ -4384,7 +4384,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4484,
+                "stars": 4483,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7971,7 +7971,7 @@
                 "open_issues": 1,
                 "owner": "GLAMOR-USC",
                 "repo": "CLiMB",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8113,48 +8113,6 @@
             },
             {
               "node_type": "item",
-              "title": "Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation (ECCV2022)[paper",
-              "description": "Hongbin98/ProCA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This repository provides the official implementation for Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV 2022)",
-                "homepage": null,
-                "id": 511834935,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-07-15T08:06:22Z",
-                "open_issues": 1,
-                "owner": "Hongbin98",
-                "repo": "ProCA",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV2022) [paper",
-              "description": "Hongbin98/ProCA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This repository provides the official implementation for Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV 2022)",
-                "homepage": null,
-                "id": 511834935,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-07-15T08:06:22Z",
-                "open_issues": 1,
-                "owner": "Hongbin98",
-                "repo": "ProCA",
-                "stars": 35,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Meta-attention for ViT-backed Continual Learning (CVPR2022) [paper",
               "description": "zju-vipa/MEAT-TIL",
               "children": [],
@@ -8195,6 +8153,48 @@
                   "cvpr2022",
                   "incremental-learning"
                 ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Prototype-guided continual adaptation for class-incremental unsupervised domain adaptation (ECCV2022)[paper",
+              "description": "Hongbin98/ProCA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the official implementation for Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV 2022)",
+                "homepage": null,
+                "id": 511834935,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-07-15T08:06:22Z",
+                "open_issues": 1,
+                "owner": "Hongbin98",
+                "repo": "ProCA",
+                "stars": 34,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV2022) [paper",
+              "description": "Hongbin98/ProCA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This repository provides the official implementation for Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised Domain Adaptation (ECCV 2022)",
+                "homepage": null,
+                "id": 511834935,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-07-15T08:06:22Z",
+                "open_issues": 1,
+                "owner": "Hongbin98",
+                "repo": "ProCA",
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:53:16.873Z",
+    "last_updated": "2026-10-28T14:47:54.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4525,
+      "stars": 4526,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
