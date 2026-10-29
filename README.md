@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 726 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 727 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 273 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
@@ -396,7 +396,7 @@
 
 * <a name="todo"></a> NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2506.23468)]\[[code](https://github.com/Feliciaxyao/NavMorph) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2025-12-26]
 
-* <a name="todo"></a> CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2506.21117)]\[[code](https://github.com/jan-ackermann/cl-splats) ⭐ 66 | 🐛 3 | 🌐 Python | 📅 2026-06-12]
+* <a name="todo"></a> CL-Splats: Continual Learning of Gaussian Splatting with Local Optimization (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2506.21117)]\[[code](https://github.com/jan-ackermann/cl-splats) ⭐ 67 | 🐛 3 | 🌐 Python | 📅 2026-06-12]
 
 * <a name="todo"></a> Large Continual Instruction Assistant (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2410.10868)]\[[code](https://github.com/JingyangQiao/CoIN) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2025-12-25]
 
@@ -478,11 +478,11 @@
 
 * <a name="todo"></a> LoRA Subtraction for Drift-Resistant Space in Exemplar-Free Continual Learning (**CVPR2025**) \[[paper](https://arxiv.org/abs/2503.18985)]\[[code](https://github.com/scarlet0703/LoRA-Sub-DRS) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-03-28]
 
+* <a name="todo"></a> Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf)]\[[code](https://github.com/yychen016/BiMC) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-03-18]
+
 * <a name="todo"></a> Advancing Prompt-based Methods for Replay-Independent General Continual Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=V6uxd8MEqw)]\[[code](https://github.com/kangzhiq/MISA) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2025-12-21]
 
 * <a name="todo"></a> SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2411.13949)]\[[code](https://github.com/Minato-Zackie/SMoLoRA) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-02-27]
-
-* <a name="todo"></a> Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Chen_Enhancing_Few-Shot_Class-Incremental_Learning_via_Training-Free_Bi-Level_Modality_Calibration_CVPR_2025_paper.pdf)]\[[code](https://github.com/yychen016/BiMC) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-03-18]
 
 * <a name="todo"></a> Coreset Selection via Reducible Loss in Continual Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=mAztx8QO3B)]\[[code](https://github.com/RuilinTong/CSReL-Coreset-CL) ⭐ 17 | 🐛 3 | 🌐 Python | 📅 2025-09-19]
 
@@ -552,6 +552,8 @@
 
 * <a name="todo"></a> Learning Multi-Source and Robust Representations for Continual Learning (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/4fb5e1c944bb7f5a7bbd0940acd385632ffe1643.pdf)]\[[code](https://github.com/CL-Coder236/LMSRR) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-28]
 
+* <a name="todo"></a> Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.21588v1)]\[[code](https://github.com/ENJOY-Yin-jiong/PHP) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2025-12-28]
+
 * <a name="todo"></a> Causal Disentanglement and Cross-Modal Alignment for Enhanced Few-Shot Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2508.03102)]\[[code](https://github.com/tianjiao-j/CCA) ⭐ 8 | 🐛 5 | 🌐 Python | 📅 2026-04-11]
 
 * <a name="todo"></a> iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2506.00406)]\[[code](https://github.com/HarveyYi/iDPA) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-08]
@@ -565,8 +567,6 @@
 * <a name="todo"></a> Prevalence of Negative Transfer in Continual Reinforcement Learning: Analyses and a Simple Baseline (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=KAIqwkB3dT)]\[[code](https://github.com/hongjoon0805/Reset-Distill.git) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-05-21]
 
 * <a name="todo"></a> Decentralized Dynamic Cooperation of Personalized Models for Federated Continual Learning (**NeurIPS 2025**) \[[paper](https://arxiv.org/abs/2509.23683)]\[[code](https://github.com/ydn3229/DCFCL) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-06-24]
-
-* <a name="todo"></a> Progressive Homeostatic and Plastic Prompt Tuning for Audio-Visual Multi-Task Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.21588v1)]\[[code](https://github.com/ENJOY-Yin-jiong/PHP) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2025-12-28]
 
 * <a name="todo"></a> FG-OrIU: Towards Better Forgetting via Feature-Gradient Orthogonality for Incremental Unlearning (**ICCV 2025**) \[[paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_FG-OrIU_Towards_Better_Forgetting_via_Feature-Gradient_Orthogonality_for_Incremental_Unlearning_ICCV_2025_paper.pdf)]\[[code](https://github.com/RAIAN08/FG-OrIU) ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-12-15]
 
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
