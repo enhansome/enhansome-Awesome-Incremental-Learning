@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 609,
+            "stars": 610,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -704,7 +704,7 @@
             {
               "node_type": "item",
               "title": "MergeTune: Continued Fine-Tuning of Vision-Language Models (ICLR 2026) [paper",
-              "description": "Surrey-UP-Lab/MERGETUNE",
+              "description": "X-UP-SI/MERGETUNE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +715,7 @@
                 "license": null,
                 "last_commit": "2026-02-25T23:27:06Z",
                 "open_issues": 0,
-                "owner": "Surrey-UP-Lab",
+                "owner": "X-UP-SI",
                 "repo": "MERGETUNE",
                 "stars": 13,
                 "topics": []
@@ -1114,7 +1114,7 @@
                 "id": 1243848870,
                 "language": "Jupyter Notebook",
                 "license": null,
-                "last_commit": "2026-10-13T19:46:51Z",
+                "last_commit": "2026-10-29T18:48:24Z",
                 "open_issues": 0,
                 "owner": "prinshul",
                 "repo": "JASCL",
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4081,
+                "stars": 4083,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1890,7 +1890,7 @@
                 "open_issues": 4,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 94,
+                "stars": 96,
                 "topics": [
                   "vision-and-language-navigation",
                   "world-model"
@@ -2113,7 +2113,7 @@
                 "open_issues": 2,
                 "owner": "JiangpengHe",
                 "repo": "CL-LoRA",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2338,7 +2338,7 @@
                 "open_issues": 3,
                 "owner": "beautyremain",
                 "repo": "SUR-LID",
-                "stars": 27,
+                "stars": 26,
                 "topics": [
                   "deepfake-detection"
                 ]
@@ -2799,6 +2799,27 @@
             },
             {
               "node_type": "item",
+              "title": "SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning (ICCV 2025) [paper",
+              "description": "Minato-Zackie/SMoLoRA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official code implementation of \"SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning\"",
+                "homepage": null,
+                "id": 1009960890,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-02-27T14:42:40Z",
+                "open_issues": 1,
+                "owner": "Minato-Zackie",
+                "repo": "SMoLoRA",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Enhancing Few-Shot Class-Incremental Learning via Training-Free Bi-Level Modality Calibration (CVPR 2025) [paper",
               "description": "yychen016/BiMC",
               "children": [],
@@ -2835,27 +2856,6 @@
                 "owner": "kangzhiq",
                 "repo": "MISA",
                 "stars": 18,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning (ICCV 2025) [paper",
-              "description": "Minato-Zackie/SMoLoRA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official code implementation of \"SMoLoRA: Exploring and Defying Dual Catastrophic Forgetting in Continual Visual Instruction Tuning\"",
-                "homepage": null,
-                "id": 1009960890,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-02-27T14:42:40Z",
-                "open_issues": 1,
-                "owner": "Minato-Zackie",
-                "repo": "SMoLoRA",
-                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:54:00.155Z",
+    "last_updated": "2026-10-30T14:46:08.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4526,
+      "stars": 4527,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
