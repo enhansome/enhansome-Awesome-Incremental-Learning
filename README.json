@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1890,
+            "stars": 1891,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 273,
+                "stars": 274,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4083,
+                "stars": 4085,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4417,7 +4417,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4447,7 +4447,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7796,7 +7796,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8735,7 +8735,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 847,
+                "stars": 848,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T14:46:08.951Z",
+    "last_updated": "2026-10-31T14:15:00.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
