@@ -755,7 +755,7 @@
                 "id": 1234378525,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-07-06T04:53:21Z",
+                "last_commit": "2026-11-01T07:00:51Z",
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICML2026-AREA",
@@ -1041,27 +1041,6 @@
             },
             {
               "node_type": "item",
-              "title": "Elastic Weight Consolidation Done Right for Continual Learning (CVPR 2026) [paper",
-              "description": "scarlet0703/EWC-DR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official PyTorch implementation of our CVPR 2026 paper, \"Elastic Weight Consolidation Done Right for Continual Learning.\"",
-                "homepage": null,
-                "id": 1179699729,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-11T03:14:59Z",
-                "open_issues": 0,
-                "owner": "scarlet0703",
-                "repo": "EWC-DR",
-                "stars": 7,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "PLATE: Plasticity-Tunable Efficient Adapters for Geometry-Aware Continual Learning (ICML 2026) [paper",
               "description": "SalesforceAIResearch/PLATE",
               "children": [],
@@ -1076,6 +1055,27 @@
                 "open_issues": 0,
                 "owner": "SalesforceAIResearch",
                 "repo": "PLATE",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Elastic Weight Consolidation Done Right for Continual Learning (CVPR 2026) [paper",
+              "description": "scarlet0703/EWC-DR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official PyTorch implementation of our CVPR 2026 paper, \"Elastic Weight Consolidation Done Right for Continual Learning.\"",
+                "homepage": null,
+                "id": 1179699729,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-11T03:14:59Z",
+                "open_issues": 0,
+                "owner": "scarlet0703",
+                "repo": "EWC-DR",
                 "stars": 7,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4085,
+                "stars": 4088,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3502,27 +3502,6 @@
             },
             {
               "node_type": "item",
-              "title": "TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (ICLR 2025) [paper",
-              "description": "liangzu/loranpac",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LoRanPAC: Low-rank Random Features and Pre-trained Models for Bridging Theory and Practice in Continual Learning",
-                "homepage": null,
-                "id": 941196472,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-05-18T05:03:26Z",
-                "open_issues": 1,
-                "owner": "liangzu",
-                "repo": "loranpac",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Self-Normalized Resets for Plasticity in Continual Learning (ICLR 2025) [paper",
               "description": "ajozefiak/SelfNormalizedResets",
               "children": [],
@@ -3684,6 +3663,27 @@
                 "open_issues": 1,
                 "owner": "HaoranChen",
                 "repo": "Adaptive-Retention-and-Correction-for-Continual-Learning",
+                "stars": 8,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TSVD: Bridging Theory and Practice in Continual Learning with Pre-trained Models (ICLR 2025) [paper",
+              "description": "liangzu/loranpac",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LoRanPAC: Low-rank Random Features and Pre-trained Models for Bridging Theory and Practice in Continual Learning",
+                "homepage": null,
+                "id": 941196472,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-05-18T05:03:26Z",
+                "open_issues": 1,
+                "owner": "liangzu",
+                "repo": "loranpac",
                 "stars": 8,
                 "topics": []
               },
@@ -5800,6 +5800,27 @@
             },
             {
               "node_type": "item",
+              "title": "CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (ECCV24)[paper",
+              "description": "JungHunOh/CLOSER_ECCV2024",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 822522811,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-03-21T06:56:27Z",
+                "open_issues": 1,
+                "owner": "JungHunOh",
+                "repo": "CLOSER_ECCV2024",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory (CVPR2024)[paper",
               "description": "dtuzi123/DCM",
               "children": [],
@@ -5835,27 +5856,6 @@
                 "open_issues": 1,
                 "owner": "EMLS-ICTCAS",
                 "repo": "CLFD",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning (ECCV24)[paper",
-              "description": "JungHunOh/CLOSER_ECCV2024",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 822522811,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-03-21T06:56:27Z",
-                "open_issues": 1,
-                "owner": "JungHunOh",
-                "repo": "CLOSER_ECCV2024",
                 "stars": 14,
                 "topics": []
               },
@@ -8765,7 +8765,7 @@
                 "open_issues": 28,
                 "owner": "yaoyao-liu",
                 "repo": "class-incremental-learning",
-                "stars": 472,
+                "stars": 473,
                 "topics": [
                   "class-incremental-learning",
                   "continual-learning"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:15:00.738Z",
+    "last_updated": "2026-11-01T14:41:18.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
