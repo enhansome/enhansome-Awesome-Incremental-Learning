@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 727,
+                "stars": 728,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -530,7 +530,7 @@
                 "open_issues": 1,
                 "owner": "yaoyz96",
                 "repo": "low-rank-cl",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4088,
+                "stars": 4095,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1914,7 +1914,7 @@
                 "open_issues": 3,
                 "owner": "jan-ackermann",
                 "repo": "cl-splats",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2092,7 +2092,7 @@
                 "open_issues": 0,
                 "owner": "chiara-cap",
                 "repo": "DitHub",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3009,6 +3009,27 @@
             },
             {
               "node_type": "item",
+              "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
+              "description": "jinpeng0528/SEFE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 976460770,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-05-06T01:34:27Z",
+                "open_issues": 1,
+                "owner": "jinpeng0528",
+                "repo": "SEFE",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector (ICML 2025) [paper",
               "description": "fanrena/NSGP-RePRE",
               "children": [],
@@ -3086,27 +3107,6 @@
                 "open_issues": 1,
                 "owner": "zhoujiahuan1991",
                 "repo": "ICCV2025-SPRED",
-                "stars": 13,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning (ICML 2025) [paper",
-              "description": "jinpeng0528/SEFE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 976460770,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-05-06T01:34:27Z",
-                "open_issues": 1,
-                "owner": "jinpeng0528",
-                "repo": "SEFE",
                 "stars": 13,
                 "topics": []
               },
@@ -4384,7 +4384,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4483,
+                "stars": 4484,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4509,7 +4509,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4623,7 +4623,7 @@
                 "open_issues": 2,
                 "owner": "zqiao11",
                 "repo": "TSCIL",
-                "stars": 72,
+                "stars": 73,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:41:18.723Z",
+    "last_updated": "2026-11-02T17:44:02.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
