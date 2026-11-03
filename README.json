@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 612,
+            "stars": 613,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -90,7 +90,7 @@
             "open_issues": 11,
             "owner": "mmasana",
             "repo": "FACIL",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 229,
+            "stars": 230,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 274,
+                "stars": 275,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -460,7 +460,7 @@
                 "open_issues": 26,
                 "owner": "Red-Hat-AI-Innovation-Team",
                 "repo": "mini_trainer",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1280,9 +1280,9 @@
                 "description": "[CVPR 2026] The code repository for \"Quantum-Gated Task-interaction Knowledge Distillation for Pre-trained Model-based Class-Incremental Learning\" in PyTorch.",
                 "homepage": null,
                 "id": 1191707812,
-                "language": null,
+                "language": "Python",
                 "license": null,
-                "last_commit": "2026-03-25T14:06:16Z",
+                "last_commit": "2026-11-03T14:51:51Z",
                 "open_issues": 3,
                 "owner": "Frank-lilinjie",
                 "repo": "CVPR26-QKD",
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4095,
+                "stars": 4098,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3114,6 +3114,30 @@
             },
             {
               "node_type": "item",
+              "title": "Neuron-Level Sequential Editing for Large Language Models (ACL 2025) [paper",
+              "description": "jianghoucheng/NSE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Neuron-Level Sequential Editing for Large Language Models, ACL 2025 Main",
+                "homepage": null,
+                "id": 865836028,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-10-15T03:38:07Z",
+                "open_issues": 3,
+                "owner": "jianghoucheng",
+                "repo": "NSE",
+                "stars": 13,
+                "topics": [
+                  "large-language-models",
+                  "model-editing"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Divide-and-Conquer for Enhancing Unlabeled Learning, Stability, and Plasticity in Semi-supervised Continual Learning (ICCV 2025) [paper",
               "description": "NJUyued/USP4SSCL",
               "children": [],
@@ -3154,30 +3178,6 @@
                   "computer-vision",
                   "continual-learning",
                   "iccv2025"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Neuron-Level Sequential Editing for Large Language Models (ACL 2025) [paper",
-              "description": "jianghoucheng/NSE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Neuron-Level Sequential Editing for Large Language Models, ACL 2025 Main",
-                "homepage": null,
-                "id": 865836028,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-10-15T03:38:07Z",
-                "open_issues": 3,
-                "owner": "jianghoucheng",
-                "repo": "NSE",
-                "stars": 12,
-                "topics": [
-                  "large-language-models",
-                  "model-editing"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -3226,6 +3226,27 @@
             },
             {
               "node_type": "item",
+              "title": "Knowledge Swapping via Learning and Unlearning (ICML 2025) [paper",
+              "description": "ExplainableML/WikiBigEdit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official repository for the WikiBigEdit benchmark, introduced in the paper Understanding the Limits of Lifelong Knowledge Editing in LLMs.",
+                "homepage": null,
+                "id": 947875477,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2025-03-13T21:31:48Z",
+                "open_issues": 0,
+                "owner": "ExplainableML",
+                "repo": "WikiBigEdit",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "BECAME: Bayesian Continual Learning with Adaptive Model Merging (ICML 2025) [paper",
               "description": "limei0818/BECAME",
               "children": [],
@@ -3261,27 +3282,6 @@
                 "open_issues": 1,
                 "owner": "WoodScene",
                 "repo": "Recurrent_KIF",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Knowledge Swapping via Learning and Unlearning (ICML 2025) [paper",
-              "description": "ExplainableML/WikiBigEdit",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official repository for the WikiBigEdit benchmark, introduced in the paper Understanding the Limits of Lifelong Knowledge Editing in LLMs.",
-                "homepage": null,
-                "id": 947875477,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2025-03-13T21:31:48Z",
-                "open_issues": 0,
-                "owner": "ExplainableML",
-                "repo": "WikiBigEdit",
                 "stars": 11,
                 "topics": []
               },
@@ -3460,6 +3460,27 @@
             },
             {
               "node_type": "item",
+              "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
+              "description": "HarveyYi/iDPA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (Accepted by ICML 25)",
+                "homepage": null,
+                "id": 990369370,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-08T03:29:29Z",
+                "open_issues": 1,
+                "owner": "HarveyYi",
+                "repo": "iDPA",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "AVQACL: A Novel Benchmark for Audio-Visual Question Answering Continual Learning (CVPR 2025) [paper",
               "description": "kx-wu/AVQACL",
               "children": [],
@@ -3600,27 +3621,6 @@
                 "open_issues": 5,
                 "owner": "tianjiao-j",
                 "repo": "CCA",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (ICML 2025) [paper",
-              "description": "HarveyYi/iDPA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "iDPA: Instance Decoupled Prompt Attention for Incremental Medical Object Detection (Accepted by ICML 25)",
-                "homepage": null,
-                "id": 990369370,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-08T03:29:29Z",
-                "open_issues": 1,
-                "owner": "HarveyYi",
-                "repo": "iDPA",
                 "stars": 8,
                 "topics": []
               },
@@ -7050,6 +7050,27 @@
             },
             {
               "node_type": "item",
+              "title": "Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV 2023)[paper",
+              "description": "Thunderbeee/ZSCL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models",
+                "homepage": null,
+                "id": 612882043,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-03-05T06:12:04Z",
+                "open_issues": 8,
+                "owner": "Thunderbeee",
+                "repo": "ZSCL",
+                "stars": 112,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Continual Detection Transformer for Incremental Object Detection (CVPR2023)[paper",
               "description": "yaoyao-liu/CL-DETR",
               "children": [],
@@ -7072,27 +7093,6 @@
                   "incremental-object-detection",
                   "object-detection"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models (ICCV 2023)[paper",
-              "description": "Thunderbeee/ZSCL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models",
-                "homepage": null,
-                "id": 612882043,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-03-05T06:12:04Z",
-                "open_issues": 8,
-                "owner": "Thunderbeee",
-                "repo": "ZSCL",
-                "stars": 111,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -8021,7 +8021,7 @@
                 "open_issues": 6,
                 "owner": "QueuQ",
                 "repo": "CGLB",
-                "stars": 60,
+                "stars": 61,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:44:02.908Z",
+    "last_updated": "2026-11-03T15:45:33.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
