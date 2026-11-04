@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 567,
+            "stars": 568,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 728,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -369,7 +369,7 @@
                 "open_issues": 1,
                 "owner": "gfyddha",
                 "repo": "Fly-CL",
-                "stars": 40,
+                "stars": 39,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -390,7 +390,7 @@
                 "open_issues": 0,
                 "owner": "libo-huang",
                 "repo": "preprompt",
-                "stars": 37,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-10-26T14:47:38.193Z"
@@ -1282,7 +1282,7 @@
                 "id": 1191707812,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-03T14:51:51Z",
+                "last_commit": "2026-11-04T08:38:02Z",
                 "open_issues": 3,
                 "owner": "Frank-lilinjie",
                 "repo": "CVPR26-QKD",
@@ -1608,6 +1608,27 @@
             },
             {
               "node_type": "item",
+              "title": "Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning (ICML 2026) [paper",
+              "description": "Legenddddd/HFRC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of \"Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning\" (TMLR 2026)",
+                "homepage": null,
+                "id": 1223652508,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-04-29T11:19:01Z",
+                "open_issues": 0,
+                "owner": "Legenddddd",
+                "repo": "HFRC",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Turning Back Without Forgetting: Selective Backward Refinement for Parameter-Efficient Continual Learning (ICML 2026) [paper",
               "description": "OptMN-Lab/SABER-ICML-2026",
               "children": [],
@@ -1685,27 +1706,6 @@
                 "open_issues": 0,
                 "owner": "GIST-IRR",
                 "repo": "FWH_COCL",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning (ICML 2026) [paper",
-              "description": "Legenddddd/HFRC",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of \"Hierarchical Filtering and Refinement Classification for Few-Shot Class-Incremental Learning\" (TMLR 2026)",
-                "homepage": null,
-                "id": 1223652508,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-04-29T11:19:01Z",
-                "open_issues": 0,
-                "owner": "Legenddddd",
-                "repo": "HFRC",
                 "stars": 0,
                 "topics": []
               },
@@ -4892,7 +4892,7 @@
                 "open_issues": 0,
                 "owner": "grypesc",
                 "repo": "SEED",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "class-incremental",
                   "class-incremental-learning",
@@ -5091,6 +5091,31 @@
             },
             {
               "node_type": "item",
+              "title": "Weighted Ensemble Models Are Strong Continual Learners (ECCV24)[paper",
+              "description": "IemProg/CoFiMA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🔥 🔥  [ECCV 2024 Oral ] Official code for \"Weighted Ensemble Models Are Strong Continual Learners\"",
+                "homepage": "https://arxiv.org/abs/2312.08977",
+                "id": 721522765,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-04-16T15:53:04Z",
+                "open_issues": 1,
+                "owner": "IemProg",
+                "repo": "CoFiMA",
+                "stars": 31,
+                "topics": [
+                  "cil",
+                  "class-incremental-learning",
+                  "continual-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Class Incremental Learning via Likelihood Ratio Based Task Prediction (ICLR2024)[paper",
               "description": "linhaowei1/TPL",
               "children": [],
@@ -5111,31 +5136,6 @@
                   "continual-learning",
                   "likelihood-ratio-test",
                   "ood-detection"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Weighted Ensemble Models Are Strong Continual Learners (ECCV24)[paper",
-              "description": "IemProg/CoFiMA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "🔥 🔥  [ECCV 2024 Oral ] Official code for \"Weighted Ensemble Models Are Strong Continual Learners\"",
-                "homepage": "https://arxiv.org/abs/2312.08977",
-                "id": 721522765,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-04-16T15:53:04Z",
-                "open_issues": 1,
-                "owner": "IemProg",
-                "repo": "CoFiMA",
-                "stars": 30,
-                "topics": [
-                  "cil",
-                  "class-incremental-learning",
-                  "continual-learning"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5398,7 +5398,7 @@
                 "open_issues": 0,
                 "owner": "libo-huang",
                 "repo": "eTag",
-                "stars": 24,
+                "stars": 23,
                 "topics": [
                   "aaai2024",
                   "catastrophic-forgetting",
@@ -7428,6 +7428,27 @@
             },
             {
               "node_type": "item",
+              "title": "Computationally Budgeted Continual Learning: What Does Matter? (CVPR2023)[paper",
+              "description": "drimpossible/BudgetCL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for CVPR paper: Computationally Budgeted Continual Learning: What Does Matter?",
+                "homepage": null,
+                "id": 617303754,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2024-03-16T10:47:06Z",
+                "open_issues": 1,
+                "owner": "drimpossible",
+                "repo": "BudgetCL",
+                "stars": 18,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Class-Incremental Grouping Network for Continual Audio-Visual Learning (ICCV 2023)[paper",
               "description": "stoneMo/CIGN",
               "children": [],
@@ -7449,27 +7470,6 @@
                   "class-incremental-learning",
                   "continual-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Computationally Budgeted Continual Learning: What Does Matter? (CVPR2023)[paper",
-              "description": "drimpossible/BudgetCL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for CVPR paper: Computationally Budgeted Continual Learning: What Does Matter?",
-                "homepage": null,
-                "id": 617303754,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-03-16T10:47:06Z",
-                "open_issues": 1,
-                "owner": "drimpossible",
-                "repo": "BudgetCL",
-                "stars": 17,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -7897,7 +7897,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "CVPR22-Fact",
-                "stars": 140,
+                "stars": 141,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -8532,7 +8532,7 @@
                 "open_issues": 30,
                 "owner": "JosephKJ",
                 "repo": "OWOD",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "continual-learning",
                   "contrastive-learning",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T15:45:33.885Z",
+    "last_updated": "2026-11-04T15:55:29.469Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4527,
+      "stars": 4528,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
