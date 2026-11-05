@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -477,8 +477,8 @@
                 "id": 1227010555,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-23T16:09:20Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-04T17:14:47Z",
+                "open_issues": 7,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
                 "stars": 28,
@@ -1097,6 +1097,27 @@
                 "open_issues": 1,
                 "owner": "yfqi",
                 "repo": "lifelong_mlr_ifa",
+                "stars": 7,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
+              "description": "zjrzjrz/RSIAT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1192341005,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-16T02:52:30Z",
+                "open_issues": 0,
+                "owner": "zjrzjrz",
+                "repo": "RSIAT",
                 "stars": 6,
                 "topics": []
               },
@@ -1140,27 +1161,6 @@
                 "owner": "antoninbrthn",
                 "repo": "skill-neologisms",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (CVPR 2026) [paper",
-              "description": "zjrzjrz/RSIAT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1192341005,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-16T02:52:30Z",
-                "open_issues": 0,
-                "owner": "zjrzjrz",
-                "repo": "RSIAT",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4098,
+                "stars": 4101,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1836,7 +1836,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 848,
@@ -2005,7 +2005,7 @@
                 "open_issues": 1,
                 "owner": "linlany",
                 "repo": "MindtheGap",
-                "stars": 61,
+                "stars": 62,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2368,6 +2368,27 @@
             },
             {
               "node_type": "item",
+              "title": "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (ICLR 2025) [paper",
+              "description": "wang-qiuchen/PseDet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICLR 2025] PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection",
+                "homepage": null,
+                "id": 938494725,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-09-16T03:16:36Z",
+                "open_issues": 1,
+                "owner": "wang-qiuchen",
+                "repo": "PseDet",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
               "description": "tanganke/opcm",
               "children": [],
@@ -2445,27 +2466,6 @@
                 "open_issues": 0,
                 "owner": "patrickqrim",
                 "repo": "ProtoDepth",
-                "stars": 25,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (ICLR 2025) [paper",
-              "description": "wang-qiuchen/PseDet",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICLR 2025] PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection",
-                "homepage": null,
-                "id": 938494725,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-09-16T03:16:36Z",
-                "open_issues": 1,
-                "owner": "wang-qiuchen",
-                "repo": "PseDet",
                 "stars": 25,
                 "topics": []
               },
@@ -4414,7 +4414,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 848,
@@ -4444,7 +4444,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 848,
@@ -4781,7 +4781,7 @@
                 "open_issues": 0,
                 "owner": "pkuxmq",
                 "repo": "HLOP-SNN",
-                "stars": 45,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5936,6 +5936,27 @@
             },
             {
               "node_type": "item",
+              "title": "Make Continual Learning Stronger via C-Flat (NeurIPS 2024) [paper",
+              "description": "WanNaa/C-Flat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 877838030,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-11T14:45:05Z",
+                "open_issues": 0,
+                "owner": "WanNaa",
+                "repo": "C-Flat",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Rethinking Momentum Knowledge Distillation in Online Continual Learning (ICML24)[paper",
               "description": "Nicolas1203/mkd_ocl",
               "children": [],
@@ -6000,27 +6021,6 @@
                   "saliency-prediction",
                   "selective-attention"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Make Continual Learning Stronger via C-Flat (NeurIPS 2024) [paper",
-              "description": "WanNaa/C-Flat",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 877838030,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-11T14:45:05Z",
-                "open_issues": 0,
-                "owner": "WanNaa",
-                "repo": "C-Flat",
-                "stars": 12,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -7793,7 +7793,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 848,
@@ -8732,7 +8732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 848,
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:55:29.469Z",
+    "last_updated": "2026-11-05T16:01:38.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4528,
+      "stars": 4529,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",

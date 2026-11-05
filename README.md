@@ -38,7 +38,7 @@
 
 * <a name="todo"></a> KeepLoRA: Continual Learning with Residual Gradient Adaptation (**ICLR 2026**) \[[paper](https://openreview.net/pdf/5b1c7a77eba775963f7a9e2e29612ab26bd10cd2.pdf)]\[[code](https://github.com/MaolinLuo/KeepLoRA) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 
-* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2026-10-20]
+* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-10-20]
 
 * <a name="todo"></a> Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning (**ICLR 2026**) \[[paper](https://openreview.net/forum?id=7UfZAxKo5K)]\[[code](https://github.com/gfyddha/Fly-CL) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
 
@@ -50,7 +50,7 @@
 
 * <a name="todo"></a> Sculpting Subspaces: Constrained Full Fine-Tuning in LLMs for Continual Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/705fd8849abb4e88aeeeff733e7867c96a002d8b.pdf)]\[[code](https://github.com/Red-Hat-AI-Innovation-Team/mini_trainer) ⭐ 29 | 🐛 26 | 🌐 Python | 📅 2026-09-12]
 
-* <a name="todo"></a> Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.00191)]\[[code](https://github.com/HHHLF/LoDA_ICML2026) ⭐ 28 | 🐛 6 | 🌐 Python | 📅 2026-10-23]
+* <a name="todo"></a> Task-Driven Subspace Decomposition for Knowledge Sharing and Isolation in LoRA-based Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.00191)]\[[code](https://github.com/HHHLF/LoDA_ICML2026) ⭐ 28 | 🐛 7 | 🌐 Python | 📅 2026-11-04]
 
 * <a name="todo"></a> Scaling Continual Learning with Bi-Level Routing Mixture-of-Experts (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.03473)]\[[code](https://github.com/LMMMEng/CaRE) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2026-09-24]
 
@@ -106,13 +106,13 @@
 
 * <a name="todo"></a> Elastic Weight Consolidation Done Right for Continual Learning (**CVPR 2026**) \[[paper](https://arxiv.org/abs/2603.18596)]\[[code](https://github.com/scarlet0703/EWC-DR) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-05-11]
 
-* <a name="todo"></a> Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Yu_Lifelong_Imitation_Learning_with_Multimodal_Latent_Replay_and_Incremental_Adjustment_CVPR_2026_paper.pdf)]\[[code](https://github.com/yfqi/lifelong_mlr_ifa) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-15]
+* <a name="todo"></a> Lifelong Imitation Learning with Multimodal Latent Replay and Incremental Adjustment (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Yu_Lifelong_Imitation_Learning_with_Multimodal_Latent_Replay_and_Incremental_Adjustment_CVPR_2026_paper.pdf)]\[[code](https://github.com/yfqi/lifelong_mlr_ifa) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-06-15]
+
+* <a name="todo"></a> Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhao_Representation-Steered_Incremental_Adapter-Tuning_for_Class-Incremental_Learning_with_Pre-Trained_Models_CVPR_2026_paper.pdf)]\[[code](https://github.com/zjrzjrz/RSIAT) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
 
 * <a name="todo"></a> Continual Segmentation under Joint Nonstationarity (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20538)]\[[code](https://github.com/prinshul/JASCL) ⭐ 6 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-29]
 
 * <a name="todo"></a> Skill Neologisms: Towards Skill-based Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.04970)]\[[code](https://github.com/antoninbrthn/skill-neologisms) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-05-18]
-
-* <a name="todo"></a> Representation-Steered Incremental Adapter-Tuning for Class-Incremental Learning with Pre-Trained Models (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhao_Representation-Steered_Incremental_Adapter-Tuning_for_Class-Incremental_Learning_with_Pre-Trained_Models_CVPR_2026_paper.pdf)]\[[code](https://github.com/zjrzjrz/RSIAT) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-16]
 
 * <a name="todo"></a> MePo: Meta Post-Refinement for Rehearsal-Free General Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.07940)]\[[code](https://github.com/SunGL001/MePo) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-02-10]
 
@@ -388,9 +388,9 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,098 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,101 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
 
-* <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 2 | 🌐 Python | 📅 2026-05-20]
+* <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
 * <a name="todo"></a> SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=5U1rlpX68A)]\[[code](https://github.com/WuYichen-97/SD-Lora-CL) ⭐ 98 | 🐛 7 | 🌐 Python | 📅 2025-06-27]
 
@@ -404,7 +404,7 @@
 
 * <a name="todo"></a> Spurious Forgetting in Continual Learning of Language Models (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=ScI7IlKGdI)]\[[code](https://github.com/zzz47zzz/spurious-forgetting) ⭐ 64 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-05-09]
 
-* <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.09118)]\[[code](https://github.com/linlany/MindtheGap) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2026-01-07]
+* <a name="todo"></a> Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning (**ICCV 2025**) \[[paper](https://arxiv.org/abs/2507.09118)]\[[code](https://github.com/linlany/MindtheGap) ⭐ 62 | 🐛 1 | 🌐 Python | 📅 2026-01-07]
 
 * <a name="todo"></a> External Knowledge Injection for CLIP-Based Class-Incremental Learning (**ICCV 2025**) \[[paper](https://arxiv.org/pdf/2503.08510)]\[[code](https://github.com/LAMDA-CL/ICCV25-ENGINE) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2025-11-19]
 
@@ -438,6 +438,8 @@
 
 * <a name="todo"></a> Do Your Best and Get Enough Rest for Continual Learning (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2503.18371)]\[[code](https://github.com/hankyul2/ViewBatchModel) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-05-22]
 
+* <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=Iu8FVcUmVp)]\[[code](https://github.com/wang-qiuchen/PseDet) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-09-16]
+
 * <a name="todo"></a> Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/56abd1b9e44f24af3bcebd2180eeda7e45eb5cd2.pdf)]\[[code](https://github.com/tanganke/opcm) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
 
 * <a name="todo"></a> TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.1551.pdf)]\[[code](https://github.com/apple/ml-tic-lm) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2026-09-11]
@@ -445,8 +447,6 @@
 * <a name="todo"></a> Revisiting Generative Replay for Class Incremental Object Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Ye_Online_Task-Free_Continual_Learning_via_Dynamic_Expansionable_Memory_Distribution_CVPR_2025_paper.pdf)]\[[code](https://github.com/qiangzai-lv/RGR-IOD) ⭐ 25 | 🐛 5 | 🌐 Python | 📅 2026-03-01]
 
 * <a name="todo"></a> ProtoDepth: Unsupervised Continual Depth Completion with Prototypes (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Rim_ProtoDepth_Unsupervised_Continual_Depth_Completion_with_Prototypes_CVPR_2025_paper.pdf)]\[[code](https://github.com/patrickqrim/ProtoDepth) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-12-10]
-
-* <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=Iu8FVcUmVp)]\[[code](https://github.com/wang-qiuchen/PseDet) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2025-09-16]
 
 * <a name="todo"></a> MemEIC: A Step Toward Continual and Compositional Knowledge Editing (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/e5209240370185240edeb5bc9a5296481fd5702b.pdf)]\[[code](https://github.com/MemEIC/MemEIC) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2026-03-23]
 
@@ -840,9 +840,9 @@
 
 * <a name="todo"></a> Adapting Large Language Models via Reading Comprehension (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=y886UXPEZ0\&name=pdf)]\[[code](https://github.com/microsoft/LMOps/tree/main/adaptllm) ⚠️ Archived]
 
-* <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 2 | 🌐 Python | 📅 2026-05-20]
+* <a name="todo"></a> CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning (**BMVC24**)\[[paper](https://arxiv.org/abs/2407.15793)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
-* <a name="todo"></a> Semantic Residual Prompts for Continual Learning (**ECCV24**)\[[paper](https://arxiv.org/abs/2403.06870)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 2 | 🌐 Python | 📅 2026-05-20]
+* <a name="todo"></a> Semantic Residual Prompts for Continual Learning (**ECCV24**)\[[paper](https://arxiv.org/abs/2403.06870)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
 * <a name="todo"></a> Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (**ECCV24**)\[[paper](https://arxiv.org/abs/2404.14351)]\[[code](https://github.com/nianticlabs/acezero) ⭐ 809 | 🐛 1 | 🌐 Python | 📅 2025-11-10]
 
@@ -870,7 +870,7 @@
 
 * <a name="todo"></a> Happy: A Debiased Learning Framework for Continual Generalized Category Discovery (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2410.06535)]\[[code](https://github.com/mashijie1028/Happy-CGCD) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2026-08-26]
 
-* <a name="todo"></a> Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=MeB86edZ1P\&name=pdf)]\[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
+* <a name="todo"></a> Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks (**ICLR2024**)\[[paper](https://openreview.net/attachment?id=MeB86edZ1P\&name=pdf)]\[[code](https://github.com/pkuxmq/HLOP-SNN) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2024-02-20]
 
 * <a name="todo"></a> Mixture of Experts Meets Prompt-Based Continual Learning (**NeurIPS 2024**) \[[paper](https://arxiv.org/abs/2405.14124)]\[[code](https://github.com/Minhchuyentoancbn/MoE_PromptCL) ⭐ 43 | 🐛 1 | 🌐 Python | 📅 2025-08-01]
 
@@ -974,13 +974,13 @@
 
 * <a name="todo"></a> Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/db512259110b000f82fd2052e9432dd693af4137.pdf)]\[[code](https://github.com/mala-lab/TPP) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2024-12-28]
 
+* <a name="todo"></a> Make Continual Learning Stronger via C-Flat (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/be179393fb5b55da27facef791300b7cea7f22b0.pdf)]\[[code](https://github.com/WanNaa/C-Flat) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
+
 * <a name="todo"></a> Rethinking Momentum Knowledge Distillation in Online Continual Learning (**ICML24**)\[[paper](https://arxiv.org/abs/2309.02870)]\[[code](https://github.com/Nicolas1203/mkd_ocl) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-03-21]
 
 * <a name="todo"></a> Evolving Parameterized Prompt Memory for Continual Learning (**AAAI2024**)\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29231)]\[[code](https://github.com/MIV-XJTU/EvoPrompt) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2024-04-15]
 
 * <a name="todo"></a> Saliency-driven Experience Replay for Continual Learning  (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/f3e3bc516755d6efa43fb0c62dea0d705efacfe7.pdf)]\[[code](https://github.com/perceivelab/SER) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-03-14]
-
-* <a name="todo"></a> Make Continual Learning Stronger via C-Flat (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/be179393fb5b55da27facef791300b7cea7f22b0.pdf)]\[[code](https://github.com/WanNaa/C-Flat) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
 
 * <a name="todo"></a> Not Just Object, But State: Compositional Incremental Learning without Forgetting (**NeurIPS 2024**) \[[paper](https://openreview.net/pdf/e422a66571f0dfafe75b5c8ba1f75cb365fda448.pdf)]\[[code](https://github.com/Yanyi-Zhang/CompILer) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2025-03-27]
 
@@ -1353,7 +1353,7 @@
 
 ### 2022
 
-* <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) \[[paper](https://arxiv.org/abs/2201.00766)] \[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 2 | 🌐 Python | 📅 2026-05-20]
+* <a name="todo"></a>Class-Incremental Continual Learning into the eXtended DER-verse (**TPAMI2022**) \[[paper](https://arxiv.org/abs/2201.00766)] \[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
 * <a name="todo"></a> DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning (**ECCV2022**) \[[paper](https://arxiv.org/abs/2204.04799)] \[[code](https://github.com/google-research/l2p) ⚠️ Archived]
 
@@ -1707,7 +1707,7 @@
 
 ### 2020
 
-* <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) \[[paper](https://arxiv.org/pdf/2004.07211.pdf)]  \[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 2 | 🌐 Python | 📅 2026-05-20]
+* <a name="todo"></a> Dark Experience for General Continual Learning: a Strong, Simple Baseline (**NeurIPS2020**) \[[paper](https://arxiv.org/pdf/2004.07211.pdf)]  \[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 * <a name="todo"></a> Mnemonics Training: Multi-Class Incremental Learning without Forgetting (**CVPR2020**) \[[paper](https://arxiv.org/pdf/2002.10211.pdf)] \[[code](https://github.com/yaoyao-liu/mnemonics) ⭐ 473 | 🐛 28 | 🌐 Python | 📅 2025-04-10]
 * <a name="todo"></a> PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning (**ECCV2020**) \[[paper](https://arxiv.org/abs/2004.13513)] \[[code](https://github.com/arthurdouillard/incremental_learning.pytorch) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2023-10-03]
 * <a name="todo"></a> Adversarial Continual Learning (**ECCV2020**) \[[paper](https://arxiv.org/abs/2003.09553)]  \[[code](https://github.com/facebookresearch/Adversarial-Continual-Learning) ⚠️ Archived]
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
