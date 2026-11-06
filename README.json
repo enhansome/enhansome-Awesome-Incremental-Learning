@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 730,
+                "stars": 732,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 275,
+                "stars": 276,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -340,7 +340,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-20T15:54:54Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
                 "stars": 54,
@@ -632,6 +632,27 @@
             },
             {
               "node_type": "item",
+              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
+              "description": "datake/FAME",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
+                "homepage": null,
+                "id": 1163707488,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-01T02:16:44Z",
+                "open_issues": 1,
+                "owner": "datake",
+                "repo": "FAME",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (ICLR 2026) [paper",
               "description": "AIGNLAI/EDGE",
               "children": [],
@@ -656,27 +677,6 @@
                   "protocol",
                   "robustness"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
-              "description": "datake/FAME",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
-                "homepage": null,
-                "id": 1163707488,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-01T02:16:44Z",
-                "open_issues": 1,
-                "owner": "datake",
-                "repo": "FAME",
-                "stars": 14,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4101,
+                "stars": 4102,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2571,7 +2571,7 @@
                 "open_issues": 0,
                 "owner": "zhrli324",
                 "repo": "RLEdit",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4477,7 +4477,7 @@
                 "open_issues": 1,
                 "owner": "nianticlabs",
                 "repo": "acezero",
-                "stars": 809,
+                "stars": 810,
                 "topics": [
                   "3d-reconstruction",
                   "camera-relocalization",
@@ -8338,27 +8338,6 @@
             },
             {
               "node_type": "item",
-              "title": "A Theoretical Study on Solving Continual Learning (NeurIPS2022) [paper",
-              "description": "k-gyuhak/WPTP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 546292934,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-11-04T04:03:06Z",
-                "open_issues": 0,
-                "owner": "k-gyuhak",
-                "repo": "WPTP",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (NeurIPS2022) [paper",
               "description": "Zoilsen/CLOM",
               "children": [],
@@ -8373,6 +8352,27 @@
                 "open_issues": 2,
                 "owner": "Zoilsen",
                 "repo": "CLOM",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "A Theoretical Study on Solving Continual Learning (NeurIPS2022) [paper",
+              "description": "k-gyuhak/WPTP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 546292934,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2022-11-04T04:03:06Z",
+                "open_issues": 0,
+                "owner": "k-gyuhak",
+                "repo": "WPTP",
                 "stars": 14,
                 "topics": []
               },
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:01:38.406Z",
+    "last_updated": "2026-11-06T15:37:21.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",

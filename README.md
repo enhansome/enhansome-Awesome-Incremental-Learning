@@ -32,13 +32,13 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 730 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 732 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
 
-* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 275 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
+* <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 276 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
 * <a name="todo"></a> KeepLoRA: Continual Learning with Residual Gradient Adaptation (**ICLR 2026**) \[[paper](https://openreview.net/pdf/5b1c7a77eba775963f7a9e2e29612ab26bd10cd2.pdf)]\[[code](https://github.com/MaolinLuo/KeepLoRA) ⭐ 66 | 🐛 0 | 🌐 Python | 📅 2026-07-21]
 
-* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-10-20]
+* <a name="todo"></a> SAME: Stabilized Mixture-of-Experts for Multimodal Continual Instruction Tuning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2602.01990)]\[[code](https://github.com/LAMDA-CL/Prism) ⭐ 54 | 🐛 3 | 🌐 Python | 📅 2026-10-20]
 
 * <a name="todo"></a> Fly-CL: A Fly-Inspired Framework for Enhancing Efficient Decorrelation and Reduced Training Time in Pre-trained Model-based Continual Representation Learning (**ICLR 2026**) \[[paper](https://openreview.net/forum?id=7UfZAxKo5K)]\[[code](https://github.com/gfyddha/Fly-CL) ⭐ 39 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
 
@@ -64,9 +64,9 @@
 
 * <a name="todo"></a> MedCRP-CL: Continual Medical Image Segmentation via Bayesian Nonparametric Semantic Modality Discovery (**ICML 2026**) \[[paper](https://arxiv.org/abs/2605.20297)]\[[code](https://github.com/zygao930/MedCRP-CL) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-09-19]
 
-* <a name="todo"></a> The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (**ICLR 2026**) \[[paper](https://openreview.net/pdf/bd2df573fd7f06b12f1921f93726ba6c66050149.pdf)]\[[code](https://github.com/AIGNLAI/EDGE) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
+* <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
 
-* <a name="todo"></a> Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (**ICLR 2026**) \[[paper](https://openreview.net/pdf/17c9b41a1d60ea84ffec13175700b3de4897fc22.pdf)]\[[code](https://github.com/datake/FAME) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-03-01]
+* <a name="todo"></a> The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (**ICLR 2026**) \[[paper](https://openreview.net/pdf/bd2df573fd7f06b12f1921f93726ba6c66050149.pdf)]\[[code](https://github.com/AIGNLAI/EDGE) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-10-10]
 
 * <a name="todo"></a> Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Zhang_Beyond_Prompt_Degradation_Prototype-guided_Dual-pool_Prompting_for_Incremental_Object_Detection_CVPR_2026_paper.pdf)]\[[code](https://github.com/zyt95579/PDP_IOD) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2026-05-31]
 
@@ -388,7 +388,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,101 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,102 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
@@ -456,7 +456,7 @@
 
 * <a name="todo"></a> Order-Robust Class Incremental Learning: Graph-Driven Dynamic Similarity Grouping (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2502.20032)]\[[code](https://github.com/AIGNLAI/GDDSG) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-10-16]
 
-* <a name="todo"></a>Reinforced Lifelong Editing for Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.05759)]\[[code](https://github.com/zhrli324/RLEdit) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-02-23]
+* <a name="todo"></a>Reinforced Lifelong Editing for Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.05759)]\[[code](https://github.com/zhrli324/RLEdit) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2025-02-23]
 
 * <a name="todo"></a> KAC: Kolmogorov-Arnold Classifier for Continual Learning (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Hu_KAC_Kolmogorov-Arnold_Classifier_for_Continual_Learning_CVPR_2025_paper.pdf)]\[[code](https://github.com/Ethanhuhuhu/KAC) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2025-07-22]
 
@@ -844,7 +844,7 @@
 
 * <a name="todo"></a> Semantic Residual Prompts for Continual Learning (**ECCV24**)\[[paper](https://arxiv.org/abs/2403.06870)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
-* <a name="todo"></a> Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (**ECCV24**)\[[paper](https://arxiv.org/abs/2404.14351)]\[[code](https://github.com/nianticlabs/acezero) ⭐ 809 | 🐛 1 | 🌐 Python | 📅 2025-11-10]
+* <a name="todo"></a> Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer (**ECCV24**)\[[paper](https://arxiv.org/abs/2404.14351)]\[[code](https://github.com/nianticlabs/acezero) ⭐ 810 | 🐛 1 | 🌐 Python | 📅 2025-11-10]
 
 * <a name="todo"></a> Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters (**CVPR2024**)\[[paper](https://arxiv.org/abs/2403.11549)]\[[code](https://github.com/JiazuoYu/MoE-Adapters4CL) ⭐ 284 | 🐛 9 | 🌐 Python | 📅 2025-09-18]
 
@@ -1399,9 +1399,9 @@
 
 * <a name="todo"></a> R-DFCIL: Relation-Guided Representation Learning for Data-Free Class Incremental Learning (**ECCV2022**) \[[paper](https://arxiv.org/abs/2203.13104)] \[[code](https://github.com/jianzhangcs/r-dfcil) ⭐ 17 | 🐛 0 | 📅 2022-07-23]
 
-* <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) \[[paper](https://arxiv.org/abs/2211.02633)] \[[code](https://github.com/k-gyuhak/WPTP) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-11-04]
+* <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) \[[paper](https://arxiv.org/abs/2210.04524)] \[[code](https://github.com/zoilsen/clom) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2023-02-18]
 
-* <a name="todo"></a> Margin-Based Few-Shot Class-Incremental Learning with Class-Level Overfitting Mitigation (**NeurIPS2022**) \[[paper](https://arxiv.org/abs/2210.04524)] \[[code](https://github.com/zoilsen/clom) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2023-02-18]
+* <a name="todo"></a> A Theoretical Study on Solving Continual Learning (**NeurIPS2022**) \[[paper](https://arxiv.org/abs/2211.02633)] \[[code](https://github.com/k-gyuhak/WPTP) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-11-04]
 
 * <a name="todo"></a> On the Effectiveness of Lipschitz-Driven Rehearsal in Continual Learning (**NeurIPS2022**) \[[paper](https://arxiv.org/abs/2210.06443)] \[[code](https://github.com/aimagelab/lider) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2022-10-13]
 
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
