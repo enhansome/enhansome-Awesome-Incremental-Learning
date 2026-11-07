@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 732 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 733 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 276 | 🐛 3 | 🌐 Python | 📅 2026-05-13]
 
@@ -388,7 +388,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,102 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,104 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 848 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
@@ -434,13 +434,13 @@
 
 * <a name="todo"></a> Policy Compatible Skill Incremental Learning via Lazy Learning Interface (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf?id=jdUrFHVXnn)]\[[code](https://github.com/L2dulgi/SIL-C) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-02-02]
 
+* <a name="todo"></a> Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/56abd1b9e44f24af3bcebd2180eeda7e45eb5cd2.pdf)]\[[code](https://github.com/tanganke/opcm) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
+
 * <a name="todo"></a> Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (**CVPR 2025**) \[[paper](https://openaccess.thecvf.com//content/CVPR2025/papers/Cheng_Stacking_Brick_by_Brick_Aligned_Feature_Isolation_for_Incremental_Face_CVPR_2025_paper.pdf)]\[[code](https://github.com/beautyremain/SUR-LID) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2025-08-15]
 
 * <a name="todo"></a> Do Your Best and Get Enough Rest for Continual Learning (**CVPR 2025**) \[[paper](https://arxiv.org/abs/2503.18371)]\[[code](https://github.com/hankyul2/ViewBatchModel) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-05-22]
 
 * <a name="todo"></a> PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=Iu8FVcUmVp)]\[[code](https://github.com/wang-qiuchen/PseDet) ⭐ 26 | 🐛 1 | 🌐 Python | 📅 2025-09-16]
-
-* <a name="todo"></a> Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (**NeurIPS 2025**) \[[paper](https://openreview.net/pdf/56abd1b9e44f24af3bcebd2180eeda7e45eb5cd2.pdf)]\[[code](https://github.com/tanganke/opcm) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-10-11]
 
 * <a name="todo"></a> TiC-LM: A Web-Scale Benchmark for Time-Continual LLM Pretraining (**ACL 2025**) \[[paper](https://aclanthology.org/2025.acl-long.1551.pdf)]\[[code](https://github.com/apple/ml-tic-lm) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2026-09-11]
 
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

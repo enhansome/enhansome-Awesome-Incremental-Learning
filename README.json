@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 732,
+                "stars": 733,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4102,
+                "stars": 4104,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2324,6 +2324,27 @@
             },
             {
               "node_type": "item",
+              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
+              "description": "tanganke/opcm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
+                "homepage": "https://tanganke.github.io/opcm/",
+                "id": 900708339,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-11T12:15:24Z",
+                "open_issues": 0,
+                "owner": "tanganke",
+                "repo": "opcm",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection (CVPR 2025) [paper",
               "description": "beautyremain/SUR-LID",
               "children": [],
@@ -2383,27 +2404,6 @@
                 "owner": "wang-qiuchen",
                 "repo": "PseDet",
                 "stars": 26,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Merging on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging (NeurIPS 2025) [paper",
-              "description": "tanganke/opcm",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "official code repo for paper \"Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging\"",
-                "homepage": "https://tanganke.github.io/opcm/",
-                "id": 900708339,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-11T12:15:24Z",
-                "open_issues": 0,
-                "owner": "tanganke",
-                "repo": "opcm",
-                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T15:37:21.283Z",
+    "last_updated": "2026-11-07T14:38:00.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
