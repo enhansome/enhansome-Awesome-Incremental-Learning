@@ -301,7 +301,7 @@
                 "open_issues": 3,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1282,7 +1282,7 @@
                 "id": 1191707812,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-04T08:38:02Z",
+                "last_commit": "2026-11-08T07:35:02Z",
                 "open_issues": 3,
                 "owner": "Frank-lilinjie",
                 "repo": "CVPR26-QKD",
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4104,
+                "stars": 4105,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2230,27 +2230,6 @@
             },
             {
               "node_type": "item",
-              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
-              "description": "Fhujinwu/CKA-RL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
-                "homepage": "https://arxiv.org/pdf/2510.19314",
-                "id": 1064471676,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 1,
-                "owner": "Fhujinwu",
-                "repo": "CKA-RL",
-                "stars": 28,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "DMNSP: Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning (ICCV 2025) [paper",
               "description": "RL-VIG/DMNSP",
               "children": [],
@@ -2319,6 +2298,27 @@
                   "skill",
                   "skill-incremental-learning"
                 ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
+              "description": "Fhujinwu/CKA-RL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
+                "homepage": "https://arxiv.org/pdf/2510.19314",
+                "id": 1064471676,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-17T13:18:33Z",
+                "open_issues": 1,
+                "owner": "Fhujinwu",
+                "repo": "CKA-RL",
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -8655,7 +8655,7 @@
                 "open_issues": 4,
                 "owner": "Impression2805",
                 "repo": "CVPR21_PASS",
-                "stars": 119,
+                "stars": 120,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:38:00.691Z",
+    "last_updated": "2026-11-08T14:43:11.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
