@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "LAMDA-CL",
             "repo": "CIL_Survey",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -298,10 +298,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-05-13T03:56:12Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 277,
+                "stars": 279,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -481,7 +481,7 @@
                 "open_issues": 7,
                 "owner": "HHHLF",
                 "repo": "LoDA_ICML2026",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -653,6 +653,27 @@
             },
             {
               "node_type": "item",
+              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
+              "description": "zyt95579/PDP_IOD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
+                "homepage": null,
+                "id": 1169751906,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-05-31T06:51:17Z",
+                "open_issues": 2,
+                "owner": "zyt95579",
+                "repo": "PDP_IOD",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "The Lie of the Average: How Class Incremental Learning Evaluation Deceives You? (ICLR 2026) [paper",
               "description": "AIGNLAI/EDGE",
               "children": [],
@@ -677,27 +698,6 @@
                   "protocol",
                   "robustness"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection (CVPR 2026) [paper",
-              "description": "zyt95579/PDP_IOD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR26] Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
-                "homepage": null,
-                "id": 1169751906,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-05-31T06:51:17Z",
-                "open_issues": 2,
-                "owner": "zyt95579",
-                "repo": "PDP_IOD",
-                "stars": 13,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -745,6 +745,48 @@
             },
             {
               "node_type": "item",
+              "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
+              "description": "Continue-Edge-AI-Lab/ProNC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the official Repository for paper, \"Rethinking Continual Learning with Progressive Neural Collapse\" (ICLR 2026)",
+                "homepage": null,
+                "id": 1164887372,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-02-23T16:52:33Z",
+                "open_issues": 0,
+                "owner": "Continue-Edge-AI-Lab",
+                "repo": "ProNC",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 1,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
+                "stars": 11,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
               "description": "LAMDA-CL/ICML2026-AREA",
               "children": [],
@@ -780,48 +822,6 @@
                 "open_issues": 1,
                 "owner": "Nicolas1203",
                 "repo": "continual_distillation",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Rethinking Continual Learning with Progressive Neural Collapse (ICLR 2026) [paper",
-              "description": "Continue-Edge-AI-Lab/ProNC",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the official Repository for paper, \"Rethinking Continual Learning with Progressive Neural Collapse\" (ICLR 2026)",
-                "homepage": null,
-                "id": 1164887372,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-02-23T16:52:33Z",
-                "open_issues": 0,
-                "owner": "Continue-Edge-AI-Lab",
-                "repo": "ProNC",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 1,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
                 "stars": 10,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4105,
+                "stars": 4110,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1914,7 +1914,7 @@
                 "open_issues": 3,
                 "owner": "jan-ackermann",
                 "repo": "cl-splats",
-                "stars": 68,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T14:43:11.562Z",
+    "last_updated": "2026-11-10T16:01:45.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
