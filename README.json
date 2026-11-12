@@ -301,7 +301,7 @@
                 "open_issues": 4,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 279,
+                "stars": 280,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -787,27 +787,6 @@
             },
             {
               "node_type": "item",
-              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
-              "description": "LAMDA-CL/ICML2026-AREA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
-                "homepage": null,
-                "id": 1234378525,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-11-01T07:00:51Z",
-                "open_issues": 1,
-                "owner": "LAMDA-CL",
-                "repo": "ICML2026-AREA",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Continual Distillation of Teachers from Different Domains (CVPR 2026) [paper",
               "description": "Nicolas1203/continual_distillation",
               "children": [],
@@ -908,6 +887,27 @@
                 "open_issues": 1,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
+                "stars": 10,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning (ICML 2026) [paper",
+              "description": "LAMDA-CL/ICML2026-AREA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+                "homepage": null,
+                "id": 1234378525,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-01T07:00:51Z",
+                "open_issues": 1,
+                "owner": "LAMDA-CL",
+                "repo": "ICML2026-AREA",
                 "stars": 10,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4111,
+                "stars": 4116,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -1956,7 +1956,7 @@
                 "open_issues": 11,
                 "owner": "FuNz-0",
                 "repo": "One-for-More",
-                "stars": 64,
+                "stars": 65,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2925,6 +2925,27 @@
             },
             {
               "node_type": "item",
+              "title": "Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector (ICML 2025) [paper",
+              "description": "fanrena/NSGP-RePRE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[ICML 2025] Official implementation of paper “Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector”.",
+                "homepage": null,
+                "id": 962019725,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-02-26T06:18:05Z",
+                "open_issues": 0,
+                "owner": "fanrena",
+                "repo": "NSGP-RePRE",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML 2025) [paper",
               "description": "RHe502/ICML25-DPCR",
               "children": [],
@@ -2939,6 +2960,27 @@
                 "open_issues": 0,
                 "owner": "RHe502",
                 "repo": "ICML25-DPCR",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization (CVPR 2025) [paper",
+              "description": "MyToumaKazusa/S6MOD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The official repository of CVPR2025 paper \"Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization\"",
+                "homepage": null,
+                "id": 950462943,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-03-23T13:44:15Z",
+                "open_issues": 0,
+                "owner": "MyToumaKazusa",
+                "repo": "S6MOD",
                 "stars": 15,
                 "topics": []
               },
@@ -3023,48 +3065,6 @@
                 "open_issues": 1,
                 "owner": "jinpeng0528",
                 "repo": "SEFE",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector (ICML 2025) [paper",
-              "description": "fanrena/NSGP-RePRE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2025] Official implementation of paper “Demystifying Catastrophic Forgetting in Two-Stage Incremental Object Detector”.",
-                "homepage": null,
-                "id": 962019725,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-02-26T06:18:05Z",
-                "open_issues": 0,
-                "owner": "fanrena",
-                "repo": "NSGP-RePRE",
-                "stars": 14,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization (CVPR 2025) [paper",
-              "description": "MyToumaKazusa/S6MOD",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The official repository of CVPR2025 paper \"Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization\"",
-                "homepage": null,
-                "id": 950462943,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-03-23T13:44:15Z",
-                "open_issues": 0,
-                "owner": "MyToumaKazusa",
-                "repo": "S6MOD",
                 "stars": 14,
                 "topics": []
               },
@@ -3268,27 +3268,6 @@
             },
             {
               "node_type": "item",
-              "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
-              "description": "WoodScene/Recurrent_KIF",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ACL 2025",
-                "homepage": null,
-                "id": 903681986,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-07-21T08:44:08Z",
-                "open_issues": 1,
-                "owner": "WoodScene",
-                "repo": "Recurrent_KIF",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Boosting Domain Incremental Learning: Selecting the Optimal Parameters is All You Need (CVPR 2025) [paper",
               "description": "qwangcv/SOYO",
               "children": [],
@@ -3303,6 +3282,27 @@
                 "open_issues": 4,
                 "owner": "qwangcv",
                 "repo": "SOYO",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Recurrent Knowledge Identification and Fusion for Language Model Continual Learning (ACL 2025) [paper",
+              "description": "WoodScene/Recurrent_KIF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ACL 2025",
+                "homepage": null,
+                "id": 903681986,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-07-21T08:44:08Z",
+                "open_issues": 1,
+                "owner": "WoodScene",
+                "repo": "Recurrent_KIF",
                 "stars": 11,
                 "topics": []
               },
@@ -4417,7 +4417,7 @@
                 "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4447,7 +4447,7 @@
                 "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7796,7 +7796,7 @@
                 "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8735,7 +8735,7 @@
                 "open_issues": 3,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 849,
+                "stars": 851,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T15:47:56.169Z",
+    "last_updated": "2026-11-12T16:31:16.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
