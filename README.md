@@ -388,7 +388,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,116 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,119 | 🐛 8 | 🌐 Python | 📅 2026-10-06]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 851 | 🐛 3 | 🌐 Python | 📅 2026-05-20]
 
@@ -1359,7 +1359,7 @@
 
 * <a name="todo"></a> Learning to Prompt for Continual Learning (**CVPR2022**) \[[paper](https://arxiv.org/abs/2112.08654)] \[[code](https://github.com/google-research/l2p) ⚠️ Archived]
 
-* <a name="todo"></a> Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.00867)] \[[code](https://github.com/DQiaole/ZITS_inpainting) ⭐ 395 | 🐛 5 | 🌐 Python | 📅 2024-02-23]
+* <a name="todo"></a> Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.00867)] \[[code](https://github.com/DQiaole/ZITS_inpainting) ⭐ 396 | 🐛 5 | 🌐 Python | 📅 2024-02-23]
 
 * <a name="todo"></a> Forward Compatible Few-Shot Class-Incremental Learning (**CVPR2022**) \[[paper](https://arxiv.org/abs/2203.06953)] \[[code](https://github.com/zhoudw-zdw/CVPR22-Fact) ⭐ 141 | 🐛 1 | 🌐 Python | 📅 2023-10-31]
 
@@ -1711,7 +1711,7 @@
 * <a name="todo"></a> Mnemonics Training: Multi-Class Incremental Learning without Forgetting (**CVPR2020**) \[[paper](https://arxiv.org/pdf/2002.10211.pdf)] \[[code](https://github.com/yaoyao-liu/mnemonics) ⭐ 473 | 🐛 28 | 🌐 Python | 📅 2025-04-10]
 * <a name="todo"></a> PODNet: Pooled Outputs Distillation for Small-Tasks Incremental Learning (**ECCV2020**) \[[paper](https://arxiv.org/abs/2004.13513)] \[[code](https://github.com/arthurdouillard/incremental_learning.pytorch) ⭐ 411 | 🐛 8 | 🌐 Python | 📅 2023-10-03]
 * <a name="todo"></a> Adversarial Continual Learning (**ECCV2020**) \[[paper](https://arxiv.org/abs/2003.09553)]  \[[code](https://github.com/facebookresearch/Adversarial-Continual-Learning) ⚠️ Archived]
-* <a name="todo"></a> Brain-inspired replay for continual learning with artificial neural networks (**Natrue Communications 2020**) \[[paper](https://www.nature.com/articles/s41467-020-17866-2)] \[[code](https://github.com/GMvandeVen/brain-inspired-replay) ⭐ 253 | 🐛 2 | 🌐 Python | 📅 2023-07-06]
+* <a name="todo"></a> Brain-inspired replay for continual learning with artificial neural networks (**Natrue Communications 2020**) \[[paper](https://www.nature.com/articles/s41467-020-17866-2)] \[[code](https://github.com/GMvandeVen/brain-inspired-replay) ⭐ 254 | 🐛 2 | 🌐 Python | 📅 2023-07-06]
 * <a name="todo"></a> Semantic Drift Compensation for Class-Incremental Learning (**CVPR2020**) \[[paper](https://arxiv.org/pdf/2004.00440.pdf)] \[[code](https://github.com/yulu0724/SDC-IL) ⭐ 120 | 🐛 9 | 🌐 Python | 📅 2020-08-11]
 * <a name="todo"></a> Learning to Continually Learn (**ECAI 2020**) \[[paper](https://arxiv.org/abs/2002.09571)] \[[code](https://github.com/uvm-neurobotics-lab/ANML) ⭐ 118 | 🐛 4 | 🌐 Python | 📅 2020-05-02]
 * <a name="todo"></a> iTAML : An Incremental Task-Agnostic Meta-learning Approach (**CVPR2020**) \[[paper](https://arxiv.org/pdf/2003.11652.pdf)] \[[code](https://github.com/brjathu/iTAML) ⭐ 99 | 🐛 8 | 🌐 Python | 📅 2023-10-03]
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

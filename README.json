@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4116,
+                "stars": 4119,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7876,7 +7876,7 @@
                 "open_issues": 5,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
-                "stars": 395,
+                "stars": 396,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8838,7 +8838,7 @@
                 "open_issues": 2,
                 "owner": "GMvandeVen",
                 "repo": "brain-inspired-replay",
-                "stars": 253,
+                "stars": 254,
                 "topics": [
                   "artificial-neural-networks",
                   "brain-inspired",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T16:31:16.549Z",
+    "last_updated": "2026-11-13T15:52:39.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
