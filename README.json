@@ -569,7 +569,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-04T05:29:40Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "AnAppleCore",
                 "repo": "FlyGCL",
                 "stars": 18,
@@ -884,7 +884,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-23T01:40:29Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "byzhaoAI",
                 "repo": "VILA",
                 "stars": 10,
@@ -1818,7 +1818,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4119,
+                "stars": 4122,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T15:52:39.730Z",
+    "last_updated": "2026-11-14T14:43:14.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4530,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
