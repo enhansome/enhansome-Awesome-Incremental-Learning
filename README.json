@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 733,
+                "stars": 734,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1815,10 +1815,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:03:49Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4122,
+                "stars": 4125,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1890,7 +1890,7 @@
                 "open_issues": 4,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "vision-and-language-navigation",
                   "world-model"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:43:14.348Z",
+    "last_updated": "2026-11-15T15:15:00.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
