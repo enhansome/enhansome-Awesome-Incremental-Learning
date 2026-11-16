@@ -16,7 +16,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-11-05T20:14:56Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
             "stars": 1891,
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 734,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4125,
+                "stars": 4126,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1836,7 +1836,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -4414,7 +4414,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -4444,7 +4444,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -4509,7 +4509,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 284,
+                "stars": 285,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7793,7 +7793,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -7826,7 +7826,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "l2p",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -7851,7 +7851,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "l2p",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -7897,7 +7897,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "CVPR22-Fact",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -8042,7 +8042,7 @@
                 "open_issues": 1,
                 "owner": "JosephKJ",
                 "repo": "ELI",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "continual-learning",
                   "cvpr",
@@ -8732,7 +8732,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T15:15:00.755Z",
+    "last_updated": "2026-11-16T17:50:52.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
