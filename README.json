@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1891,
+            "stars": 1892,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 231,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4126,
+                "stars": 4130,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1835,8 +1835,8 @@
                 "id": 301440607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T13:24:37Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -2946,27 +2946,6 @@
             },
             {
               "node_type": "item",
-              "title": "Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML 2025) [paper",
-              "description": "RHe502/ICML25-DPCR",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML25).",
-                "homepage": null,
-                "id": 981583583,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-10-18T08:53:01Z",
-                "open_issues": 0,
-                "owner": "RHe502",
-                "repo": "ICML25-DPCR",
-                "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization (CVPR 2025) [paper",
               "description": "MyToumaKazusa/S6MOD",
               "children": [],
@@ -3065,6 +3044,27 @@
                 "open_issues": 1,
                 "owner": "jinpeng0528",
                 "repo": "SEFE",
+                "stars": 14,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML 2025) [paper",
+              "description": "RHe502/ICML25-DPCR",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning (ICML25).",
+                "homepage": null,
+                "id": 981583583,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-10-18T08:53:01Z",
+                "open_issues": 0,
+                "owner": "RHe502",
+                "repo": "ICML25-DPCR",
                 "stars": 14,
                 "topics": []
               },
@@ -4413,8 +4413,8 @@
                 "id": 301440607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T13:24:37Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -4443,8 +4443,8 @@
                 "id": 301440607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T13:24:37Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -4623,7 +4623,7 @@
                 "open_issues": 2,
                 "owner": "zqiao11",
                 "repo": "TSCIL",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -7792,8 +7792,8 @@
                 "id": 301440607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T13:24:37Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -7876,7 +7876,7 @@
                 "open_issues": 5,
                 "owner": "DQiaole",
                 "repo": "ZITS_inpainting",
-                "stars": 396,
+                "stars": 397,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7924,7 +7924,7 @@
                 "open_issues": 6,
                 "owner": "DonkeyShot21",
                 "repo": "cassle",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -8731,8 +8731,8 @@
                 "id": 301440607,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-20T20:13:37Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-17T13:24:37Z",
+                "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
                 "stars": 851,
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T17:50:52.351Z",
+    "last_updated": "2026-11-17T17:19:26.932Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
