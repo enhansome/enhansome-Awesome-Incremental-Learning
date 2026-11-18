@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1892,
+            "stars": 1893,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -57,7 +57,7 @@
             "open_issues": 6,
             "owner": "LAMDA-CL",
             "repo": "LAMDA-PILOT",
-            "stars": 613,
+            "stars": 614,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -90,7 +90,7 @@
             "open_issues": 11,
             "owner": "mmasana",
             "repo": "FACIL",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "continual-learning",
               "deep-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 232,
+            "stars": 233,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 736,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -339,7 +339,7 @@
                 "id": 1179691496,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:54:54Z",
+                "last_commit": "2026-11-18T08:46:36Z",
                 "open_issues": 3,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
@@ -613,7 +613,7 @@
                 "id": 1234754188,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T04:49:05Z",
+                "last_commit": "2026-11-17T22:12:16Z",
                 "open_issues": 0,
                 "owner": "zygao930",
                 "repo": "MedCRP-CL",
@@ -1356,6 +1356,27 @@
             },
             {
               "node_type": "item",
+              "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
+              "description": "ouycc/Spectral_MoE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Code for paper \"Spectral Mixture-of-Experts for Continual Learning\"    CVPR 2026",
+                "homepage": null,
+                "id": 631182876,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-03-03T15:50:35Z",
+                "open_issues": 0,
+                "owner": "ouycc",
+                "repo": "Spectral_MoE",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Quantized Gradient Projection for Memory-Efficient Continual Learning (ICLR 2026) [paper",
               "description": "Dongjun0101/Quantized-Gradient-Projection-for-Memory-Efficient-Continual-Learning",
               "children": [],
@@ -1559,27 +1580,6 @@
                 "open_issues": 1,
                 "owner": "savadikarc",
                 "repo": "cheem",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Spectral Mixture-of-Experts for Continual Learning (CVPR 2026) [paper",
-              "description": "ouycc/Spectral_MoE",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for paper \"Spectral Mixture-of-Experts for Continual Learning\"    CVPR 2026",
-                "homepage": null,
-                "id": 631182876,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-03-03T15:50:35Z",
-                "open_issues": 0,
-                "owner": "ouycc",
-                "repo": "Spectral_MoE",
                 "stars": 1,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4130,
+                "stars": 4133,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -1887,7 +1887,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-12-26T07:59:43Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Feliciaxyao",
                 "repo": "NavMorph",
                 "stars": 97,
@@ -4384,7 +4384,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4483,
+                "stars": 4484,
                 "topics": [
                   "agi",
                   "gpt",
@@ -4417,7 +4417,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4447,7 +4447,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4755,7 +4755,7 @@
                 "open_issues": 1,
                 "owner": "mashijie1028",
                 "repo": "Happy-CGCD",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "continual-learning",
                   "machine-learning",
@@ -7250,7 +7250,7 @@
                 "open_issues": 0,
                 "owner": "KevinLight831",
                 "repo": "CTP",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -7796,7 +7796,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8735,7 +8735,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 851,
+                "stars": 853,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T17:19:26.932Z",
+    "last_updated": "2026-11-18T16:53:53.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
