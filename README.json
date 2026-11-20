@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "GMvandeVen",
             "repo": "continual-learning",
-            "stars": 1893,
+            "stars": 1892,
             "topics": [
               "artificial-neural-networks",
               "class-incremental-learning",
@@ -203,7 +203,7 @@
             "open_issues": 2,
             "owner": "YuyangSunshine",
             "repo": "Awesome-Continual-learning-of-Vision-Language-Models",
-            "stars": 234,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4384,7 +4384,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4484,
+                "stars": 4481,
                 "topics": [
                   "agi",
                   "gpt",
@@ -7826,7 +7826,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "l2p",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -7851,7 +7851,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "l2p",
-                "stars": 479,
+                "stars": 478,
                 "topics": [
                   "continual-learning",
                   "deep-learning",
@@ -8803,27 +8803,6 @@
             },
             {
               "node_type": "item",
-              "title": "Adversarial Continual Learning (ECCV2020) [paper",
-              "description": "facebookresearch/Adversarial-Continual-Learning",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Implementation for the paper \"Adversarial Continual Learning\" in PyTorch.",
-                "homepage": null,
-                "id": 224530179,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-05-25T17:37:18Z",
-                "open_issues": 25,
-                "owner": "facebookresearch",
-                "repo": "Adversarial-Continual-Learning",
-                "stars": 254,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Brain-inspired replay for continual learning with artificial neural networks (Natrue Communications 2020) [paper",
               "description": "GMvandeVen/brain-inspired-replay",
               "children": [],
@@ -8838,7 +8817,7 @@
                 "open_issues": 2,
                 "owner": "GMvandeVen",
                 "repo": "brain-inspired-replay",
-                "stars": 254,
+                "stars": 255,
                 "topics": [
                   "artificial-neural-networks",
                   "brain-inspired",
@@ -8858,6 +8837,27 @@
                   "synaptic-intelligence",
                   "variational-autoencoder"
                 ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarial Continual Learning (ECCV2020) [paper",
+              "description": "facebookresearch/Adversarial-Continual-Learning",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "Implementation for the paper \"Adversarial Continual Learning\" in PyTorch.",
+                "homepage": null,
+                "id": 224530179,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-05-25T17:37:18Z",
+                "open_issues": 25,
+                "owner": "facebookresearch",
+                "repo": "Adversarial-Continual-Learning",
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:00:06.485Z",
+    "last_updated": "2026-11-20T16:38:12.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
