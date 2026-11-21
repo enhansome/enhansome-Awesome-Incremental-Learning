@@ -117,7 +117,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-12-23T05:11:36Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
             "stars": 568,
@@ -592,11 +592,32 @@
                 "id": 1152360328,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-03-29T09:41:52Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-20T21:50:15Z",
+                "open_issues": 1,
                 "owner": "Minhchuyentoancbn",
                 "repo": "SMoPE",
                 "stars": 17,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
+              "description": "datake/FAME",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
+                "homepage": null,
+                "id": 1163707488,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-01T02:16:44Z",
+                "open_issues": 2,
+                "owner": "datake",
+                "repo": "FAME",
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -627,27 +648,6 @@
                   "medical-image-segmentation",
                   "medical-vision-language-models"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026) [paper",
-              "description": "datake/FAME",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official Implementation of Principled Fast and Meta Knowledge Learners for Continual Reinforcement Learning (ICLR 2026)",
-                "homepage": null,
-                "id": 1163707488,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-01T02:16:44Z",
-                "open_issues": 2,
-                "owner": "datake",
-                "repo": "FAME",
-                "stars": 15,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4136,
+                "stars": 4138,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -1839,7 +1839,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -2230,6 +2230,27 @@
             },
             {
               "node_type": "item",
+              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
+              "description": "Fhujinwu/CKA-RL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
+                "homepage": "https://arxiv.org/pdf/2510.19314",
+                "id": 1064471676,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-17T13:18:33Z",
+                "open_issues": 1,
+                "owner": "Fhujinwu",
+                "repo": "CKA-RL",
+                "stars": 28,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "DMNSP: Dynamic Multi-Layer Null Space Projection for Vision-Language Continual Learning (ICCV 2025) [paper",
               "description": "RL-VIG/DMNSP",
               "children": [],
@@ -2298,27 +2319,6 @@
                   "skill",
                   "skill-incremental-learning"
                 ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Continual Knowledge Adaptation for Reinforcement Learning (NeurIPS 2025) [paper",
-              "description": "Fhujinwu/CKA-RL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2025] Continual Knowledge Adaptation for Reinforcement Learning",
-                "homepage": "https://arxiv.org/pdf/2510.19314",
-                "id": 1064471676,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-08-17T13:18:33Z",
-                "open_issues": 1,
-                "owner": "Fhujinwu",
-                "repo": "CKA-RL",
-                "stars": 27,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -4417,7 +4417,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -4447,7 +4447,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -7796,7 +7796,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -8735,7 +8735,7 @@
                 "open_issues": 2,
                 "owner": "aimagelab",
                 "repo": "mammoth",
-                "stars": 853,
+                "stars": 852,
                 "topics": [
                   "continual-learning",
                   "dark-experience-replay",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:38:12.879Z",
+    "last_updated": "2026-11-21T15:52:46.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
