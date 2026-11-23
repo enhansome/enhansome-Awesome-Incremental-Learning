@@ -32,7 +32,7 @@
 
 ### 2026
 
-* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 734 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
+* <a name="todo"></a> Self-Distillation Enables Continual Learning (**ICML 2026**) \[[paper](https://arxiv.org/abs/2601.19897)]\[[code](https://github.com/idanshen/Self-Distillation) ⭐ 735 | 🐛 7 | 🌐 Python | 📅 2026-04-07]
 
 * <a name="todo"></a> ExSkill: Continual Learning from Experience and Skills in Multimodal Agents (**ICML 2026**) \[[paper](https://arxiv.org/abs/2603.12056)]\[[code](https://github.com/XSkill-Agent/XSkill) ⭐ 280 | 🐛 5 | 🌐 Python | 📅 2026-05-13]
 
@@ -72,11 +72,11 @@
 
 * <a name="todo"></a> MergeTune: Continued Fine-Tuning of Vision-Language Models (**ICLR 2026**) \[[paper](https://openreview.net/pdf/dc7bd9df5a2b1278492c62046a6415123282688d.pdf)]\[[code](https://github.com/Surrey-UP-Lab/MERGETUNE) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-02-25]
 
+* <a name="todo"></a> Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (**ICLR 2026**) \[[paper](https://arxiv.org/pdf/2509.21413)]\[[code](https://github.com/zihuanqiu/NUFILT) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-03-31]
+
 * <a name="todo"></a> Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (**ICML 2026**) \[[paper](https://arxiv.org/abs/2506.21035)]\[[code](https://github.com/Artificer-AI-Lab/MoRAM) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-06-23]
 
 * <a name="todo"></a> Rethinking Continual Learning with Progressive Neural Collapse (**ICLR 2026**) \[[paper](https://arxiv.org/abs/2505.24254)]\[[code](https://github.com/Continue-Edge-AI-Lab/ProNC) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-02-23]
-
-* <a name="todo"></a> Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (**ICLR 2026**) \[[paper](https://arxiv.org/pdf/2509.21413)]\[[code](https://github.com/zihuanqiu/NUFILT) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-03-31]
 
 * <a name="todo"></a> Continual Distillation of Teachers from Different Domains (**CVPR 2026**) \[[paper](https://openaccess.thecvf.com//content/CVPR2026/papers/Michel_Continual_Distillation_of_Teachers_from_Different_Domains_CVPR_2026_paper.pdf)]\[[code](https://github.com/Nicolas1203/continual_distillation) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-04-13]
 
@@ -388,7 +388,7 @@
 
 ### 2025
 
-* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,138 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
+* <a name="todo"></a> From RAG to Memory: Non-Parametric Continual Learning for Large Language Models (**ICML 2025**) \[[paper](https://arxiv.org/pdf/2502.14802)]\[[code](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,140 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
 
 * <a name="todo"></a>A Second-Order Perspective on Model Compositionality and Incremental Learning (**ICLR 2025**) \[[paper](https://openreview.net/forum?id=OZVTqoli2N)]\[[code](https://github.com/aimagelab/mammoth) ⭐ 852 | 🐛 2 | 🌐 Python | 📅 2026-11-17]
 
@@ -860,7 +860,7 @@
 
 * <a name="todo"></a> Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (**ECCV24**)\[[paper](https://arxiv.org/abs/2407.05342)]\[[code](https://github.com/lloongx/DIKI) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2024-07-09]
 
-* <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)\[[paper](https://arxiv.org/abs/2404.02117)]\[[code](https://github.com/KHU-AGI/PriViLege) ⭐ 58 | 🐛 4 | 🌐 Python | 📅 2024-09-05]
+* <a name="todo"></a> Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (**CVPR2024**)\[[paper](https://arxiv.org/abs/2404.02117)]\[[code](https://github.com/KHU-AGI/PriViLege) ⭐ 58 | 🐛 5 | 🌐 Python | 📅 2024-09-05]
 
 * <a name="todo"></a> Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion (**ECCV24**)\[[paper](https://arxiv.org/abs/2407.14143)]\[[code](https://github.com/linlany/RAPF) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2025-04-05]
 
@@ -1859,4 +1859,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._

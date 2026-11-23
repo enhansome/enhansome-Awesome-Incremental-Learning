@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 734,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -724,6 +724,27 @@
             },
             {
               "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 1,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
               "description": "Artificer-AI-Lab/MoRAM",
               "children": [],
@@ -759,27 +780,6 @@
                 "open_issues": 0,
                 "owner": "Continue-Edge-AI-Lab",
                 "repo": "ProNC",
-                "stars": 11,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 1,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
                 "stars": 11,
                 "topics": []
               },
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4138,
+                "stars": 4140,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4668,7 +4668,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-09-05T03:52:21Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "KU-VGI",
                 "repo": "PriViLege",
                 "stars": 58,
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:52:14.324Z",
+    "last_updated": "2026-11-23T19:46:17.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
