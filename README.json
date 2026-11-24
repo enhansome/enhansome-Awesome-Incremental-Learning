@@ -120,7 +120,7 @@
             "open_issues": 1,
             "owner": "Wang-ML-Lab",
             "repo": "llm-continual-learning-survey",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "continual-learning",
               "large-language-model",
@@ -145,7 +145,7 @@
             "open_issues": 7,
             "owner": "RaptorMai",
             "repo": "online-continual-learning",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "catastrophic-forgetting",
               "class-incremental-learning",
@@ -301,7 +301,7 @@
                 "open_issues": 5,
                 "owner": "XSkill-Agent",
                 "repo": "XSkill",
-                "stars": 280,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "continual-learning",
                   "incremental-learning",
@@ -724,27 +724,6 @@
             },
             {
               "node_type": "item",
-              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
-              "description": "zihuanqiu/NUFILT",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
-                "homepage": null,
-                "id": 1195344604,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-03-31T16:25:24Z",
-                "open_issues": 1,
-                "owner": "zihuanqiu",
-                "repo": "NUFILT",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Little By Little: Continual Learning via Incremental Mixture of Rank-1 Associative Memory Experts (ICML 2026) [paper",
               "description": "Artificer-AI-Lab/MoRAM",
               "children": [],
@@ -759,6 +738,27 @@
                 "open_issues": 1,
                 "owner": "Artificer-AI-Lab",
                 "repo": "MoRAM",
+                "stars": 13,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity (ICLR 2026) [paper",
+              "description": "zihuanqiu/NUFILT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "About The code repository for \"Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity\" (ICLR 2026) in PyTorch.",
+                "homepage": null,
+                "id": 1195344604,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-03-31T16:25:24Z",
+                "open_issues": 1,
+                "owner": "zihuanqiu",
+                "repo": "NUFILT",
                 "stars": 12,
                 "topics": []
               },
@@ -4384,7 +4384,7 @@
                 "open_issues": 120,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4481,
+                "stars": 4482,
                 "topics": [
                   "agi",
                   "gpt",
@@ -5070,6 +5070,32 @@
             },
             {
               "node_type": "item",
+              "title": "Class Incremental Learning via Likelihood Ratio Based Task Prediction (ICLR2024)[paper",
+              "description": "linhaowei1/TPL",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "✌[ICLR 2024] Class Incremental Learning via Likelihood Ratio Based Task Prediction",
+                "homepage": "https://arxiv.org/abs/2309.15048",
+                "id": 696309564,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-10-29T05:56:18Z",
+                "open_issues": 3,
+                "owner": "linhaowei1",
+                "repo": "TPL",
+                "stars": 32,
+                "topics": [
+                  "class-incremental-learning",
+                  "continual-learning",
+                  "likelihood-ratio-test",
+                  "ood-detection"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Online Continual Learning for Interactive Instruction Following Agents (ICLR2024)[paper",
               "description": "snumprlab/cl-alfred",
               "children": [],
@@ -5110,32 +5136,6 @@
                   "cil",
                   "class-incremental-learning",
                   "continual-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Class Incremental Learning via Likelihood Ratio Based Task Prediction (ICLR2024)[paper",
-              "description": "linhaowei1/TPL",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "✌[ICLR 2024] Class Incremental Learning via Likelihood Ratio Based Task Prediction",
-                "homepage": "https://arxiv.org/abs/2309.15048",
-                "id": 696309564,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-10-29T05:56:18Z",
-                "open_issues": 3,
-                "owner": "linhaowei1",
-                "repo": "TPL",
-                "stars": 31,
-                "topics": [
-                  "class-incremental-learning",
-                  "continual-learning",
-                  "likelihood-ratio-test",
-                  "ood-detection"
                 ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5537,6 +5537,29 @@
             },
             {
               "node_type": "item",
+              "title": "Exemplar-free Continual Representation Learning via Learnable Drift Compensation (ECCV24)[paper",
+              "description": "alviur/ldc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Learnable drift compensation (LDC) reduces semantic drift in continual learning using a trainable projector to map between tasks.",
+                "homepage": null,
+                "id": 824037609,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2024-11-13T18:57:15Z",
+                "open_issues": 1,
+                "owner": "alviur",
+                "repo": "ldc",
+                "stars": 20,
+                "topics": [
+                  "continual-learning"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Learning to Continually Learn with the Bayesian Principle (ICML24)[paper",
               "description": "soochan-lee/SB-MCL",
               "children": [],
@@ -5616,29 +5639,6 @@
                 "repo": "imbalanced_cil",
                 "stars": 20,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Exemplar-free Continual Representation Learning via Learnable Drift Compensation (ECCV24)[paper",
-              "description": "alviur/ldc",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learnable drift compensation (LDC) reduces semantic drift in continual learning using a trainable projector to map between tasks.",
-                "homepage": null,
-                "id": 824037609,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-11-13T18:57:15Z",
-                "open_issues": 1,
-                "owner": "alviur",
-                "repo": "ldc",
-                "stars": 19,
-                "topics": [
-                  "continual-learning"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -8563,7 +8563,7 @@
                 "open_issues": 7,
                 "owner": "RaptorMai",
                 "repo": "online-continual-learning",
-                "stars": 426,
+                "stars": 427,
                 "topics": [
                   "catastrophic-forgetting",
                   "class-incremental-learning",
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:46:17.334Z",
+    "last_updated": "2026-11-24T19:17:19.148Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
