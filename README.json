@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 735,
+                "stars": 736,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -390,7 +390,7 @@
                 "open_issues": 0,
                 "owner": "libo-huang",
                 "repo": "preprompt",
-                "stars": 36,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-10-26T14:47:38.193Z"
@@ -1855,6 +1855,30 @@
             },
             {
               "node_type": "item",
+              "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV 2025) [paper",
+              "description": "Feliciaxyao/NavMorph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV'25).",
+                "homepage": null,
+                "id": 891938771,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-12-26T07:59:43Z",
+                "open_issues": 5,
+                "owner": "Feliciaxyao",
+                "repo": "NavMorph",
+                "stars": 98,
+                "topics": [
+                  "vision-and-language-navigation",
+                  "world-model"
+                ]
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "SD-LoRA: Scalable Decoupled Low-Rank Adaptation for Class Incremental Learning (ICLR 2025) [paper",
               "description": "WuYichen-97/SD-Lora-CL",
               "children": [],
@@ -1871,30 +1895,6 @@
                 "repo": "SD-Lora-CL",
                 "stars": 98,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV 2025) [paper",
-              "description": "Feliciaxyao/NavMorph",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official implementation of NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments (ICCV'25).",
-                "homepage": null,
-                "id": 891938771,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-12-26T07:59:43Z",
-                "open_issues": 5,
-                "owner": "Feliciaxyao",
-                "repo": "NavMorph",
-                "stars": 97,
-                "topics": [
-                  "vision-and-language-navigation",
-                  "world-model"
-                ]
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
             },
@@ -4509,7 +4509,7 @@
                 "open_issues": 9,
                 "owner": "JiazuoYu",
                 "repo": "MoE-Adapters4CL",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -4636,6 +4636,27 @@
             },
             {
               "node_type": "item",
+              "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
+              "description": "KU-VGI/PriViLege",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners",
+                "homepage": null,
+                "id": 774162879,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-09-05T03:52:21Z",
+                "open_issues": 6,
+                "owner": "KU-VGI",
+                "repo": "PriViLege",
+                "stars": 59,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
               "title": "Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models (ECCV24)[paper",
               "description": "lloongx/DIKI",
               "children": [],
@@ -4650,27 +4671,6 @@
                 "open_issues": 0,
                 "owner": "lloongx",
                 "repo": "DIKI",
-                "stars": 58,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners (CVPR2024)[paper",
-              "description": "KU-VGI/PriViLege",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR 2024] PriViLege: Pre-trained Vision and Language Transformers Are Few-Shot Incremental Learners",
-                "homepage": null,
-                "id": 774162879,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-09-05T03:52:21Z",
-                "open_issues": 5,
-                "owner": "KU-VGI",
-                "repo": "PriViLege",
                 "stars": 58,
                 "topics": []
               },
@@ -8877,7 +8877,7 @@
                 "open_issues": 9,
                 "owner": "yulu0724",
                 "repo": "SDC-IL",
-                "stars": 120,
+                "stars": 121,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T19:17:19.148Z",
+    "last_updated": "2026-11-25T18:22:04.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
