@@ -340,7 +340,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T08:46:36Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
                 "stars": 55,
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4140,
+                "stars": 4142,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -5425,7 +5425,7 @@
                 "open_issues": 0,
                 "owner": "Zi-Jian-Gao",
                 "repo": "Stabilizing-Zero-Shot-Prediction-ZAF",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T18:22:04.497Z",
+    "last_updated": "2026-11-26T18:03:46.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
