@@ -280,7 +280,7 @@
                 "open_issues": 7,
                 "owner": "idanshen",
                 "repo": "Self-Distillation",
-                "stars": 736,
+                "stars": 739,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -339,8 +339,8 @@
                 "id": 1179691496,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T08:46:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-27T08:05:00Z",
+                "open_issues": 2,
                 "owner": "LAMDA-CL",
                 "repo": "Prism",
                 "stars": 55,
@@ -1818,7 +1818,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4142,
+                "stars": 4145,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2120,27 +2120,6 @@
             },
             {
               "node_type": "item",
-              "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
-              "description": "MaolinLuo/LADA",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 985654567,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2025-08-26T12:50:24Z",
-                "open_issues": 1,
-                "owner": "MaolinLuo",
-                "repo": "LADA",
-                "stars": 41,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T19:50:56.096Z"
-            },
-            {
-              "node_type": "item",
               "title": "Self-Expansion of Pre-trained Models with Mixture of Adapters for Continual Learning (CVPR 2025) [paper",
               "description": "huiyiwang01/SEMA-CL",
               "children": [],
@@ -2156,6 +2135,27 @@
                 "owner": "huiyiwang01",
                 "repo": "SEMA-CL",
                 "stars": 41,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:50:56.096Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LADA: Scalable Label-Specific CLIP Adapter for Continual Learning (ICML 2025) [paper",
+              "description": "MaolinLuo/LADA",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 985654567,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-08-26T12:50:24Z",
+                "open_issues": 1,
+                "owner": "MaolinLuo",
+                "repo": "LADA",
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -2704,7 +2704,7 @@
                 "open_issues": 1,
                 "owner": "LAMDA-CL",
                 "repo": "ICCV2025-TUNA",
-                "stars": 20,
+                "stars": 19,
                 "topics": [
                   "class-incremental-learning",
                   "continual-learning",
@@ -7022,7 +7022,7 @@
                 "open_issues": 4,
                 "owner": "muzairkhattak",
                 "repo": "PromptSRC",
-                "stars": 291,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:50:56.096Z"
@@ -9617,7 +9617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T18:03:46.350Z",
+    "last_updated": "2026-11-27T17:47:30.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Incremental Learning",
@@ -9629,7 +9629,7 @@
       "open_issues": 7,
       "owner": "xialeiliu",
       "repo": "Awesome-Incremental-Learning",
-      "stars": 4529,
+      "stars": 4531,
       "topics": []
     },
     "original_repository_sha": "443b8644469f70f824ffe16b6bbb34c781c3d327",
